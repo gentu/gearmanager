@@ -28,9 +28,6 @@
                     <item>Gear 2 Lite</item>
                 </group>
             </devices>
-            <additional-packages>
-                <package optional="true">com.samsung.svoiceprovider</package>
-            </additional-packages>
         </module-info>
 
         <module-info containerName="com.samsung.android.gear2smodule" pluginName="com.samsung.android.gear2plugin">
