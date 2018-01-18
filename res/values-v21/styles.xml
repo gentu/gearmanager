@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TransActivityFullScreen" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorPrimary">@color/boundry_effect_color</item>
+    </style>
+    <style name="TransActivityFullScreenWithActionbar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:progressBarStyle">@android:style/Widget.DeviceDefault.ProgressBar</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:actionBarSize">@dimen/action_bar_h</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:actionMenuTextColor">@color/action_bar_menu_textcolor</item>
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="android:navigationIcon">@drawable/tw_ic_ab_back_mtrl</item>
+        <item name="android:colorEdgeEffect">@color/boundry_effect_color</item>
+    </style>
+    <style name="setupProgressBar" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
+        <item name="android:progressTint">@color/setup_progress_tint</item>
+        <item name="android:progressBackgroundTint">@color/setup_progress_background_tint</item>
+        <item name="android:indeterminateTint">@color/setup_progress_tint</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+    </style>
+    <style name="Theme.ActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:displayOptions">showTitle</item>
+    </style>
+</resources>

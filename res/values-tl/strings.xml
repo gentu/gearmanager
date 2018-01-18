@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Pinahihintulutan ang app na ilipat ang iyong data sa pamamagitan ng Bluetooth gamit ang accessory framework.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Naglilipat ng data gamit ang framework</string>
+    <string name="access_connected_device_status">Katayuan ng access na device koneksyon</string>
+    <string name="access_connected_device_status_description">Ang application na ito ay maaaring i-access ang status ng koneksyon ng nasusuot na device.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Wawakasan nito ang iyong koneksyon sa %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Awtomatikong sundan at itala ang data ng pagehersisyo mo.</string>
+    <string name="auto_activity_title">I-awto track ang mga pagehersisyo</string>
+    <string name="auto_reinstalled">Na-delete ang mahahalagang file. Muling in-install ang mga file ng Gear Manager.</string>
+    <string name="button_scan_again">Mag-scan ulit.</string>
+    <string name="button_start_scan_devices">I-scan</string>
+    <string name="button_stop_scan_devices">Ihinto</string>
+    <string name="button_text_bluetooth_turn_on">I-on</string>
+    <string name="cancel">Ikansela</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Plug-in ng Gear S</string>
+    <string name="connect_popup_content">Kumukonekta</string>
+    <string name="connected">Nakakonekta</string>
+    <string name="custom_binary_error_dialog_title">Nabago ang operating system ng telepono mo sa paraang hindi awtorisado at hindi ito akma para sa Samsung Gear app. Suriin ang operating system at subukang muli.</string>
+    <string name="deleting_unused_file">Dine-delete ang mga hindi nagamit na file mula sa nakaraang bersyon…</string>
+    <string name="dialog_popup_button_cancel">Ikansela</string>
+    <string name="dialog_popup_button_later">Mamaya</string>
+    <string name="dialog_popup_button_update">I-update</string>
+    <string name="dialog_warning">May Babala</string>
+    <string name="disconnect_and_backup_msg">Mangyaring maghintay…</string>
+    <string name="do_not_show_again">Huwag ipakitang muli</string>
+    <string name="download_failure_message">Nabigo ang pag-download. Subukang muli.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Wala ang akin dito</string>
+    <string name="general_app_name_for_reinstall">ang Samsung Gear application</string>
+    <string name="gsp_tracking_body">Sundan ang mga ruta ng pagehersisyo mo at makakuha ng mas tumpak na impormasyon.</string>
+    <string name="gsp_tracking_title">GPS tracking</string>
+    <string name="install_from_play_store">I-tap ang OK para i-install ang %s para paganahin ang paglipat ng data sa pagitan ng Gear at telepono mo.</string>
+    <string name="lets_pair_up">Mag-pair tayo</string>
+    <string name="loading">Naglo-load…</string>
+    <string name="make_sure_both_passkey">Nagtutugma ba ang mga passkey na nasa telepono at Gear mo? Sa gayon ay oras nang mag-pair.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Nadiskonekta ang Gear.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Hindi mabuksan ang %s sa Maximum power saving mode.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Hindi mabuksan ang app</string>
+    <string name="no_earbud_body">Kung mayroon kang set ng %s earbuds, ilabas ang mga ito mula sa charging case at isuot sa mga tainga mo.</string>
+    <string name="no_gear_body">"Huwag mag-alala! Una sa lahat, silipin na naka-on talaga ang Gear mo.
+
+Kung naka-on ito, pumunta sa Settings at piliin ang Reset gear. Lilitaw na ito dapat sa lista ng mga Gear device."</string>
+    <string name="no_gear_description">Hindi lumilitaw ang Gear?</string>
+    <string name="no_network_message">Walang mahanap na anumang magagamit na network.</string>
+    <string name="no_network_title">Walang koneksiyon sa network</string>
+    <string name="none_paired">Walang mga naka-pair na device.</string>
+    <string name="not_now">Mamaya</string>
+    <string name="not_supported_device_or_version">Alamin kung akma ang telepono mo at kung kailangang i-update ang Samsung Gear, pagkatapos ay subukang muli.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Nakapares</string>
+    <string name="pass_key">Passkey</string>
+    <string name="permission_dialog_body">"Kailangan ang mga sumusunod na pahintulot para sa serbisyo ng app. Para sa mga opsiyonal na pahintulot, naka-on ang default na function ng serbisyo, pero hindi pinayagan.
+
+Mga kailangang pahintulot
+• Location: Ginagamit para humanap ng malalapit na device para sa Gear gamit ang Bluetooth
+• Storage: Ginagamit para magpadala at tumanggap ng mga naka-imbak na file sa Gear
+• Telepono: Ginagamit para suriin ang impormasyon sa pagkakakilanlan na bukod-tangi para sa device para sa pag-update ng mga app at pag-install ng mga plug-in app
+
+Mga opsiyonal na pahintulot
+• Contacts: Ginagamit para magbigay ng mga serbisyo na kailangang i-link sa mga account gamit ang impormasyon ng nakarehistrong Samsung account"</string>
+    <string name="permission_dialog_title">Mga pahintulot sa app</string>
+    <string name="permission_settings_dialog_message">Hindi magamit ang %s. I-tap ang SETTINGS, tapos ay payagan ang mga sumusunod na pahintulot at subukang muli:</string>
+    <string name="pick_gear">Piliin ang Gear mo</string>
+    <string name="popup_message_bluetooth_turn_on">Naka-off ang Bluetooth. I-tap ang I-on para i-on ito.</string>
+    <string name="popup_title_message_bluetooth_turn_on">I-on ang Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Ikonekta ang bagong Gear</string>
+    <string name="preparing_connect_and_install">Naghahandang kumonekta…</string>
+    <string name="reboot">I-restart</string>
+    <string name="reboot_phone_message">Nai-update ang Samsung Accessory Service. I-restart ang telepono mo para kumonekta sa Gear mo.</string>
+    <string name="retry">Subukan muli</string>
+    <string name="scan_all_gear_nearby">Mag-scan ng malapit na Gear</string>
+    <string name="scanning">Nagsa-scan…</string>
+    <string name="search_again">Maghanap muli</string>
+    <string name="select_gear_to_connect">Piliin ang Gear kung saan mo gustong kumonekta.</string>
+    <string name="settings">Mga setting</string>
+    <string name="setup_connection_dialog_body">Kumonekta sa %s?</string>
+    <string name="setup_message_almost_there">Halos naroon na.</string>
+    <string name="setup_message_download">Naghahandang kumonekta…</string>
+    <string name="setup_message_install">Sini-setup ang telepono mo…</string>
+    <string name="start_journey">Simulan ang paglakbay</string>
+    <string name="step_body">Mag-set ng mga paghamon at ihambing ang bilang ng hakbang mo sa mga kaibigan.</string>
+    <string name="step_title">Mga paghamon sa hakbang</string>
+    <string name="title_other_devices">Mga available na device</string>
+    <string name="title_paired_devices">Mga na-pair na device</string>
+    <string name="toast_text_for_reinstall">Ang %1$s ay mananatili sa iyong device kahit pagkatapos na i-uninstall ang %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Hindi ma-install ang karagdagang software (%s MB). Kulang ang espasyo ng iyong device storage. Tanggalin ang ilang file at subukan muli.</string>
+    <string name="uhm_update_download_progress">Dina-download ang update…</string>
+    <string name="uhm_update_exist_notification_subtitle">May bagong bersyon na available.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Hindi maikonekta ang ilang nai-scan na Gear sa telepono mo. I-tap ang UPDATE para i-update ang %s app sa pinakabagong bersiyon, tapos ay subukang muli.</string>
+    <string name="uhm_update_install_disconnect_device">Idinidiskonekta mula sa %s…</string>
+    <string name="uhm_update_install_error">Hindi na-install.</string>
+    <string name="uhm_update_install_progress">Nag-i-install ng karagdagang software…</string>
+    <string name="uhm_update_notice">Paunawa</string>
+    <string name="uhm_update_notice_content">May bagong bersiyon na magagamit. I-update ang app para magpatuloy.</string>
+    <string name="uhm_update_notice_content_tUHM">Magsasara ang %s app pagkatapos na i-download ang update. Muling buksan ang app para tapusin ang pag-update.</string>
+    <string name="use_network_connection_dialog_body">Kailangan ni %s na gumamit ng mga Koneksyon sa network para gumana nang normal. Payagan?</string>
+    <string name="use_network_connection_dialog_title">Gamitin ang mga koneksyon sa network</string>
+    <string name="welcome_no_device_found">Pagkatapos mong i-on ang mga Gear device mo, ipapakita ang mga iyon dito.</string>
+    <string name="welcome_no_device_found_description">Kung naka-on nang maayos ang Gear mo pero hindi nakikita rito, pumunta sa Settings > Gear info, tapos piliin ang Reset Gear sa Gear para i-reset ito sa factory default na mga setting.</string>
+    <string name="welcome_no_device_found_title">Walang Gear device</string>
+    <string name="welcome_select_notice_not_enough_memory">Makakakonekta lang ang ilang orasan ng Gear sa mga telepono na may higit sa %1$s %2$s na memory.</string>
+    <string name="welcome_select_your_gear">Piliin ang iyong Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Piliin ang Gear na kokonektahan.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Kumonekta sa Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Button</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Makipag-ugnayan sa amin</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Pinahuhusay ang karanasan sa nasusuot gamit ang Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Alamin pa</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Matutukoy ng app na ito ang lokasyon mo at maa-access nito ang device storage mo.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Hinahanap sa Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Welcome</string>
+    <string name="which_gear">Mga Gear na natunton sa malapit</string>
+</resources>

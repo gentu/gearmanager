@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_item_height">229.0dip</dimen>
+    <dimen name="grid_item_width">176.0dip</dimen>
+    <dimen name="pairing_loading_text_size">24.0dip</dimen>
+    <dimen name="pairing_pincode_size">44.0dip</dimen>
+    <dimen name="pairing_pincode_title_bottom_margin">15.0dip</dimen>
+    <dimen name="pairing_pincode_title_size">19.0dip</dimen>
+    <dimen name="pairing_pincode_view_height">49.0dip</dimen>
+    <dimen name="pairing_pincode_view_width">181.0dip</dimen>
+    <dimen name="pick_gear_name_size">16.0dip</dimen>
+    <dimen name="promotion_top_image_height">156.0dip</dimen>
+</resources>

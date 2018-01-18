@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Dopušta aplikaciji da prenosi vaše podatke putem Bluetootha pomoću okvira priključka.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Prijenos podataka putem okvira</string>
+    <string name="access_connected_device_status">Pristup statusu veze uređaja</string>
+    <string name="access_connected_device_status_description">Ova aplikacija može pristupiti statusu veze uređaja za nošenje.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Na ovaj će se način prekinuti veza s %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Automatski pratite i bilježite svoje podatke o vježbanju.</string>
+    <string name="auto_activity_title">Auto. praćenje vjež.</string>
+    <string name="auto_reinstalled">Izbrisane važne datoteke. Ponovno su instalirane datoteke Gear Managera.</string>
+    <string name="button_scan_again">Traži ponovno</string>
+    <string name="button_start_scan_devices">Skeniraj</string>
+    <string name="button_stop_scan_devices">Zaustavi</string>
+    <string name="button_text_bluetooth_turn_on">Uključi</string>
+    <string name="cancel">Prekid</string>
+    <string name="com_samsung_accessory">Samsung usluga za dodatnu opremu</string>
+    <string name="com_samsung_android_gearoplugin">Dodatak za Gear S</string>
+    <string name="connect_popup_content">Spajanje</string>
+    <string name="connected">Povezano</string>
+    <string name="custom_binary_error_dialog_title">Operacijski sustav na telefonu neovlašteno je promijenjen i nije kompatibilan s aplikacijom Samsung Gear. Provjerite svoj operacijski sustav i pokušajte ponovno.</string>
+    <string name="deleting_unused_file">Brisanje nekorištenih datoteke s prijašnje verzije…</string>
+    <string name="dialog_popup_button_cancel">Prekid</string>
+    <string name="dialog_popup_button_later">Kasnije</string>
+    <string name="dialog_popup_button_update">Aktualiziraj</string>
+    <string name="dialog_warning">Upozorenje</string>
+    <string name="disconnect_and_backup_msg">Pričekajte…</string>
+    <string name="do_not_show_again">Ne prikazuj više</string>
+    <string name="download_failure_message">Skidanje neuspješno. Pokušajte ponovno.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Ne nalazi se ovdje</string>
+    <string name="general_app_name_for_reinstall">aplikacije Samsung Gear</string>
+    <string name="gsp_tracking_body">Pratite svoje rute vježbanja i primite točnije podatke.</string>
+    <string name="gsp_tracking_title">GPS praćenje</string>
+    <string name="install_from_play_store">Dodirnite U REDU da biste instalirali %s za omogućivanje prijenosa podataka između Geara i telefona.</string>
+    <string name="lets_pair_up">Uparimo se</string>
+    <string name="loading">Učitavanje…</string>
+    <string name="make_sure_both_passkey">Podudaraju li se pristupni ključevi na telefonu i Gearu? Vrijeme je da ih uparite.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear je odspojen.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Nije moguće otvoriti aplikaciju %s u Maksimalnoj štednji baterije.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Nemoguće otvoriti aplik.</string>
+    <string name="no_earbud_body">Ako imate slušalice za %s, uzmite ih iz stalka za punjenje i stavite ih u uši.</string>
+    <string name="no_gear_body">"Ne brinite se! Najprije provjerite je li vaš Gear uključen.
+
+Ako jest, idite na Postavke i odaberite Ponovno postavi Gear. Zatim bi se trebao pojaviti na popisu uređaja Gear."</string>
+    <string name="no_gear_description">Gear se ne pojavljuje?</string>
+    <string name="no_network_message">Nije moguće pronaći dostupne mreže.</string>
+    <string name="no_network_title">Nema mrežne veze</string>
+    <string name="none_paired">Nema uparenih uređaja.</string>
+    <string name="not_now">Kasnije</string>
+    <string name="not_supported_device_or_version">Provjerite je li vaš telefon kompatibilan i je li potrebna aktualizacija aplikacije Samsung Gear, a zatim pokušajte ponovno.</string>
+    <string name="ok">U redu</string>
+    <string name="paired">Upareno</string>
+    <string name="pass_key">Pristupni ključ</string>
+    <string name="permission_dialog_body">"Potrebna su sljedeća dopuštenja za uslugu aplikacije. Za neobavezna dopuštenja uključena je zadana funkcionalnost usluge, ali nije dopuštena.
+
+Potrebna dopuštenja
+• Lokacija: upotrebljava se za traženje uređaja u blizini za Gear putem Bluetootha
+• Memorija: upotrebljava se za prenošenje i primanje spremljenih datoteka putem uređaja Gear
+• Telefon: upotrebljava se za provjeru identifikacijskih podataka jedinstvenih za uređaj za aktualizaciju aplikacija i instalaciju dodatnih aplikacija
+
+Neobavezna dopuštenja
+• Imenik: upotrebljava se za pružanje usluga koje se trebaju povezati s računima putem registriranih podataka o računu Samsung account"</string>
+    <string name="permission_dialog_title">Dopuštenja za aplikacije</string>
+    <string name="permission_settings_dialog_message">Nije moguće upotrebljavati funkciju %s. Dodirnite POSTAVKE, a zatim dajte sljedeće dozvole i pokušajte ponovno:</string>
+    <string name="pick_gear">Odabir uređaja Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth je isključen. Dodirnite Uključi da biste ga uključili.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Uključi Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Poveži novi Gear</string>
+    <string name="preparing_connect_and_install">Priprema za povezivanje…</string>
+    <string name="reboot">Po. pok.</string>
+    <string name="reboot_phone_message">Aktualizirana je Samsung usluga za dodatnu opremu. Ponovno pokrenite telefon za povezivanje na Gear.</string>
+    <string name="retry">Ponovi</string>
+    <string name="scan_all_gear_nearby">Traži Gear u blizini</string>
+    <string name="scanning">Pretraživanje…</string>
+    <string name="search_again">Traži ponovno</string>
+    <string name="select_gear_to_connect">Odaberite Gear na koji se želite spojiti.</string>
+    <string name="settings">Postavke</string>
+    <string name="setup_connection_dialog_body">Povezati na %s?</string>
+    <string name="setup_message_almost_there">Još samo malo.</string>
+    <string name="setup_message_download">Priprema za povezivanje…</string>
+    <string name="setup_message_install">Postavljanje telefona…</string>
+    <string name="start_journey">Započni putovanje</string>
+    <string name="step_body">Postavite izazove i usporedite broj koraka s prijateljima.</string>
+    <string name="step_title">Izazovi prij. koraka</string>
+    <string name="title_other_devices">Dostupni uređaji</string>
+    <string name="title_paired_devices">Upareni uređaji</string>
+    <string name="toast_text_for_reinstall">%1$s će ostati na uređaju čak i nakon deinstalacije %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Nije moguće instalirati dodatni softver (%s MB). Nema dovoljno prostora u memoriji uređaja. Izbrišite neke datoteke i pokušajte ponovno.</string>
+    <string name="uhm_update_download_progress">Skidanje aktualizacije…</string>
+    <string name="uhm_update_exist_notification_subtitle">Dostupna je nova verzija.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Neki od pronađenih Gearova ne mogu se povezati s telefonom. Dodirnite AKTUALIZIRAJ za aktualizaciju aplikacije %s na najnoviju verziju, a zatim pokušajte ponovno.</string>
+    <string name="uhm_update_install_disconnect_device">Odspajanje od %s…</string>
+    <string name="uhm_update_install_error">Instaliranje nije uspjelo</string>
+    <string name="uhm_update_install_progress">Instaliranje dodatnog softvera…</string>
+    <string name="uhm_update_notice">Obavijest</string>
+    <string name="uhm_update_notice_content">Dostupna je nova inačica. Aktualizirajte aplikaciju za nastavak.</string>
+    <string name="uhm_update_notice_content_tUHM">Aplikacija %s zatvorit će se nakon preuzimanja aktualizacije. Ponovno otvorite aplikaciju za dovršetak aktualizacije.</string>
+    <string name="use_network_connection_dialog_body">%s zahtijeva upotrebu mrežnih veza za normalan rad. Dopustiti?</string>
+    <string name="use_network_connection_dialog_title">Upotreba mrežnih veza</string>
+    <string name="welcome_no_device_found">Uređaji Gear prikazat će se ovdje nakon što ih uključite.</string>
+    <string name="welcome_no_device_found_description">Ako je Gear ispravno uključen, ali se ne prikazuje ovdje, idite u Postavke > Informacije o Gearu, a zatim odaberite Ponovno postavi Gear da biste ga vratili na tvornički zadane postavke.</string>
+    <string name="welcome_no_device_found_title">Nema uređaja Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Neki satovi Gear mogu se povezati samo na telefone koji imaju više od %1$s %2$s memorije.</string>
+    <string name="welcome_select_your_gear">Odabir Geara</string>
+    <string name="welcome_select_your_gear_to_connect">Odaberite uređaj Gear za povezivanje.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Povezivanje na Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Gumb</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Obratite nam se</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Poboljšanje pametnog iskustva nošenja uz pomoć Samsung Geara.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Saznaj više</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Ova aplikacija može odrediti vašu lokaciju i pristupiti memoriji vašeg uređaja.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Traženje Geara…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Dobro došli</string>
+    <string name="which_gear">Uređaji Gear pronađeni u blizini</string>
+</resources>

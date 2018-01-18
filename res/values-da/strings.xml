@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Tillader, at appen overfører data via Bluetooth ved hjælp af rammen for tilbehør.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Overfører data via ramme</string>
+    <string name="access_connected_device_status">Adg. til enheders forb.-status</string>
+    <string name="access_connected_device_status_description">Denne applikation kan få adgang til forbindelsesstatussen for kropsbårne enheder.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Dette afslutter din forbindelse til %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Følg og registrer dine træningsdata automatisk.</string>
+    <string name="auto_activity_title">Auto-registr. træn.</string>
+    <string name="auto_reinstalled">Vigtige filer slettet. Gear Manager-filer geninstalleret.</string>
+    <string name="button_scan_again">Scan igen</string>
+    <string name="button_start_scan_devices">Scanning</string>
+    <string name="button_stop_scan_devices">Stop</string>
+    <string name="button_text_bluetooth_turn_on">Aktiver</string>
+    <string name="cancel">Annuller</string>
+    <string name="com_samsung_accessory">Samsungs tilbehørstjeneste</string>
+    <string name="com_samsung_android_gearoplugin">Gear S-plug-in</string>
+    <string name="connect_popup_content">Tilslutter</string>
+    <string name="connected">Forbundet</string>
+    <string name="custom_binary_error_dialog_title">Operativsystemet på din telefon er blevet ændret på en uautoriseret måde og er ikke kompatibelt med Samsung Gear-appen. Tjek dit operativsystem, og prøv igen.</string>
+    <string name="deleting_unused_file">Sletning af ikke-brugte filer fra forrige version …</string>
+    <string name="dialog_popup_button_cancel">Annuller</string>
+    <string name="dialog_popup_button_later">Senere</string>
+    <string name="dialog_popup_button_update">Opdater</string>
+    <string name="dialog_warning">Advarsel</string>
+    <string name="disconnect_and_backup_msg">Vent…</string>
+    <string name="do_not_show_again">Vis ikke igen</string>
+    <string name="download_failure_message">Overførslen mislykkedes. Prøv igen.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Min er her ikke</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear-applikationen</string>
+    <string name="gsp_tracking_body">Spor dine træningsruter, og få mere nøjagtige oplysninger.</string>
+    <string name="gsp_tracking_title">GPS-sporing</string>
+    <string name="install_from_play_store">Tryk på OK for at installere %s og aktivere dataoverførsel mellem dit Gear og din telefon.</string>
+    <string name="lets_pair_up">Lad os oprette parring mellem enhederne</string>
+    <string name="loading">Indlæser data …</string>
+    <string name="make_sure_both_passkey">Stemmer adgangsnøglerne på din telefon og dit Gear overens? Så er det tid til at parre dem.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Forbindelsen til Gearet er blevet afbrudt.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Kan ikke åbne %s i maksimalt niveau for strømbesparende tilstand.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Kan ikke åbne appen</string>
+    <string name="no_earbud_body">Hvis du har et sæt %s-øretelefoner, skal du tage dem ud af opladeræsken og sætte dem i ørerne.</string>
+    <string name="no_gear_body">"Bare rolig! Først og fremmest skal du tjekke, at dit Gear faktisk er tændt.
+
+Hvis det er, skal du gå til Indstillinger og vælge Nulstil Gear. Herefter bør det blive vist på listen over Gear-enheder."</string>
+    <string name="no_gear_description">Vises Gear ikke?</string>
+    <string name="no_network_message">Det var ikke muligt at finde tilgængelige netværk.</string>
+    <string name="no_network_title">Ingen netværksforbindelse</string>
+    <string name="none_paired">Ingen parrede enheder.</string>
+    <string name="not_now">Senere</string>
+    <string name="not_supported_device_or_version">Kontroller, at din telefon er kompatibel, og om Samsung Gear-appen skal opdateres, og prøv igen.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Parret</string>
+    <string name="pass_key">Adgangsnøgle</string>
+    <string name="permission_dialog_body">"Følgende tilladelser kræves til apptjenesten. For valgfrie tilladelser er standardfunktionaliteten for tjenesten aktiveret, men ikke tilladt.
+
+Nødvendige tilladelser
+• Placering: Bruges til at søge efter enheder til Gear i nærheden via Bluetooth
+• Lager: Bruges til at sende og modtage de lagrede filer med Gear
+• Telefon: Bruges til at tjekke identifikationsoplysninger, der er unikke for enheden, i forbindelse med opdatering af apps og installation af plug-in-apps
+
+Valgfrie tilladelser
+• Kontakter: Bruges til at levere tjenester, der skal knyttes til konti ved hjælp af registrerede Samsung account-oplysninger"</string>
+    <string name="permission_dialog_title">Apptilladelser</string>
+    <string name="permission_settings_dialog_message">Kan ikke bruge %s. Tryk på INDSTILLINGER, aktiver følgende tilladelser, og prøv igen:</string>
+    <string name="pick_gear">Vælg dit Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth er slukket. Tryk på Aktiver for at tænde for det.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Tænd for Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Tilslut nyt Gear</string>
+    <string name="preparing_connect_and_install">Gør klar til at oprette forbindelse …</string>
+    <string name="reboot">Genstart</string>
+    <string name="reboot_phone_message">Samsungs tilbehørstjeneste er blevet opdateret. Genstart din telefon for at forbinde til dit Gear.</string>
+    <string name="retry">Prøv igen</string>
+    <string name="scan_all_gear_nearby">Søg efter Gear i nærh.</string>
+    <string name="scanning">Scanner …</string>
+    <string name="search_again">Søg igen</string>
+    <string name="select_gear_to_connect">Vælg det Gear, som du vil oprette forbindelse til.</string>
+    <string name="settings">Indstillinger</string>
+    <string name="setup_connection_dialog_body">Forbindelse til %s?</string>
+    <string name="setup_message_almost_there">Du er der næsten.</string>
+    <string name="setup_message_download">Gør klar til at oprette forbindelse …</string>
+    <string name="setup_message_install">Konfigurerer telefon …</string>
+    <string name="start_journey">Start rejsen</string>
+    <string name="step_body">Send udfordringer, og sammenlign skridtantal med vennerne.</string>
+    <string name="step_title">Skridtudfordringer</string>
+    <string name="title_other_devices">Tilgængelige enheder</string>
+    <string name="title_paired_devices">Parrede enheder</string>
+    <string name="toast_text_for_reinstall">%1$s vil forblive på din enhed, også efter du har afinstalleret %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Der kunne ikke installeres yderligere software (%s MB). Der er ikke nok plads på din mobilenheds lager. Slet nogle filer, og prøv igen.</string>
+    <string name="uhm_update_download_progress">Henter opdatering …</string>
+    <string name="uhm_update_exist_notification_subtitle">En ny version er tilgængelig.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Nogle af de fundne Gear-enheder kan ikke oprette forbindelse til din telefon. Tryk på OPDATER for at opdatere appen %s til den nyeste version, og prøv igen.</string>
+    <string name="uhm_update_install_disconnect_device">Afbryder fra %s…</string>
+    <string name="uhm_update_install_error">Installationen mislykkedes</string>
+    <string name="uhm_update_install_progress">Installerer yderligere software …</string>
+    <string name="uhm_update_notice">Bemærkning</string>
+    <string name="uhm_update_notice_content">En ny version er tilgængelig. Opdater appen for at fortsætte.</string>
+    <string name="uhm_update_notice_content_tUHM">Appen %s vil lukke, når opdateringen er blevet downloadet. Åbn appen igen for at gennemføre opdateringen.</string>
+    <string name="use_network_connection_dialog_body">%s skal bruge netværksforbindelser for at fungere normalt. Vil du tillade det?</string>
+    <string name="use_network_connection_dialog_title">Brug netværksforbindelser</string>
+    <string name="welcome_no_device_found">Når du har tændt dine Gear-enheder, vil de blive vist her.</string>
+    <string name="welcome_no_device_found_description">Hvis dit Gear er tændt korrekt, men ikke vises her, skal du gå til Indstillinger > Gear-info og derefter vælge Nulstil Gear på dit Gear for at nulstille det til fabrikkens standardindstillinger.</string>
+    <string name="welcome_no_device_found_title">Ingen Gear-enheder</string>
+    <string name="welcome_select_notice_not_enough_memory">Nogle Gear-ure kan kun forbindes med telefoner, der har mere end %1$s %2$s hukommelse.</string>
+    <string name="welcome_select_your_gear">Vælg dit Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Vælg Gear, der skal oprettes forbindelse til.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Opret forb. til Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Knap</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Kontakt os</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Forbedrer den kropsbårne oplevelse med Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Lær mere</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Denne app kan afgøre din placering og få adgang til dit enhedslager.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Søger på Gear …</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Velkommen</string>
+    <string name="which_gear">Gears opdaget i nærheden</string>
+</resources>

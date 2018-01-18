@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#fffafafa" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#ff333333" android:gravity="center" android:id="@id/messageText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:text="@string/setup_message_download" android:fontFamily="sans-serif-condensed-light" />
+    <TextView android:textSize="@dimen/normal_text_size" android:textColor="@color/normal_text_color_black_opacity_85" android:gravity="center" android:id="@id/statusText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="24.0dip" android:text="@string/setup_message_almost_there" android:layout_below="@id/messageText" android:alpha="0.0" android:fontFamily="sans-serif" />
+    <ViewSwitcher android:id="@id/download_install_switcher" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_centerInParent="true" android:paddingStart="40.0dip" android:paddingEnd="40.0dip">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ProgressBar android:id="@id/setupProgress" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_marginBottom="14.0dip" android:indeterminate="false" style="@style/setupProgressBar" />
+            <TextView android:textSize="15.0sp" android:textColor="#ff252525" android:gravity="center" android:id="@id/setupPercentage" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <com.samsung.android.app.twatchmanager.uiitems.ProgressCircle android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminate="true" />
+    </ViewSwitcher>
+    <Button android:textSize="@dimen/large_text_size" android:textStyle="bold" android:id="@id/cancel_btn" android:background="@drawable/button_background_show_shape_grey" android:layout_width="205.0dip" android:layout_height="40.0dip" android:layout_marginBottom="30.0dip" android:text="@string/cancel" android:layout_alignParentBottom="true" android:layout_centerInParent="true" android:textAllCaps="true" android:fontFamily="sans-serif-condensed" />
+</RelativeLayout>

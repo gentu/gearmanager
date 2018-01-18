@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Staat de app toe om uw gegevens via Bluetooth over te dragen via het accessoireframe.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Gegevens overdragen via raamwerk</string>
+    <string name="access_connected_device_status">Verbindingsstatus apparaat</string>
+    <string name="access_connected_device_status_description">Deze applicatie heeft toegang tot de verbindingsstatus van draagbare apparaten.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Hiermee beëindigt u de verbinding met %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Volg uw trainingsgegevens automatisch en leg ze vast.</string>
+    <string name="auto_activity_title">Training aut. volgen</string>
+    <string name="auto_reinstalled">Belangrijke bestanden verwijderd. Gear Manager-bestanden opnieuw geïnstalleerd.</string>
+    <string name="button_scan_again">Scan opnieuw</string>
+    <string name="button_start_scan_devices">Scannen</string>
+    <string name="button_stop_scan_devices">Stoppen</string>
+    <string name="button_text_bluetooth_turn_on">Inschakelen</string>
+    <string name="cancel">Annuleer</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Invoegtoepassing Gear S</string>
+    <string name="connect_popup_content">Verbinden</string>
+    <string name="connected">Verbonden</string>
+    <string name="custom_binary_error_dialog_title">Het besturingssysteem op uw telefoon is op een niet-toegestane manier gewijzigd en is niet compatibel met de Samsung Gear-app. Controleer uw besturingssysteem en probeer het opnieuw.</string>
+    <string name="deleting_unused_file">Ongebruikte bestanden van vorige versie verwijderen…</string>
+    <string name="dialog_popup_button_cancel">Annuleer</string>
+    <string name="dialog_popup_button_later">Later</string>
+    <string name="dialog_popup_button_update">Bijwerken</string>
+    <string name="dialog_warning">Waarschuwing</string>
+    <string name="disconnect_and_backup_msg">Even geduld…</string>
+    <string name="do_not_show_again">Niet meer tonen</string>
+    <string name="download_failure_message">Downloaden mislukt. Probeer het opnieuw.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">De mijne zie ik niet</string>
+    <string name="general_app_name_for_reinstall">de Samsung Gear-applicatie</string>
+    <string name="gsp_tracking_body">Volg uw trainingsroutes en ontvang nauwkeuriger informatie.</string>
+    <string name="gsp_tracking_title">GPS-volgfunctie</string>
+    <string name="install_from_play_store">Tik op OK om %s te installeren en de gegevensoverdracht tussen uw Gear en uw telefoon in te schakelen.</string>
+    <string name="lets_pair_up">Koppelen</string>
+    <string name="loading">Laden…</string>
+    <string name="make_sure_both_passkey">Komen de sleutels op uw telefoon en uw Gear overeen? Dan is het tijd om te koppelen.</string>
+    <string name="maximum_power_saving_mode_dialog_body">De verbinding met de Gear is verbroken.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Kan %s niet openen in Maximale spaarstand.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Kan app niet openen</string>
+    <string name="no_earbud_body">Als u over een stel oortjes van %s beschikt, neemt u deze uit de oplaadhoes en doet u ze in uw oren.</string>
+    <string name="no_gear_body">"Geen probleem! Controleer eerst of uw Gear is ingeschakeld.
+
+Als dat het geval is, gaat u naar Instellingen en selecteert u Gear resetten. Vervolgens verschijnt de Gear in de lijst met apparaten."</string>
+    <string name="no_gear_description">Verschijnt Gear niet?</string>
+    <string name="no_network_message">Kan geen beschikbare netwerken vinden.</string>
+    <string name="no_network_title">Geen netwerkverbinding</string>
+    <string name="none_paired">Geen gekoppelde apparaten.</string>
+    <string name="not_now">Later</string>
+    <string name="not_supported_device_or_version">Controleer of uw telefoon compatibel is en of de Samsung Gear-app bijgewerkt moet worden. Probeer het vervolgens opnieuw.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Gekoppeld</string>
+    <string name="pass_key">Sleutel</string>
+    <string name="permission_dialog_body">"De volgende machtigingen zijn vereist voor de app-service. Voor optionele machtigingen is de standaardfunctionaliteit van de service ingeschakeld, maar niet toegestaan.
+
+Vereiste machtigingen
+• Locatie: gebruikt voor zoeken naar apparaten in de buurt voor Gear via Bluetooth
+•Opslag: gebruikt voor het overbrengen en ontvangen van de opgeslagen bestanden met Gear
+•Telefoon: gebruikt voor het controleren van unieke identificatiegegevens van het apparaat om apps bij te werken en invoegtoepassingen voor apps te installeren
+
+Optionele machtigingen
+• Contacten: gebruikt voor het leveren van services die met accounts moeten worden gekoppeld via geregistreerde Samsung accountgegevens"</string>
+    <string name="permission_dialog_title">App-machtigingen</string>
+    <string name="permission_settings_dialog_message">Kan %s niet gebruiken. Tik op INSTELLINGEN, wijs de volgende machtigingen toe en probeer het opnieuw:</string>
+    <string name="pick_gear">Uw Gear kiezen</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth is uitgeschakeld. Tik op Inschakelen om in te schakelen.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth inschakelen</string>
+    <string name="popupmenu_connect_new_gear">Verbinden met nieuwe Gear</string>
+    <string name="preparing_connect_and_install">Voorbereiden op verbinden…</string>
+    <string name="reboot">Herstart</string>
+    <string name="reboot_phone_message">Samsung Accessory Service is bijgewerkt. Start uw telefoon opnieuw om verbinding te maken met uw Gear.</string>
+    <string name="retry">Opnieuw</string>
+    <string name="scan_all_gear_nearby">Gear in buurt zoeken</string>
+    <string name="scanning">Scannen…</string>
+    <string name="search_again">Opnieuw zoeken</string>
+    <string name="select_gear_to_connect">Kies de Gear waarmee u verbinding wilt maken.</string>
+    <string name="settings">Instellingen</string>
+    <string name="setup_connection_dialog_body">Verbinden met %s?</string>
+    <string name="setup_message_almost_there">U bent er bijna.</string>
+    <string name="setup_message_download">Voorbereiden op verbinden…</string>
+    <string name="setup_message_install">Uw telefoon instellen…</string>
+    <string name="start_journey">Van start gaan</string>
+    <string name="step_body">Stel uitdaging in en vergelijk stappentelling met vrienden.</string>
+    <string name="step_title">Uitdag. voor stappen</string>
+    <string name="title_other_devices">Beschikbare apparaten</string>
+    <string name="title_paired_devices">Gekoppelde apparaten</string>
+    <string name="toast_text_for_reinstall">%1$s blijft op uw apparaat ook nadat %2$s is verwijderd.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Aanvullende software (%s MB) kan niet worden geïnstalleerd. Er is onvoldoende opslagruimte op uw apparaat. Verwijder een aantal items en probeer het opnieuw.</string>
+    <string name="uhm_update_download_progress">Update downloaden…</string>
+    <string name="uhm_update_exist_notification_subtitle">Er is een nieuwe versie beschikbaar.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Sommige gescande Gears kunnen niet worden verbonden met uw telefoon. Tik op BIJWERKEN om de app %s bij te werken tot de nieuwste versie en probeer het opnieuw.</string>
+    <string name="uhm_update_install_disconnect_device">Verbinding met %s verbreken…</string>
+    <string name="uhm_update_install_error">Installeren mislukt</string>
+    <string name="uhm_update_install_progress">Aanvullende software installeren…</string>
+    <string name="uhm_update_notice">Melding</string>
+    <string name="uhm_update_notice_content">Nieuwe versie beschikbaar. Werk de app bij om door te gaan.</string>
+    <string name="uhm_update_notice_content_tUHM">De app %s wordt gesloten nadat de update is gedownload. Open de app opnieuw om de update te voltooien.</string>
+    <string name="use_network_connection_dialog_body">%s moet netwerkverbindingen gebruiken om normaal te werken. Toestaan?</string>
+    <string name="use_network_connection_dialog_title">Netwerkverbindingen gebruiken</string>
+    <string name="welcome_no_device_found">Nadat u uw Gear-apparaten hebt ingeschakeld, worden ze hier getoond.</string>
+    <string name="welcome_no_device_found_description">Als uw Gear correct is gestart maar hier niet wordt weergegeven, gaat u naar Instellingen > Info Gear en selecteert u Gear resetten op de Gear om deze te resetten naar de fabrieksinstellingen.</string>
+    <string name="welcome_no_device_found_title">Geen Gear-apparaten</string>
+    <string name="welcome_select_notice_not_enough_memory">Sommige Gear-horloges kunnen alleen verbinding maken met telefoons die meer dan %1$s %2$s geheugen hebben.</string>
+    <string name="welcome_select_your_gear">Uw Gear selecteren</string>
+    <string name="welcome_select_your_gear_to_connect">Selecteer de Gear om verbinding te maken.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Verbinden met Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Knop</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Neem contact met ons op</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Voor een betere ervaring met slimme draagbare apparaten met Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Meer informatie</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Deze app kan uw locatie vaststellen en heeft toegang tot uw apparaatopslag.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear zoeken…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Welkom</string>
+    <string name="which_gear">Gears in de buurt gedetecteerd</string>
+</resources>

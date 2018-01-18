@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Membenarkan aplikasi memindahkan data anda melalui Bluetooth menggunakan kerja kerangka aksesori.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Memindahkan data melalui kerja kerangka</string>
+    <string name="access_connected_device_status">Capai status sambungan peranti</string>
+    <string name="access_connected_device_status_description">Aplikasi ini boleh mencapai status sambungan peranti boleh dipakai.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Ini akan menamatkan sambungan anda dengan %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Jejak dan rekod data senaman anda secara automatik.</string>
+    <string name="auto_activity_title">Auto jejak senaman</string>
+    <string name="auto_reinstalled">Fail penting dipadam. Fail Pengurus Gear dipasang semula.</string>
+    <string name="button_scan_again">Imbas sekali lagi</string>
+    <string name="button_start_scan_devices">Imbas</string>
+    <string name="button_stop_scan_devices">Henti</string>
+    <string name="button_text_bluetooth_turn_on">Hidupkan</string>
+    <string name="cancel">Batal</string>
+    <string name="com_samsung_accessory">Perkhidmatan Aksesori Samsung</string>
+    <string name="com_samsung_android_gearoplugin">Pemalam Gear S</string>
+    <string name="connect_popup_content">Menyambung</string>
+    <string name="connected">Disambung</string>
+    <string name="custom_binary_error_dialog_title">Sistem pengendalian pada telefon anda telah diubah suai dalam cara yang tidak dibenarkan dan tidak serasi dengan aplikasi Samsung Gear. Semak sistem pengendalian anda dan cuba lagi.</string>
+    <string name="deleting_unused_file">Memadam fail yang tidak digunakan daripada versi sebelumnya…</string>
+    <string name="dialog_popup_button_cancel">Batal</string>
+    <string name="dialog_popup_button_later">Kemudian</string>
+    <string name="dialog_popup_button_update">Kemas kini</string>
+    <string name="dialog_warning">Amaran</string>
+    <string name="disconnect_and_backup_msg">Sila tunggu…</string>
+    <string name="do_not_show_again">Jangan tunjukkan lagi</string>
+    <string name="download_failure_message">Muat turun gagal. Cuba lagi.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Gear saya tiada di sini</string>
+    <string name="general_app_name_for_reinstall">aplikasi Samsung Gear</string>
+    <string name="gsp_tracking_body">Jejak laluan senaman dan peroleh maklumat yang lebih tepat.</string>
+    <string name="gsp_tracking_title">Penjejakan GPS</string>
+    <string name="install_from_play_store">Ketik OK untuk memasangkan %s bagi mengaktifkan pemindahan data antara Gear dan telefon anda.</string>
+    <string name="lets_pair_up">Marilah buat pemasangan</string>
+    <string name="loading">Memuat…</string>
+    <string name="make_sure_both_passkey">Adakah kunci laluan pada telefon anda dan Gear anda sepadan? Marilah buat pemasangan.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear telah dinyahsambungkan.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Tidak dapat membuka %s dalam Mod penjimatan kuasa maksimum.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Tidak dapat membuka apl</string>
+    <string name="no_earbud_body">Jika anda mempunyai set fon telinga %s, keluarkannya daripada bekas mengecas dan pakaikan pada telinga anda.</string>
+    <string name="no_gear_body">"Jangan bimbang! Pertama sekali, semak sama ada Gear anda dihidupkan.
+
+Jika ya, pergi ke Aturan dan pilih Tetapkan semula Gear. Ia akan muncul dalam senarai peranti Gear."</string>
+    <string name="no_gear_description">Gear tidak muncul?</string>
+    <string name="no_network_message">Tidak dapat menemui sebarang rangkaian yang tersedia.</string>
+    <string name="no_network_title">Tiada sambungan rangkaian</string>
+    <string name="none_paired">Tiada peranti dipasangkan.</string>
+    <string name="not_now">Kemudian</string>
+    <string name="not_supported_device_or_version">Semak jika telefon anda serasi dan jika aplikasi Samsung Gear perlu dikemas kini, kemudian cuba lagi.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Berpasangan</string>
+    <string name="pass_key">Kunci laluan</string>
+    <string name="permission_dialog_body">"Kebenaran berikut diperlukan untuk perkhidmatan aplikasi. Untuk kebenaran pilihan, kefungsian perkhidmatan lalai dihidupkan tetapi tidak beri kebenaran.
+
+Kebenaran diperlukan
+• Lokasi: Digunakan untuk mencari peranti yang berdekatan bagi Gear melalui Bluetooth
+• Storan: Digunakan untuk memindahkan dan menerima fail yang disimpan menggunakan Gear
+• Telefon: Digunakan untuk menyemak maklumat pengenalpastian unik peranti bagi pengemaskinian aplikasi dan pemasangan pemalam aplikasi
+
+Kebenaran pilihan
+• Kenalan: Digunakan untuk memberikan perkhidmatan yang perlu dipautkan dengan akaun menggunakan maklumat Samsung account berdaftar"</string>
+    <string name="permission_dialog_title">Kebenaran aplikasi</string>
+    <string name="permission_settings_dialog_message">Tidak boleh menggunakan %s. Ketik ATURAN, kemudian benarkan keizinan berikut dan cuba lagi:</string>
+    <string name="pick_gear">Pilih Gear anda</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth dimatikan. Ketik Hidupkan untuk menghidupkannya.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Hidupkan Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Sambungkan Gear baru</string>
+    <string name="preparing_connect_and_install">Bersedia untuk menyambung…</string>
+    <string name="reboot">Mula sml</string>
+    <string name="reboot_phone_message">Perkhidmatan Aksesori Samsung telah dikemas kini. Mulakan semula telefon anda untuk menyambung ke Gear anda.</string>
+    <string name="retry">Cuba lagi</string>
+    <string name="scan_all_gear_nearby">Imbas utk Gear berdekatan</string>
+    <string name="scanning">Mengimbas…</string>
+    <string name="search_again">Cari lagi</string>
+    <string name="select_gear_to_connect">Pilih Gear yang anda ingin sambung.</string>
+    <string name="settings">Aturan</string>
+    <string name="setup_connection_dialog_body">Sambung ke %s?</string>
+    <string name="setup_message_almost_there">Hampir selesai.</string>
+    <string name="setup_message_download">Bersedia untuk menyambung…</string>
+    <string name="setup_message_install">Menyediakan telefon anda…</string>
+    <string name="start_journey">Mulakan perjalanan</string>
+    <string name="step_body">Tetapkan cabaran dan banding kiraan langkah anda dgn rakan.</string>
+    <string name="step_title">Cabaran langkah</string>
+    <string name="title_other_devices">Peranti tersedia</string>
+    <string name="title_paired_devices">Peranti yang berpasangan</string>
+    <string name="toast_text_for_reinstall">%1$s akan kekal pada peranti anda walaupun selepas menyahpasang %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Perisian tambahan (%s MB) tidak dapat dipasang. Tiada ruang yang mencukupi dalam storan peranti anda. Padam beberapa fail dan cuba lagi.</string>
+    <string name="uhm_update_download_progress">Memuat turun kemas kini…</string>
+    <string name="uhm_update_exist_notification_subtitle">Versi baru tersedia.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Beberapa Gear yang diimbas tidak boleh disambungkan ke telefon anda. Ketik KEMAS KINI untuk mengemas kini aplikasi %s ke versi terkini, kemudian cuba lagi.</string>
+    <string name="uhm_update_install_disconnect_device">Memutuskan sambungan dari %s…</string>
+    <string name="uhm_update_install_error">Gagal memasang</string>
+    <string name="uhm_update_install_progress">Memasang perisian tambahan…</string>
+    <string name="uhm_update_notice">Notis</string>
+    <string name="uhm_update_notice_content">Versi baru tersedia. Kemas kini aplikasi untuk teruskan.</string>
+    <string name="uhm_update_notice_content_tUHM">Aplikasi %s akan ditutup selepas kemas kini dimuat turun. Buka semula aplikasi untuk melengkapkan kemas kini.</string>
+    <string name="use_network_connection_dialog_body">%s perlu menggunakan sambungan rangkaian untuk berfungsi seperti biasa. Benarkan?</string>
+    <string name="use_network_connection_dialog_title">Gunakan sambungan rangkaian</string>
+    <string name="welcome_no_device_found">Selepas anda menghidupkan peranti Gear anda, ia akan ditunjukkan di sini.</string>
+    <string name="welcome_no_device_found_description">Jika Gear anda dihidupkan kuasa dengan betul tetapi tidak ditunjukkan di sini, pergi ke Aturan > Maklumat Gear, kemudian pilih Tetap semula Gear pada Gear untuk menetapkannya semula kepada aturan lalai kilang.</string>
+    <string name="welcome_no_device_found_title">Tiada peranti Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Sesetengah jam Gear hanya boleh menyambung ke telefon yang mempunyai lebih daripada %1$s %2$s memori.</string>
+    <string name="welcome_select_your_gear">Pilih Gear anda</string>
+    <string name="welcome_select_your_gear_to_connect">Pilih Gear untuk sambungan.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Sambung ke Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Butang</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Hubungi kami</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Mempertingkatkan pengalaman boleh dipakai pintar dengan Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Ketahui lebih lanjut</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Aplikasi ini boleh menentukan lokasi anda dan mencapai storan lokasi anda.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Mencari Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Selamat datang</string>
+    <string name="which_gear">Gear dikesan berhampiran</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Програмд нэмэлт хэрэгслийн хүрээ ашиглан Bluetooth-ээр өгөгдөл дамжуулахыг зөвшөөрнө.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Хүрээгээр өгөгдөл дамжуулах</string>
+    <string name="access_connected_device_status">Төх.мж-н холб-н төлөвт хандах</string>
+    <string name="access_connected_device_status_description">Энэ аппликэйшн өмсдөг төхөөрөмжийн холболтын төлөвт хандаж чадна.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Энэ нь таны %s-тай холбогдсон холболтыг тасална</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Дасгалын өгөгдлөө автоматаар хянаж, бүртгэ.</string>
+    <string name="auto_activity_title">Дасгалыг авто. хянах</string>
+    <string name="auto_reinstalled">Чухал файлууд устгагдсан. Gear Manager-н файлуудыг дахин суулгасан</string>
+    <string name="button_scan_again">Ахин уншиж хайх</string>
+    <string name="button_start_scan_devices">Унших</string>
+    <string name="button_stop_scan_devices">Зогсоох</string>
+    <string name="button_text_bluetooth_turn_on">Асаах</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gear S нэмэлт</string>
+    <string name="connect_popup_content">Холбогдож байна</string>
+    <string name="connected">Холбогдлоо</string>
+    <string name="custom_binary_error_dialog_title">Таны утасны үйлдлийн системийг зөвшөөрөгдөөгүй аргаар өөрчилсөн бөгөөд Samsung Gear хэрэглүүртэй тохирохгүй. Үйлдлийн системээ шалгаад дахин оролд.</string>
+    <string name="deleting_unused_file">Өмнөх хувилбараас ашиглаагүй файлуудыг устгаж байна…</string>
+    <string name="dialog_popup_button_cancel">Цуцлах</string>
+    <string name="dialog_popup_button_later">Дараа</string>
+    <string name="dialog_popup_button_update">Шинэчил</string>
+    <string name="dialog_warning">Анхааруулга</string>
+    <string name="disconnect_and_backup_msg">Хүлээнэ үү…</string>
+    <string name="do_not_show_again">Дахин бүү харуул</string>
+    <string name="download_failure_message">Татан авч чадсангүй. Ахин оролд.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Минийх энд алга</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear апп</string>
+    <string name="gsp_tracking_body">Дасгалын маршрутаа хянаад илүү нарийвчлалтай мэдээлэл ав.</string>
+    <string name="gsp_tracking_title">GPS хяналт</string>
+    <string name="install_from_play_store">Gear, утас хоёрынхоо хооронд өгөгдөл шилжүүлэхийг идэвхжүүлэхдээ %s-г суулгахын тулд OK-г товш.</string>
+    <string name="lets_pair_up">Хос хосоор болцгооё</string>
+    <string name="loading">Ачаалж байна…</string>
+    <string name="make_sure_both_passkey">Таны утас болон Gear-д нууц түлхүүр байгаа юу? Тэгвэл энэ хос хосоор хуваагдах мөч.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear-ийг салгалаа.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Тэжээлийг дээд зэргээр хэмнэх горимд %s-г нээх боломжгүй.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Програм нээх боломжгүй</string>
+    <string name="no_earbud_body">Хэрэв та %s чихэвчийн багцтай бол тэдгээрийг цэнэглэгч гэрээс авч чихэндээ зүү.</string>
+    <string name="no_gear_body">"Бүү санаа зов! Юуны өмнө Gear-г үнэндээ асаасан эсэхийг шалга.
+
+Хэрэв тийм бол, Тохиргоо руу очиж Gear дахин тохируулах-ыг сонго. Энэ нь дараан Gear төхөөрөмжүүдийг жагсаалтад харагдах ёстой."</string>
+    <string name="no_gear_description">Gear гарч ирэхгүй байна уу?</string>
+    <string name="no_network_message">Боломжтой сүлжээ олдсонгүй.</string>
+    <string name="no_network_title">Сүлжээний холболт байхгүй</string>
+    <string name="none_paired">Ямар ч төхөөрөмж хослуулаагүй</string>
+    <string name="not_now">Дараа</string>
+    <string name="not_supported_device_or_version">Таны утас тохиромжтой эсэх, Samsung Gear хэрэглүүрийг шинэчлэх хэрэгтэй эсэхийг шалгаад дахин оролд.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Хосолсон</string>
+    <string name="pass_key">Дэгээ түлхүүр</string>
+    <string name="permission_dialog_body">"Хэрэглүүрийн үйлчилгээнд дараах зөвшөөрөл шаардлагатай. Сонголтот зөвшөөрлүүдийн хувьд, үйлчилгээний өгөгдмөл функцийн ажиллагаа идэвхжих боловч зөвшөөрөл олгоогүй.
+
+Шаардлагатай зөвшөөрөл
+• Байршил: Bluetooth-ээр ойролцоох Gear-ийг хайхад ашиглана
+• Санах ой: Gear-ээс файл шилжүүлж, хүлээн авахад ашиглана
+• Телефон: Хэрэглүүр шинэчлэх, залгаас хэрэглүүр суурилуулахад төхөөрөмжийн үл давтагдах таних мэдээллийг шалгахад ашиглана
+
+Сонголтот зөвшөөрөл
+• Харилцагчид: Бүртгэлтэй Samsung account-ийн мэдээллийг ашиглан данснуудыг холбох шаардлагатай үйлчилгээг үзүүлэхэд ашиглана"</string>
+    <string name="permission_dialog_title">Хэрэглүүрийн зөвшөөрлүүд</string>
+    <string name="permission_settings_dialog_message">%s ашиглах боломжгүй. ТОХИРГОО-г товшиж дараах зөвшөөрлийг олгоод дахин оролдоно уу:</string>
+    <string name="pick_gear">Gear-ээ авна уу</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth унтарсан байна. Асаахыг товшиж асаа.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth-ийг идэвхжүүлэх</string>
+    <string name="popupmenu_connect_new_gear">Шинэ Gear холбох</string>
+    <string name="preparing_connect_and_install">Холбогдохоор бэлтгэж байна…</string>
+    <string name="reboot">Дах. эхлүүл</string>
+    <string name="reboot_phone_message">Samsung туслах хэрэгслийн үйлчилгээ шинэчлэгдлээ. Утсаа Gear рүү холбохын тулд асаана уу.</string>
+    <string name="retry">Ахин оролд</string>
+    <string name="scan_all_gear_nearby">Ойролцоо Gear хайх</string>
+    <string name="scanning">Уншиж байна…</string>
+    <string name="search_again">Ахин хайх</string>
+    <string name="select_gear_to_connect">Холбогдохыг хүсэж буй Gear-г авна уу.</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="setup_connection_dialog_body">%s-д холбогдох уу?</string>
+    <string name="setup_message_almost_there">Бараг боллоо.</string>
+    <string name="setup_message_download">Холбогдохоор бэлтгэж байна…</string>
+    <string name="setup_message_install">Утсыг тохируулж байна…</string>
+    <string name="start_journey">Аяллыг эхэл</string>
+    <string name="step_body">Сорилтыг тохируулаад алхмын тоогоо найзуудтайгаа харьцуул.</string>
+    <string name="step_title">Алхалтын сорилтууд</string>
+    <string name="title_other_devices">Боломжтой төхөөрөмжүүд</string>
+    <string name="title_paired_devices">Хослогдсон төхөөрөмжүүд</string>
+    <string name="toast_text_for_reinstall">%2$s-г устгасны дараа ч гэсэн %1$s таны төхөөрөмж дээр хэвээр үлдэнэ.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Нэмэлт програм хангамж (%s Mбайт) суусангүй. Таны төхөөрөмжийн санах ой хангалтгүй байна. Файлыг устгаад, дахин оролд.</string>
+    <string name="uhm_update_download_progress">Шинэчлэл татан авч байна…</string>
+    <string name="uhm_update_exist_notification_subtitle">Шинэ хувилбар боломжтой байна</string>
+    <string name="uhm_update_exist_to_support_new_gear">Зарим уншуулсан Gear таны утастай холбогдохгүй. %s хэрэглүүрийг сүүлийн хувилбараар шинэчлэх бол ШИНЭЧЛЭХ-ийг товшоод дахин оролд.</string>
+    <string name="uhm_update_install_disconnect_device">%s-с салгагдаж байна…</string>
+    <string name="uhm_update_install_error">Installing failed</string>
+    <string name="uhm_update_install_progress">Нэмэлт програм хангамж суулгаж байна…</string>
+    <string name="uhm_update_notice">Мэдэгдэл</string>
+    <string name="uhm_update_notice_content">Шинэ хувилбар боломжтой байна. Үргэлжлүүлэхийн тулд хэрэглүүрээ шинэчил.</string>
+    <string name="uhm_update_notice_content_tUHM">Шинэчлэлийг татаж авсны дараа %s хэрэглүүр хаагдана. Шинэчлэлийг дуусгахын тулд хэрэглүүрийг дахин нээ.</string>
+    <string name="use_network_connection_dialog_body">%s сүлжээний холболт ашиглаж хэвийн ажиллах хэрэгтэй байна. Зөвшөөрөх үү?</string>
+    <string name="use_network_connection_dialog_title">Сүлжээний холболтууд ашиглах</string>
+    <string name="welcome_no_device_found">Gear төхөөрөмжөө асаасны дараа энд харагдана.</string>
+    <string name="welcome_no_device_found_description">Хэрвээ таны Gear тэжээлд зөв залгасан боловч энд харагдахгүй байвал Тохиргоо > Gear-н мэдээлэл рүү ороод Gear-г дахин тохируулахыг сонгоод Gear-д үйлдвэрийн тохиргоог сэргээнэ үү.</string>
+    <string name="welcome_no_device_found_title">Gear төхөөрөмж байхгүй</string>
+    <string name="welcome_select_notice_not_enough_memory">Зарим Gear цагууд зөвхөн %1$s %2$s-с илүү санах ойтой утсанд холбогдоно.</string>
+    <string name="welcome_select_your_gear">Өөрийн Gear ээ сонго</string>
+    <string name="welcome_select_your_gear_to_connect">Холбогдох Gear-ээ сонго.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear-тэй холбогд</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Товч</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Бидэнтэй холбоо барих</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear-ээр дамжуулан ухаалаг, зүүдэг хэрэглээг сайжруулж байна.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Дэлгэрэнгүй</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Энэ хэрэглүүр таны байршлыг тогтоож, төхөөрөмжийн санах ойд хандаж чадна.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear хайж байна…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Тавтай морил</string>
+    <string name="which_gear">Gear-үүд ойролцоо байна</string>
+</resources>

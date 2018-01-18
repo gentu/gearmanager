@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">एपलाई सहायक उपकरणको फ्रेमवर्क प्रयोग गरेर ब्लुटूथ मार्फत तपाईको डाटा स्थानान्तरण गर्न अनुमति दिन्छ।</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">फ्रेमवर्क मार्फत डाटा स्थानान्तरण गर्नु</string>
+    <string name="access_connected_device_status">यन्त्रको जडान स्थितिमा पहुँच</string>
+    <string name="access_connected_device_status_description">यो अनुप्रयोगले लगाउन मिल्ने यन्त्रहरूको जडान स्थितिमा पहुँच गर्न सक्छ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">जडान बिच्छेद गर्नाले %s सँग रहेको तपाईको जडानलाई अन्त्य गर्नेछ।</string>
+    <string name="app_name">सैमसंग गियर</string>
+    <string name="auto_activity_body">आफ्नो कसरत डाटालाई स्वचालित रूपमा ट्रयाक र रेकर्ड गर्नुहोस्।</string>
+    <string name="auto_activity_title">कसरतहरू स्वतः ट्रयाक गर्नु</string>
+    <string name="auto_reinstalled">महत्वपूर्ण फाइलहरू मेटाइएका छन्। गियर मेनेजर फाइलहरू पुन: स्थापना गरिएका छन्।</string>
+    <string name="button_scan_again">फेरि स्क्यान गर्नुहोस्</string>
+    <string name="button_start_scan_devices">स्क्यान</string>
+    <string name="button_stop_scan_devices">रोक्‍नुहोस्</string>
+    <string name="button_text_bluetooth_turn_on">खोल्नुहोस्</string>
+    <string name="cancel">रद्द</string>
+    <string name="com_samsung_accessory">सैमसंग सहायक उपकरण सेवा</string>
+    <string name="com_samsung_android_gearoplugin">गियर S को प्लग इन</string>
+    <string name="connect_popup_content">जडान गर्दै</string>
+    <string name="connected">जडान भयो</string>
+    <string name="custom_binary_error_dialog_title">तपाईको फोनको अपरेटिङ सिस्टम अनधिकृत रूपमा संशोधन गरिएको छ, र त्यो Samsung Gear एपसँग उपयुक्त छैन। अपरेटिङ सिस्टमको जाँच गरेर फेरि प्रयास गर्नुहोस्।</string>
+    <string name="deleting_unused_file">पछिल्लो संस्करणबाट प्रयोग नभएका फाइलहरू मेटाउँदै…</string>
+    <string name="dialog_popup_button_cancel">रद्द</string>
+    <string name="dialog_popup_button_later">पछि</string>
+    <string name="dialog_popup_button_update">अपडेट गर्नुहोस्</string>
+    <string name="dialog_warning">चेतावनी</string>
+    <string name="disconnect_and_backup_msg">कृपया प्रतीक्षा गर्नुहोस्…</string>
+    <string name="do_not_show_again">फेरि नदेखाउनुहोस्</string>
+    <string name="download_failure_message">डाउनलोड असफल भयो। फेरि प्रयास गर्नुहोस्।</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">यहाँ मेरा गियर छैन</string>
+    <string name="general_app_name_for_reinstall">सैमसंग गियर अनुप्रयोग</string>
+    <string name="gsp_tracking_body">आफ्नो कसरतका रूटहरूलाई ट्रयाक गर्नु र थप सटीक जानकारी प्राप्त गर्नु।</string>
+    <string name="gsp_tracking_title">GPS ट्रयाकिङ</string>
+    <string name="install_from_play_store">तपाईको गियर र फोनको बीचमा डाटा स्थानान्तरण सक्षम गर्नको लागि %s लाई स्थापना गर्न ठीक छ ट्याप गर्नुहोस्।</string>
+    <string name="lets_pair_up">जोडा बनाऔं</string>
+    <string name="loading">लोड हुँदै छ…</string>
+    <string name="make_sure_both_passkey">तपाईको फोन र गियरका पासकीहरूले मेल खान्छन्? त्यसोभए जोडा बनाउने समय भयो।</string>
+    <string name="maximum_power_saving_mode_dialog_body">गियर विच्छेद गरिएको छ।</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">अधिकतम पावर बचत मोडमा %s खोल्न असमर्थ।</string>
+    <string name="maximum_power_saving_mode_dialog_title">एप खोल्न असक्षम</string>
+    <string name="no_earbud_body">तपाईसँग %s का इयरबडहरू छन् भने तिनीहरूलाई चार्जिङ केसबाट हटाई आफ्नो कानमा लगाउनुहोस्।</string>
+    <string name="no_gear_body">"चिन्ता नगर्नुहोस्! सबैभन्दा पहिले तपाईको गियर वास्तवमै अन छ वा छैन भनी जाँच्नुहोस्।
+
+यदि अन छ भने सेटिङहरूमा जानुहोस् र “गियर रिसेट गर्नुहोस्” चयन गर्नुहोस्। त्यसपछि यो गियर यन्त्रहरूको सूचीमा देखा पर्नुपर्छ।"</string>
+    <string name="no_gear_description">गियर देखापरिरहेको छैन?</string>
+    <string name="no_network_message">कुनै पनि उपलब्ध नेटवर्क फेला पार्न सकिएन।</string>
+    <string name="no_network_title">कुनै नेटवर्क जडान छैन</string>
+    <string name="none_paired">कुनैपनि यन्त्रहरू जोडा गरिएका छैनन्।</string>
+    <string name="not_now">पछि</string>
+    <string name="not_supported_device_or_version">तपाईको फोन उपयुक्त छ वा छैन र Samsung Gear एप अपडेट गर्नु आवश्‍यक छ वा छैन भनेर जाँच्नुहोस्, त्यसपछि फेरि प्रयास गर्नुहोस्।</string>
+    <string name="ok">ठीक छ</string>
+    <string name="paired">जोडा बनाइयो</string>
+    <string name="pass_key">पासकी</string>
+    <string name="permission_dialog_body">"एप सेवाका लागि निम्न अनुमतिहरूको आवश्यकता पर्दछ। ऐच्छिक अनुमतिहरूका लागि उक्त सेवाको पूर्वनिर्धारित कार्यक्षमतालाई अन गरिन्छ, तर अनुमतिहरू भने दिइँदैन।
+
+आवश्यक अनुमतिहरू
+• स्थान: गियरका लागि ब्लुटूथ मार्फत नजिकैका यन्त्रहरू खोज्न प्रयोग गरिन्छ
+• भण्डारण: गियर मार्फत भण्डारण गरिएका फाइलहरू पठाउन र प्राप्त गर्न प्रयोग गरिन्छ
+• टेलिफोन: एप्स अपडेट गर्न तथा प्लग-इनहरू स्थापना गर्नका लागि यन्त्रको अद्वितीय पहिचान सम्बन्धी जानकारी जाँच्न प्रयोग गरिन्छ
+
+ऐच्छिक अनुमतिहरू
+• सम्पर्कहरू: दर्ता गरिएको Samsung account को जानकारी प्रयोग गरी एकाउंटहरू लिंक‍ गर्नुपर्ने सेवा प्रदान गर्न प्रयोग गरिन्छ"</string>
+    <string name="permission_dialog_title">एप अनुमतिहरू</string>
+    <string name="permission_settings_dialog_message">%s प्रयोग गर्न असमर्थ। “सेटिङहरू” मा ट्याप गर्नुहोस्, त्यसपछि निम्न अनुमतिहरूलाई अनुमति दिनुहोस् र फेरि प्रयास गर्नुहोस्:</string>
+    <string name="pick_gear">आफ्नो गियर छनौट गर्नुहोस्</string>
+    <string name="popup_message_bluetooth_turn_on">ब्लुटूथ अफ छ। यसलाई अन गर्न “अन गर्नुहोस्” ट्याप गर्नुहोस्।</string>
+    <string name="popup_title_message_bluetooth_turn_on">ब्लुटूथ खोल्नुहोस्</string>
+    <string name="popupmenu_connect_new_gear">नयाँ गियर जडान गर्नुहोस्</string>
+    <string name="preparing_connect_and_install">जडान गर्ने तयारी गर्दै…</string>
+    <string name="reboot">पुनः सुरु</string>
+    <string name="reboot_phone_message">सैमसंगका साहायक उपकरणलाई अपडेट गरिएको छ। तपाईको गियरमा जडान गर्न आफ्नो फोनलाई पुनःसुरु गर्नुहोस्।</string>
+    <string name="retry">पुनःप्रयास</string>
+    <string name="scan_all_gear_nearby">नजिकको गियरका लागि स्क्यान गर्ने</string>
+    <string name="scanning">स्क्यान गर्दै…</string>
+    <string name="search_again">पुनः खोज्नुहोस्</string>
+    <string name="select_gear_to_connect">तपाईले जडान गर्न चाहनुभएको गियर छनौट गर्नुहोस्।</string>
+    <string name="settings">सेटिङहरू</string>
+    <string name="setup_connection_dialog_body">%s मा जडान गर्ने?</string>
+    <string name="setup_message_almost_there">काम पूरा हुनै लाग्यो।</string>
+    <string name="setup_message_download">जडान गर्ने तयारी गर्दै…</string>
+    <string name="setup_message_install">तपाईको फोनलाई सेट अप गर्दै…</string>
+    <string name="start_journey">यात्रा सुरु गर्नुहोस्</string>
+    <string name="step_body">चुनौतीहरू सेट गरेर आफ्नो कदम गिन्तीलाई साथीहरूसँग तुलना गर्नु।</string>
+    <string name="step_title">कदम सम्बन्धी चुनौतीहरू</string>
+    <string name="title_other_devices">उपलब्ध यन्त्रहरू</string>
+    <string name="title_paired_devices">जोडी मिलाइका उपकरणहरू</string>
+    <string name="toast_text_for_reinstall">%2$s को स्थापना हटाएपछि पनि %1$s तपाईको यन्त्रमा नै रहनेछ।</string>
+    <string name="uhm_install_error_msg_insufficient_storage">थप सफ्टवेयर (%s MB) स्थापना गर्न सकिएन। तपाईको यन्त्र भण्डारणमा पर्याप्त स्थान छैन। केही फाइलहरू मेटाएर फेरि प्रयास गर्नुहोस्।</string>
+    <string name="uhm_update_download_progress">अद्यावधिक डाउनलोड गर्दैछ…</string>
+    <string name="uhm_update_exist_notification_subtitle">नयाँ संस्करण उपलब्ध छ।</string>
+    <string name="uhm_update_exist_to_support_new_gear">स्क्यान गरिएका केही गियरहरू तपाईको फोनमा जडान गर्न सकिँदैन। %s एपलाई नवीनतम संस्करणमा अपडेट गर्न “अपडेट गर्नुहोस्” ट्याप गर्नुहोस्, त्यसपछि फेरि प्रयास गर्नुहोस्।</string>
+    <string name="uhm_update_install_disconnect_device">%s बाट बिच्छेद हुँदै…</string>
+    <string name="uhm_update_install_error">इन्स्टॉलिंग असफल</string>
+    <string name="uhm_update_install_progress">अतिरिक्त सफ्टवेयर स्थापना गर्दै…</string>
+    <string name="uhm_update_notice">सूचना</string>
+    <string name="uhm_update_notice_content">नयाँ संस्करण उपलब्ध छ। जारी राख्न एपलाई अपडेट गर्नुहोस्।</string>
+    <string name="uhm_update_notice_content_tUHM">अपडेट डाउनलोड भएपछि %s एप बन्द हुनेछ। अपडेट पूर्ण गर्न एपलाई फेरि खोल्नुहोस्।</string>
+    <string name="use_network_connection_dialog_body">समान्य रूपमा कार्य गर्न %s ले नेटवर्क जडानहरू प्रयोग गर्नु आवश्यक छ। अनुमति दिने?</string>
+    <string name="use_network_connection_dialog_title">नेटवर्क जडानहरू प्रयोग गर्नुहोस्</string>
+    <string name="welcome_no_device_found">तपाईले आफ्ना गियर यन्त्रहरू पावर अन गरेपछि, तिनीहरू यहाँ देखिनेछन्।</string>
+    <string name="welcome_no_device_found_description">यदि तपाईको गियरलाई ठीकसँग अन गरिएको छ तर यहाँ देखाइएको छैन भने सेटिङहरू > गियर बारे जानकारीमा जानुहोस्, त्यसपछि गियरलाई फ्याक्ट्री पूर्वनिर्धारित सेटिङहरूमा रिसेट गर्न “गियरलाई रिसेट गर्नुहोस्” लाई चयन गर्नुहोस्।</string>
+    <string name="welcome_no_device_found_title">कुनै गियर यन्त्रहरू छैनन्</string>
+    <string name="welcome_select_notice_not_enough_memory">केही गियर घडीहरू %1$s %2$s भन्दा धेरै मेमोरी भएका फोनहरूमा मात्र जडान हुन सक्छन्।</string>
+    <string name="welcome_select_your_gear">तपाईको गियर चयन गर्नुहोस्</string>
+    <string name="welcome_select_your_gear_to_connect">जडान गर्नका लागि गियर चयन गर्नुहोस्।</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">गियरमा जडान गर्नु</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">बटन</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">हामीलाई सम्पर्क गर्नुहोस्</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">सैमसंग गियरको साथमा स्मार्ट वेयरेबल अनुभवलाई अझ उन्नत बनाउँदै।</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">थप जान्नुहोस्</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">यस एपले तपाईको स्थान पत्ता लगाउन र तपाईको यन्त्र भण्डारणमा पहुँच गर्न सक्छ।</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">गियर खोज्दै…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">स्‍वागतम्</string>
+    <string name="which_gear">नजिकैमा गियर देखापर्यो</string>
+</resources>

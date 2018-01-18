@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">ایپلیکیشن کو براستہ بلیو ٹوتھ اسیسری فریم ورک کو استعمال کر کے آپ کا ڈیٹا منتقل کرنے کی اجازت دیتا ہے۔</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">براستہ فریم ورک ڈیٹا منتقل کرنا</string>
+    <string name="access_connected_device_status">آلہ کے کنکشن کی صورتحال تک رسائی کریں</string>
+    <string name="access_connected_device_status_description">یہ ایپلیکیشن پہننے کے قابل آلہ کی صورتحال تک رسائی کر سکتا ہے۔</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">یہ آپ کے %s کے ساتھ کنکشن کو ختم کردے گا</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">اپنے ورزش ڈیٹا کو خودکار طورپر ریکارڈ اور ٹریک کریں۔</string>
+    <string name="auto_activity_title">خودکار ٹریک ورزش</string>
+    <string name="auto_reinstalled">اہم فائلیں حذف کردی گئیں۔ Gear مینیجر فائلیں پھر سے نصب کردی گئیں۔</string>
+    <string name="button_scan_again">دوبارہ اسکین کریں</string>
+    <string name="button_start_scan_devices">اسکین کریں</string>
+    <string name="button_stop_scan_devices">رکیں</string>
+    <string name="button_text_bluetooth_turn_on">آن کریں</string>
+    <string name="cancel">منسوخ</string>
+    <string name="com_samsung_accessory">‏Samsung اسیسری خدمت</string>
+    <string name="com_samsung_android_gearoplugin">گیئر S پلگ ان</string>
+    <string name="connect_popup_content">جڑ رہا ہے</string>
+    <string name="connected">منسلک ہوگیا</string>
+    <string name="custom_binary_error_dialog_title">آپ کے فون کے آپریٹنگ سسٹم میں غیر مجاز طریقے سے ترمیم کی گئی ہے۔ اور یہ Samsung Gear app کے ساتھ موافق نہیں ہے۔ اپنا آپریٹنگ سسٹم چیک کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="deleting_unused_file">سابقہ ورژن سے غیر استعمال شدہ فائلوں کو حذف کرنا…</string>
+    <string name="dialog_popup_button_cancel">منسوخ</string>
+    <string name="dialog_popup_button_later">بعد میں</string>
+    <string name="dialog_popup_button_update">تازہ کاری کریں</string>
+    <string name="dialog_warning">خطرہ</string>
+    <string name="disconnect_and_backup_msg">انتظار کریں…</string>
+    <string name="do_not_show_again">دوبارہ مت دکھائیں</string>
+    <string name="download_failure_message">ڈاؤن لوڈ ناکام ہوگیا۔ دوبارہ کوشش کریں۔</string>
+    <string name="gb">گیگابائٹ</string>
+    <string name="gear_not_presesnt">مائن یہاں نہیں ہے</string>
+    <string name="general_app_name_for_reinstall">‏Samsung Gear ایپلیکیشن</string>
+    <string name="gsp_tracking_body">اپنے ورزش روٹس کو ٹریک کریں اور مزید مناسب معلومات حاصل کریں۔</string>
+    <string name="gsp_tracking_title">‏GPS ٹریکنگ</string>
+    <string name="install_from_play_store">آپ کے گیئر اور آپ کے فون کے درمیان ڈیٹا منتقلی کو اہل کرنے کے لیے %s کو نصب کرنے کے لیے ٹھیک ہے پر تھپکی دیں۔</string>
+    <string name="lets_pair_up">آئے جوڑا بنائيں</string>
+    <string name="loading">لوڈنگ…</string>
+    <string name="make_sure_both_passkey">اپنے فون اور اپنے گیئر میچ پر پاس کلید پر عمل کریں؟ تب تو یہ جوڑا بنانے کا وقت ہے۔</string>
+    <string name="maximum_power_saving_mode_dialog_body">گیئر منقطع ہوگیا ہے۔</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">زیادہ سے زیادہ پاور بچت موڈ میں %s کو کھولنے سے قاصر۔</string>
+    <string name="maximum_power_saving_mode_dialog_title">ایپلیکیشن کھولنے سے قاصر</string>
+    <string name="no_earbud_body">اگر آپ نے %s ایئربڈز کا سیٹ حاصل کرلیا ہے، تو انہیں چارجنگ کیس سے نکالیں اور انہیں اپنے کانوں پر لگائیں۔</string>
+    <string name="no_gear_body">"پریشان نہ ہوں! سب سے پہلے، چیک کریں کہ آپ کا گیئر درحقیقت آن ہے۔
+
+اگر ایسا ہے، تو سیٹنگز میں جائيں اور [گیئر پھر سیٹ کریں] کو منتخب کریں۔ اسے گیئر آلات کی فہرست میں ظاہر ہونی چاہئے۔"</string>
+    <string name="no_gear_description">گیئر ظاہر نہیں ہورہا ہے؟</string>
+    <string name="no_network_message">کوئی بھی دستیاب نیٹ ورک نہیں ڈھونڈ سکتے۔</string>
+    <string name="no_network_title">کوئی نیٹ ورک کنیکشن نہیں ہے</string>
+    <string name="none_paired">کسی آلہ جات کی جوڑی نہیں بنائی گئی</string>
+    <string name="not_now">بعد میں</string>
+    <string name="not_supported_device_or_version">چیک کریں کہ آپ کا فون موافق ہے اور اگر Samsung Gear app کو اپ ڈیٹ کرنے کی ضرورت ہے، پھر دوبارہ کوشش کریں۔</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="paired">جوڑی کردہ</string>
+    <string name="pass_key">پاس کلید</string>
+    <string name="permission_dialog_body">"ایپلیکیشن خدمت کے لیے مندرجہ ذیل اجازتوں کی ضرورت ہے۔ اختیاری اجازتوں کے لیے ، خدمت کی ڈیفالٹ فعالیت آن کیا گيا ہے، لیکن اجازت نہیں ہے۔
+
+اجازتوں کی ضرورت ہے
+• مقام: بلیوٹوتھ کے ذریعہ گيئر کے لیے قریبی آلات کے تلاش کے لیے استعمال کیا گيا
+• ذخیرہ:گيئر کے ساتھ اسٹور کردہ فائلیں وصول کرنے اور ترسیل کرنے کے لیے استعمال کیا گيا
+• ٹیلیفون: ایپلیکیشنز اپ ڈیٹ کرنے اور پلگ ان ایپلیکیشنز نصب کرنے کے لیے منفرد آلہ کے شناخت کی معلومات چیک کرنے کے لیے استعمال کیا گیا
+
+اختیاری اجازتیں
+• رابطے: رجسٹر شدہ Samsung account کی معلومات استعمال کرتے ہوئے اکاؤنٹ کے ساتھ لنک کیے جانے کی ضرورت کی بناپر خدمات فراہم کرنے کے لیے استعمال کیا گیا"</string>
+    <string name="permission_dialog_title">ایپلیکیشن کی اجازتیں</string>
+    <string name="permission_settings_dialog_message">%s استعمال کرنے سے قاصر۔ [سیٹنگز] پر تھپکی دیں، پھر درج ذیل اجازتیں دیں اور دوبارہ کوشش کریں:</string>
+    <string name="pick_gear">اپنا گیئر منتخب کریں</string>
+    <string name="popup_message_bluetooth_turn_on">بلیوٹوتھ بند ہے۔ اسے آن کرنے کے لیے [آن کریں] پر تھپکی دیں۔</string>
+    <string name="popup_title_message_bluetooth_turn_on">بلیو ٹوتھ آن کریں</string>
+    <string name="popupmenu_connect_new_gear">نئے گیئر سے جوڑیں</string>
+    <string name="preparing_connect_and_install">جوڑنے کی تیاری کررہا ہے…</string>
+    <string name="reboot">دوبارہ شروع کریں</string>
+    <string name="reboot_phone_message">‏Samsung اکسیسری خدمت اپ ڈیٹ ہوچکا ہے۔ اپنے فون کو گیئر سے جوڑنے کے لیے دوبارہ اسٹارٹ کریں۔</string>
+    <string name="retry">دوبارہ کوشش کریں</string>
+    <string name="scan_all_gear_nearby">قریبی گیئر کے لیے اسکین کریں</string>
+    <string name="scanning">اسکیننگ ہورہی ہے…</string>
+    <string name="search_again">دوبارہ تلاش کریں</string>
+    <string name="select_gear_to_connect">وہ گیئر منتخب کریں جس سے آپ جڑنا چاہتے ہیں۔</string>
+    <string name="settings">سیٹنگز</string>
+    <string name="setup_connection_dialog_body">%s سے جوڑیں؟</string>
+    <string name="setup_message_almost_there">مکمل ہونے والا ہے۔</string>
+    <string name="setup_message_download">جوڑنے کی تیاری کررہا ہے…</string>
+    <string name="setup_message_install">آپ کا فون سیٹ ہورہا ہے…</string>
+    <string name="start_journey">سفر کا آغاز کریں</string>
+    <string name="step_body">دوستوں کے ساتھ چیلنجز سیٹ کریں اور اپنے قدم کے شمار کا موازنہ کریں۔</string>
+    <string name="step_title">قدم کے چیلنجز</string>
+    <string name="title_other_devices">دستیاب آلہ جات</string>
+    <string name="title_paired_devices">جوڑی دار آلے</string>
+    <string name="toast_text_for_reinstall">%2$s کو غیر نصب کرنے پر بھی %1$s آپ کے آلہ میں باقی رہے گا۔</string>
+    <string name="uhm_install_error_msg_insufficient_storage">اضافی سافٹ ویئر (%s MB) نصب نہیں کیے جا سکتے۔ آپ کے آلے کا ذخیرہ میں کافی جگہ نہیں ہے۔ کچھ فائلز حذف کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="uhm_update_download_progress">تجدید ڈاؤن لوڈ کررہا ہے…</string>
+    <string name="uhm_update_exist_notification_subtitle">نیا ورژن دستیاب ہے</string>
+    <string name="uhm_update_exist_to_support_new_gear">بعض اسکین کئے ہوئے گیئرز آپ کے فون سے نہیں جڑ سکتے ہیں۔ %s ایپلیکیشن کو جدید ترین ورژن میں اپ ڈیٹ کرنے کے لیے [اپ ڈیٹ] پر تھپکی دیں، پھر دوبارہ کوشش کریں۔</string>
+    <string name="uhm_update_install_disconnect_device">%s سے غیر متصل کررہا ہے…</string>
+    <string name="uhm_update_install_error">انسٹال کرنا فیل</string>
+    <string name="uhm_update_install_progress">اضافی سافٹ ویئر انسٹال کررہا ہے…</string>
+    <string name="uhm_update_notice">نوٹس</string>
+    <string name="uhm_update_notice_content">ایک نیا ورژن دستیاب ہے۔ جاری رکھنے کے لیے ایپلیکیشن اپ ڈیٹ کریں۔</string>
+    <string name="uhm_update_notice_content_tUHM">اپ ڈیٹ ڈاؤن لوڈ ہوجانے کے بعد %s ایپلیکیشن بند جائے گا۔ اپ ڈیٹ مکمل کرنے کے لیے ایپلیکیشن دوبارہ کھولیں۔</string>
+    <string name="use_network_connection_dialog_body">عام حالات میں کام کرنے کیلئے %s کو نیٹ ورک کنکشن استعمال کرنے کی ضرورت ہوگی۔ اجازت دیں؟</string>
+    <string name="use_network_connection_dialog_title">نیٹ ورک کنکشنز استعمال کریں</string>
+    <string name="welcome_no_device_found">آپ کے گیئر آلات کو پاور آن کرنے کے بعد، انہیں یہاں دکھایا جائے گا۔</string>
+    <string name="welcome_no_device_found_description">اگر آپ کا گیئر صحیح طورپر پاور آن کیا گيا ہو لیکن یہاں نہ دکھایا گیا ہو، تو سیٹنگز > گیئر معلومات پر جائیں، پھر اسے اس کے فیکٹری ڈیفالٹ سیٹنگز میں گیئر پر پھر سیٹ کرنے کے لیے [پھر سیٹ گیئر] کو منتخب کریں۔</string>
+    <string name="welcome_no_device_found_title">کوئی گیئر آلات نہيں</string>
+    <string name="welcome_select_notice_not_enough_memory">کچھ گیئر واچیز صرف اس فون سے جڑ سکتا ہے جس میں %1$s %2$s کی میموری ہو۔</string>
+    <string name="welcome_select_your_gear">اپنا گیئر منتخب کریں</string>
+    <string name="welcome_select_your_gear_to_connect">جوڑنے کے لیے گیئر منتخب کریں۔</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">گیئر سے جوڑیں</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">بٹن</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ہم سے رابطہ کریں</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">‏Samsung Gear کے ساتھ اسمارٹ پہننے کے قابل آلہ کے تجربہ کو افزوں کرنا۔</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">مزید معلومات حاصل کریں</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">یہ ایپلیکیشن آپ کے مقام کی تعیین اور آپ کے آلہ کے ذخیرہ تک رسائی کرسکتا ہے۔</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">گیئر تلاش کر رہا ہے…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">خوش آمدید</string>
+    <string name="which_gear">گیئرز کو قریب میں دکھایا گیا</string>
+</resources>

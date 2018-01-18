@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Umožní aplikaci přenášet data prostřednictvím Bluetooth pomocí systému příslušenství.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Přenášení dat prostřednictvím systému</string>
+    <string name="access_connected_device_status">Přístup ke stavu připojení zař.</string>
+    <string name="access_connected_device_status_description">Aplikace má přístup ke stavu připojení zařízení, která můžete nosit na těle.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Tím bude ukončeno připojení k %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Umožňuje automaticky sledovat a zaznamenávat data cvičení.</string>
+    <string name="auto_activity_title">Aut. sledovat cvič.</string>
+    <string name="auto_reinstalled">Důležité soubory byly odstraněny. Soubory Správce Gear budou znovu nainstalovány.</string>
+    <string name="button_scan_again">Hledat</string>
+    <string name="button_start_scan_devices">Skenovat</string>
+    <string name="button_stop_scan_devices">Stop</string>
+    <string name="button_text_bluetooth_turn_on">Zapnout</string>
+    <string name="cancel">Storno</string>
+    <string name="com_samsung_accessory">Služba příslušenství Samsung</string>
+    <string name="com_samsung_android_gearoplugin">Modul plug-in Gear S</string>
+    <string name="connect_popup_content">Připojování</string>
+    <string name="connected">Připojeno</string>
+    <string name="custom_binary_error_dialog_title">Operační systém v tomto telefonu byl upraven neoprávněným způsobem a není kompatibilní s aplikací Samsung Gear. Zkontrolujte operační systém a opakujte akci.</string>
+    <string name="deleting_unused_file">Odstraňování nepoužívaných souborů z předchozí verze…</string>
+    <string name="dialog_popup_button_cancel">Storno</string>
+    <string name="dialog_popup_button_later">Později</string>
+    <string name="dialog_popup_button_update">Aktualizace</string>
+    <string name="dialog_warning">Upozornění</string>
+    <string name="disconnect_and_backup_msg">Čekejte prosím…</string>
+    <string name="do_not_show_again">Znovu nezobrazovat</string>
+    <string name="download_failure_message">Stažení se nezdařilo. Opakujte akci.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Moje tu není</string>
+    <string name="general_app_name_for_reinstall">aplikace Samsung Gear</string>
+    <string name="gsp_tracking_body">Sledujte trasy cvičení a získáte přesnější informace.</string>
+    <string name="gsp_tracking_title">Sledování GPS</string>
+    <string name="install_from_play_store">Klepnutím na OK nainstalujete %s a umožníte přenos dat mezi Gear a telefonem.</string>
+    <string name="lets_pair_up">Spárování</string>
+    <string name="loading">Nahrávám…</string>
+    <string name="make_sure_both_passkey">Shodují se kódy v telefonu a v Gear? Pak je můžete spárovat.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear bylo odpojeno.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">V Maximálním úsporném režimu nelze otevřít %s.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Aplikaci nelze spustit</string>
+    <string name="no_earbud_body">Pokud jste dostali sadu sluchátek %s, vyjměte je z nabíjecího pouzdra a vložte si je do uší.</string>
+    <string name="no_gear_body">"Buďte bez obav. Nejprve zkontrolujte, zda je Gear zapnuté.
+
+Je-li zapnuté, přejděte na Nastavení a vyberte možnost Resetovat Gear. Zařízení by se potom mělo objevit v seznamu zařízení Gear."</string>
+    <string name="no_gear_description">Gear není vidět?</string>
+    <string name="no_network_message">Nebyly nalezeny žádné dostupné sítě.</string>
+    <string name="no_network_title">Žádné síťové připojení</string>
+    <string name="none_paired">Nejsou spárovaná žádná zařízení.</string>
+    <string name="not_now">Později</string>
+    <string name="not_supported_device_or_version">Zkontrolujte, zda je telefon kompatibilní a zda je zapotřebí aktualizovat aplikaci Samsung Gear, a opakujte akci.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Spárováno</string>
+    <string name="pass_key">Kód</string>
+    <string name="permission_dialog_body">"Aplikační služba vyžaduje následující oprávnění. U volitelných oprávnění je výchozí funkčnost služby zapnutá, ale není povolená.
+
+Požadovaná oprávnění
+• Zjišťování polohy: Používá se k vyhledávání nedalekých zařízení pro Gear prostřednictvím Bluetooth
+• Úložiště: Používá se k odesílání a příjmu uložených souborů pomocí Gear
+• Telefon: Používá se ke kontrole jedinečných identifikačních informací o zařízení kvůli aktualizaci aplikací a instalaci modulů plug-in
+
+Volitelná oprávnění
+• Kontakty: Používá se k poskytování služeb, které je potřeba spojit s účty pomocí informací registrovaných v účtu Samsung account"</string>
+    <string name="permission_dialog_title">Oprávnění aplikace</string>
+    <string name="permission_settings_dialog_message">Nelze použít %s. Klepněte na NASTAVENÍ a potom povolte následující oprávnění a opakujte akci:</string>
+    <string name="pick_gear">Vyberte Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth je vypnuté. Zapnete ho klepnutím na tlačítko Zapnout.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Zapnout Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Připojit nové Gear</string>
+    <string name="preparing_connect_and_install">Probíhá příprava na připojení…</string>
+    <string name="reboot">Restart.</string>
+    <string name="reboot_phone_message">Služba příslušenství Samsung byla aktualizována. Restartujte telefon, abyste ho připojili ke Gear.</string>
+    <string name="retry">Opakovat</string>
+    <string name="scan_all_gear_nearby">Hledat Gear v okolí</string>
+    <string name="scanning">Vyhledávání…</string>
+    <string name="search_again">Hledat znovu</string>
+    <string name="select_gear_to_connect">Vyberte Gear, ke kterému se chcete připojit.</string>
+    <string name="settings">Nastavení</string>
+    <string name="setup_connection_dialog_body">Připojit k %s?</string>
+    <string name="setup_message_almost_there">Jste skoro na konci.</string>
+    <string name="setup_message_download">Probíhá příprava na připojení…</string>
+    <string name="setup_message_install">Nastavení telefonu…</string>
+    <string name="start_journey">Připojit ke Gear</string>
+    <string name="step_body">Nastavte výzvy a porovnejte váš počet kroků s přáteli.</string>
+    <string name="step_title">Krokové výzvy</string>
+    <string name="title_other_devices">Dostupná zařízení</string>
+    <string name="title_paired_devices">Spárovaná zařízení</string>
+    <string name="toast_text_for_reinstall">%1$s zůstane v zařízení i po odinstalování %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Další software (%s MB) nelze nainstalovat. V paměti zařízení není dostatek volného místa. Odstraňte některé soubory a opakujte akci.</string>
+    <string name="uhm_update_download_progress">Stahování aktualizace…</string>
+    <string name="uhm_update_exist_notification_subtitle">K dispozici je nová verze.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Některá z nalezených zařízení Gear nelze připojit k telefonu. Klepnutím na tlačítko AKTUALIZOVAT aktualizujte aplikaci %s na nejnovější verzi a opakujte akci.</string>
+    <string name="uhm_update_install_disconnect_device">Odpojování od %s…</string>
+    <string name="uhm_update_install_error">Instalace se nezdařila</string>
+    <string name="uhm_update_install_progress">Probíhá instalace dalšího softwaru…</string>
+    <string name="uhm_update_notice">Poznámka</string>
+    <string name="uhm_update_notice_content">K dispozici je nová verze. Abyste mohli pokračovat, aktualizujte aplikaci.</string>
+    <string name="uhm_update_notice_content_tUHM">Po stažení aktualizace bude aplikace %s ukončena. Abyste dokončili aktualizaci, aplikaci znovu spusťte.</string>
+    <string name="use_network_connection_dialog_body">%s potřebuje k normálnímu fungování použít síťová připojení. Povolit?</string>
+    <string name="use_network_connection_dialog_title">Použít síťová připojení</string>
+    <string name="welcome_no_device_found">Až zapnete zařízení Gear, zobrazí se zde.</string>
+    <string name="welcome_no_device_found_description">Pokud je zařízení Gear zapnuté, ale nezobrazuje se zde, přejděte na Nastavení > Informace o Gear a vyberte v Gear příkaz Resetovat Gear, abyste obnovili jeho výchozí nastavení.</string>
+    <string name="welcome_no_device_found_title">Žádná zařízení Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Některé hodinky Gear lze připojit pouze k telefonům, které mají více než %1$s %2$s paměti.</string>
+    <string name="welcome_select_your_gear">Vyberte Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Vyberte Gear pro připojení.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Připojit ke Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Tlačítko</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Kontaktujte nás</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Vylepšení použití chytrých zařízení, která můžete nosit na těle, pomocí Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Další informace</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Aplikace může určit vaši polohu a používat paměť zařízení.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Hledání Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Vítejte</string>
+    <string name="which_gear">V blízkém okolí byla nalezena zařízení Gear</string>
+</resources>

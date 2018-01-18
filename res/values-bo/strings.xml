@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">མཁོ་ཆས་གཞི་སྒྲོམ་བེད་སྤྱོད་ནས་ སོ་སྔོན་བརྒྱུད་དེ་ཁྱེད་ཀྱི་གཞི་གྲངས་འདི་སྤོ་བཞུད་བྱེད་ནི་གི་འབོད་སྐུལ་ལ་ངོས་ལེན་སྤྲོད།</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">གཞི་སྒྲོམ་བརྒྱུད་དེ་གཞི་གྲངས་སྤོ་བཞུད་བཞིན</string>
+    <string name="access_connected_device_status">སྒྲིག༌ཆས༌ཀྱུ༌སྦྲེལ༌མཐུད༌གནས༌བབས༌སླེབ༌ཐབས</string>
+    <string name="access_connected_device_status_description">འབོད་སྐུལ་འདིར་གྱིས་ གྱོན་ཐུབ་པའི་སྒྲིག་ཆས་ཀྱི་སྦྲེལ་མཐུད་ཀྱི་གནས་བབས་འདི་སླེབ་ཐབས་ནུས།</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">དེས་ཁྱེད་དང་ %s བར་གྱི་འབྲེལ་བ་བཅད་སྲིད།</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">自动追踪并记录您的健身数据</string>
+    <string name="auto_activity_title">自动追踪健身</string>
+    <string name="auto_reinstalled">གལ་ཅན་གྱི་ཡིག་སྣོད་སུབ་ཤག། Gear འཛིན་སྐྱོང་པའི་ཡིག་སྣོད་སླར་གསོ་འཛུགས་ཤག།</string>
+    <string name="button_scan_again">再次扫描</string>
+    <string name="button_stop_scan_devices">བཀག</string>
+    <string name="button_text_bluetooth_turn_on">ཁ་ཕྱེ་བ།</string>
+    <string name="cancel">རྩིས་མེད།</string>
+    <string name="com_samsung_accessory">三星配件服务</string>
+    <string name="com_samsung_android_gearoplugin">Gear Sབར་འཇུག</string>
+    <string name="connect_popup_content">ད་ལྟ་འབྲེལ་བཞིན་པ།</string>
+    <string name="connected">འབྲེལ་མཐུད་ཟིན།</string>
+    <string name="custom_binary_error_dialog_title">您手机上的操作系统已遭未经授权的修改，且不能兼容三星 Gear 应用程序。请检查您的操作系统并重试。</string>
+    <string name="deleting_unused_file">སྔོན་མའི་ཐོན་རིམ་ནས་ བེད་མ་སྤྱོད་པའི་ཡིག་སྣོད་ཚོ་སུབ་བཞིན་པ་་་</string>
+    <string name="dialog_popup_button_cancel">རྩིས་མེད།</string>
+    <string name="dialog_popup_button_later">ཅུང་ཟད་ནས།</string>
+    <string name="dialog_popup_button_update">ལེགས་བཅོས</string>
+    <string name="dialog_warning">ཉེན་བརྡ།</string>
+    <string name="disconnect_and_backup_msg">ཏོག་ཙམ་སྒུགས་རོགས།</string>
+    <string name="do_not_show_again">ཡང་བསྐྱར་མི་འཆར་བ།</string>
+    <string name="download_failure_message">ཕབ་ལེན་མ་ཐུབ།བསྐྱར་ཚོད་བྱེད།</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">ང་ཡི་Gearགསལ་སྟོན་བྱས་མེད།</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear འབོད་སྐུལ</string>
+    <string name="gsp_tracking_body">追踪您的健身路线并获取更精确的信息</string>
+    <string name="gsp_tracking_title">GPS 追踪</string>
+    <string name="lets_pair_up">ང་ཚོ་ལྷན་སྡེབ་འགོ་ཚུགས་དོ།</string>
+    <string name="loading">ནང་འདྲེན་བྱེད་བཞིན་པ།</string>
+    <string name="make_sure_both_passkey">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་དང་Gearཐོག་གི་གསང་ཨང་མི་མཐུན།གལ་སྲིད་མཐུན་ཚེ་ལྷན་སྡེབ་འགོ་ཚུགས་དགོས།</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear 已断开连接。</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">གློག་གྲོན་ཚད་མཐོ་ཤོས་དཔེ་དབྱིབས་སྐབས་སུ%sཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="maximum_power_saving_mode_dialog_title">ཉེར་སྤྱོད་བྱ་རིམ་ཁ་ཕྱེ་མ་ཐུབ།</string>
+    <string name="no_earbud_body">གལ་སྲིད་ཁྱེད་ལ་%sསྙན་ཆས་ཡོད་ཚེ།དེ་ཉིད་གློག་སྣོན་བསྒར་གདན་ཐོག་བརྐོག་པ་དང་རྣ་བར་བཏགས་དགོས།</string>
+    <string name="no_gear_body">"སེམས་འཁྲལ་གནང་མི་དགོས།ཁྱེད་ཀྱི་Gearཁ་ཕྱེ་ཟིན་ནམ།
+
+གལ་སྲིད་Gearཁ་ཕྱེ་ཟིན་ཚེ།༼སྒྲིག་འགོད་༽ནང་ཞུགས་ནས་༼Gearབསྐྱར་སྒྲིག་༽འདེམས་དགོས།དེ་རྗེས་དེ་ཉིད་Gearའཕྲུལ་ཆས་གསལ་ཐོའི་ནང་འཆར་སྲིད།"</string>
+    <string name="no_gear_description">Gearགསལ་མེད་དམ།</string>
+    <string name="no_network_message">སྤྱོད་ཆོག་པའི་དྲ་བ་གང་རུང་མི་རྙེད།</string>
+    <string name="no_network_title">དྲ་བའི་འབྲེལ་མཐུད་མེད།</string>
+    <string name="none_paired">སྒྲིག་ཆས་གཅིག་ཡང་མ་མཐུད་ཤག།</string>
+    <string name="not_now">ཅུང་ཟད་ནས།</string>
+    <string name="not_supported_device_or_version">检查您的手机是否兼容以及三星 Gear 应用程序是否需要更新，然后重试。</string>
+    <string name="ok">གཏན་འཁེལ།</string>
+    <string name="paired">ལྷན་སྡེབ་བྱས་ཟིན།</string>
+    <string name="pass_key">གསང་ལྡེ།</string>
+    <string name="permission_dialog_body">"ཉེར་སྤྱོད་བྱ་རིམ་འདིའི་ཞབས་ཞུར་གཤམ་གྱི་དབང་ཚད་དགོས།འདེམས་ག་བྱེད་ཆོག་པའི་དབང་ཚད་ལ།སོར་བཞག་ཞབས་ཞུ་ཕན་ནུས་ཁ་ཕྱེ་སྲིད།ཡིན་ནའང་སྐབས་འཕྲུལ་དབང་ཚད་སྤྲོད་མི་སྲིད།
+
+དགོས་པའི་དབང་ཚད།
+•གནས་ཡུལ་ནི་སོ་སྔོན་བརྒྱུད་ནས་Gearཉེ་འཁོར་གྱི་འཕྲུལ་ཆས་འཚོལ་བར་སྤྱད་སྲིད།
+•གསོག་སྣོད་ནི་Gearབརྒྱུད་ནས་གསོག་ཉར་བྱས་པའི་ཡིག་ཆ་འདྲེན་གཏོང་དང་བསྡུ་ལེན་བྱེད་པར་མཁོ།
+•ཁ་པར་ནི་འཕྲུལ་ཆས་གཅིག་རང་ཡིན་མིན་ཞིབ་བཤེར་བྱེད་པའི་རྟགས་མཚན་ཆ་འཕྲིན་ཡིན།དེ་ལས་ཉེར་སྤྱོད་བྱ་རིམ་གསར་བརྗེས་དང་ཉེར་སྤྱོད་བྱ་རིམ་ལྷུ་ཆས་སྒྲིག་འཇུག་བྱེད་ཐུབ།
+
+འདེམས་ག་ཆོག་པའི་དབང་ཚད།
+•འབྲེལ་གཏུག་མི་སྣ་ནི་ཐོ་འགོད་ཟིན་པའི་Samsung accountབརྒྱུད་ཆ་འཕྲིན་མཁོ་འདོན་བྱེད་པའི་རྩིས་གཞི་དང་འབྲེལ་ཡོད་ཀྱི་ཞབས་ཞུར་ཟེར།"</string>
+    <string name="permission_dialog_title">མཉེན་ཆས་དབང་ཚད།</string>
+    <string name="permission_settings_dialog_message">%sབེད་སྤྱོད་གཏོང་མི་ཐུབ། ༼སྒྲིག་འགོད།༽བརྡེབས་ནས། དེ་རྗེས་གཤམ་གྱི་དབང་ཚད་ཁག་སྤྲད་ནས་ཚོད་ལྟ་བསྐྱར་དུ་བྱ་དགོས།</string>
+    <string name="pick_gear">ཁྱེད་ཀྱི་Gearའདེམས་དགོས།</string>
+    <string name="popup_message_bluetooth_turn_on">སོ་སྔོན་གྱི་སྒོ་སྟེམ།༼སྒོ་འབྱེད༽ལ་རྡེབ་ནས་སོ་སྔོན་གྱི་སྒོ་སྟེམ།</string>
+    <string name="popup_title_message_bluetooth_turn_on">སོ་སྔོན་ཁ་ཕྱེ།</string>
+    <string name="popupmenu_connect_new_gear">连接新的 Gear</string>
+    <string name="preparing_connect_and_install">正在准备连接…</string>
+    <string name="reboot">重启</string>
+    <string name="reboot_phone_message">已更新三星配件服务。若要连接 Gear，请重启您的手机。</string>
+    <string name="retry">བསྐྱར་ཚོད།</string>
+    <string name="scan_all_gear_nearby">ཉེ་འཁོར་གྱི་Gearབཤེར་འབེབ་བྱེད།</string>
+    <string name="scanning">བཤེར་འབེབ་བྱེད་བཞིན་འདུག</string>
+    <string name="search_again">སླར་འཚོལ་བཤེར་བྱེད།</string>
+    <string name="select_gear_to_connect">ཁྱེད་ནས་འབྲེལ་མཐུད་བྱེད་པའི་Gearའདེམས་དགོས།</string>
+    <string name="settings">སྒྲིག་འགོད།</string>
+    <string name="setup_connection_dialog_body">是否连接至%s？</string>
+    <string name="setup_message_almost_there">ཚར་ལ་ཉེ།</string>
+    <string name="setup_message_download">正在准备连接…</string>
+    <string name="setup_message_install">ཁྱེད་ཀྱི་ཁ་པར་སྒྲིག་འགོད་བྱེད་བཞིན་འདུག</string>
+    <string name="start_journey">ལམ་རྒྱུད་འགོ་ཚུགས།</string>
+    <string name="step_body">设置挑战并与好友比较您的步数</string>
+    <string name="step_title">步数挑战</string>
+    <string name="title_other_devices">སྤྱོད་ཆོག་པའི་འཕྲུལ་ཆས།</string>
+    <string name="title_paired_devices">སྡེབ་སྒྲིག་བྱས་ཟིན་པའི་འཕྲུལ་ཆས།</string>
+    <string name="toast_text_for_reinstall">%1$s འདི༌ཁྱེད༌ཀྱི༌སྒྲིག༌ཆས༌ནང༌དུ༌ %2$s འདི༌བཏོན༌གཏོང༌བྱེད༌རུང༌ཡང༌ལུས༌སོང།</string>
+    <string name="uhm_install_error_msg_insufficient_storage">ཁ་སྐོང་གི་མཉེན་ཆས་ (%s MB) འདི་སྒྲིག་འཇུག་མི་ཐུབ་པ། སྒྲིག་ཆས་ཀྱི་ཤོང་ཚད་ནང་ལ་ བར་སྟོང་གྲིག་ཚད་མེད་པ། ཡིག་སྣོད་ཞིག་སུབ་ནས་ སླར་གསོ་བྱེད།</string>
+    <string name="uhm_update_exist_to_support_new_gear">部分已扫描的 Gear 无法连接至您的手机。点击【升级】以将%s应用程序升级至最新版本，然后再重试。</string>
+    <string name="uhm_update_install_disconnect_device">ད་ལྟ་%sབར་གྱི་འབྲེལ་མཐུད་བཅད་བཞིན་པ།</string>
+    <string name="uhm_update_install_error">སྒྲིག་འཇུག་མ་ཐུབ།</string>
+    <string name="uhm_update_install_progress">ཁ་སྐོང་གི་མཉེན་ཆས་འཇུག་སྒྲིག་བཞིན་པ་་་</string>
+    <string name="uhm_update_notice_content">有新版本可用，请更新应用程序以继续。</string>
+    <string name="uhm_update_notice_content_tUHM">更新下载完成后，%s应用程序将关闭。重新打开此应用程序以完成更新。</string>
+    <string name="use_network_connection_dialog_body">%s དྲ་སྦྲེལ་བཀོལ་ན་རྒྱུན་ལྡན་ལས་ཀ་བྱེད་ཐུབ་པ་ཡིན།སྦྲེལ་ཆོག་གམ།</string>
+    <string name="use_network_connection_dialog_title">དྲ་སྦྲེལ་བཀོལ་བ།</string>
+    <string name="welcome_no_device_found">在打开您的 Gear 设备后，其将显示在此处。</string>
+    <string name="welcome_no_device_found_description">如果您的 Gear 已正常开机但未显示在此处，请在 Gear 上进入【设置】>【Gear 信息】，然后选择【重置 Gear】将其重置为出厂默认设置。</string>
+    <string name="welcome_no_device_found_title">无 Gear 设备</string>
+    <string name="welcome_select_notice_not_enough_memory">Gearཆུ་ཚོད་ཁག་ཅིག་ནས་ནང་ཁོངས་གསོག་སྣོད་ཆེ་ཆུང་%1$s %2$sཡན་གྱི་ལག་ཐོག་ཁ་པར་ཁོ་ན་འབྲེལ་ཐུབ།</string>
+    <string name="welcome_select_your_gear">选择您的 Gear</string>
+    <string name="welcome_select_your_gear_to_connect">请选择要连接的 Gear。</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">连接至 Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">མཐེབ་གནོན།</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ཁྱབ་ཚད་ཆེ་བའི་ཡོངས་འབྲེལ་ཐོག་ འབྲེལ་མཐུད་མཛོད</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">与 Samsung Gear 一起提升智能可穿戴体验</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">了解更多</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">此应用程序可确定您的位置并访问您的设备存储。</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">正在搜索 Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">དགའ་བསུ་ཞུ།</string>
+    <string name="which_gear">ཉེ་འཁོར་རྙེད་པའི་Gear</string>
+</resources>

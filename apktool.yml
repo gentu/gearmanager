@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Samsung Gear_com.samsung.android.app.watchmanager.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '18'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles:
+  SEC-INF/buildConfirm.crt: '8'
+  SEC-INF/buildinfo.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.4-dirty
+versionInfo:
+  versionCode: '2117082261'
+  versionName: 2.2.17082261

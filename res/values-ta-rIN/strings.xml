@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">உபகரணத்தின் ஃப்ரேம்வொர்க்கைப் பயன்படுத்தி ப்ளூடூத் வழியாக உங்கள் தரவை இடமாற்ற பயன்பாட்டை அனுமதிக்கிறது.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ஃப்ரேம்வொர்க்கின் வழியாக தரவை இடமாற்றுதல்</string>
+    <string name="access_connected_device_status">சாதன இணைப்பு நிலையை அணுகவும்</string>
+    <string name="access_connected_device_status_description">இந்தப் பயன்பாட்டால், அணியக்கூடிய சாதன இணைப்பு நிலையை அணுக இயலும்.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">இது %s-வுடனான உங்கள் இணைப்பை முடிக்கும்.</string>
+    <string name="app_name">சாம்சங் கியர்</string>
+    <string name="auto_activity_body">உங்கல் உடற்பயிற்சி தரவை தானாக ட்ராக் செய்து பதிவுசெய்யவும்.</string>
+    <string name="auto_activity_title">தானாகவே ட்ராக் ஆகும் உடற்பயிற்சிகள்</string>
+    <string name="auto_reinstalled">முக்கியமான கோப்புகள் நீக்கப்பட்டன. கியர் மேலாளர் கோப்புகள் மீண்டும் நிறுவப்பட்டன.</string>
+    <string name="button_scan_again">மீண்டும் ஸ்கேன் செய்க</string>
+    <string name="button_start_scan_devices">ஸ்கேன்</string>
+    <string name="button_stop_scan_devices">நிறுத்துக</string>
+    <string name="button_text_bluetooth_turn_on">ஆன் செய்யவும்</string>
+    <string name="cancel">ரத்து</string>
+    <string name="com_samsung_accessory">சாம்சங் துணைக்கருவி சேவை</string>
+    <string name="com_samsung_android_gearoplugin">கியர் S ப்ளக்-இன்</string>
+    <string name="connect_popup_content">இணைக்கிறது</string>
+    <string name="connected">இணைக்கபட்டது</string>
+    <string name="custom_binary_error_dialog_title">உங்கள் சாதனத்தில் உள்ள இயங்கு தளமானது அங்கீகாரமற்ற முறையில் திருத்தப்பட்டுள்ளது மற்றும் சாம்சங் கியர் பயன்பாட்டுடன் இணங்கவில்லை. உங்கள் இயங்கு தளத்தை சரிபார்த்து மீண்டும் முயலவும்.</string>
+    <string name="deleting_unused_file">முந்தைய பதிப்பிலிருந்து பயன்படுத்தாத கோப்புகளை நீக்குகிறது…</string>
+    <string name="dialog_popup_button_cancel">ரத்து</string>
+    <string name="dialog_popup_button_later">பின்னர்</string>
+    <string name="dialog_popup_button_update">புதுப்பிக்கவும்</string>
+    <string name="dialog_warning">எச்சரிக்கை</string>
+    <string name="disconnect_and_backup_msg">தயவுசெய்து காத்திருக்கவும்…</string>
+    <string name="do_not_show_again">மீண்டும் காட்ட வேண்டாம்</string>
+    <string name="download_failure_message">பதிவிறக்க இயலவில்லை. பின்னர் முயலுக.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">என்னுடையது இங்கு இல்லை</string>
+    <string name="general_app_name_for_reinstall">சாம்சங் கியர் பயன்பாடு</string>
+    <string name="gsp_tracking_body">உங்கள் உடற்பயிற்சி வழித்தடத்தை ட்ராக் செய்து மேலும் துல்லியமான விவரத்தை பெறுக.</string>
+    <string name="gsp_tracking_title">GPS ட்ராக்கிங்</string>
+    <string name="install_from_play_store">உங்கள் கியருக்கும் ஃபோனுக்கும் இடையில் தரவை இடமாற்றுவதை செயல்படுத்துவதற்கு %s -ஐ நிறுவ, சரி என்பதை டேப் செய்யவும்.</string>
+    <string name="lets_pair_up">இணைக்கவும்</string>
+    <string name="loading">லோடிங்…</string>
+    <string name="make_sure_both_passkey">உங்கள் ஃபோன் மற்றும் உங்கள் கியரில் உள்ள கடவுக்குறியீடுகள் பொருந்துகிறதா? ஆம் எனில், இதுதான் இணைப்பதற்கான நேரம்.</string>
+    <string name="maximum_power_saving_mode_dialog_body">கியர் துண்டிக்கப்பட்டு விட்டது.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">அதிகபட்ச பவர் சேமிப்பு முறையில் %s-ஐ திறக்க இயலாது.</string>
+    <string name="maximum_power_saving_mode_dialog_title">ப.பாட்டை திறக்க இயலவில்லை</string>
+    <string name="no_earbud_body">நீங்கள் %s இயர்பட்களின் தொகுப்பை கொண்டிருந்தால், அவற்றை சார்ஜிங் உறையில் இருந்து எடுத்து உங்கள் காதுகளில் வைக்கவும்.</string>
+    <string name="no_gear_body">"கவலைப்பட வேண்டாம்! முதலில், உங்கள் கியர் ஆன் செய்யப்பட்டுள்ளதா என்று பார்க்கவும்.
+
+இயக்கப்பட்டிருந்தால், அமைவுகளுக்குச் சென்று கியரை ரீசெட் செய்க என்பதைத் தேர்வுசெய்யவும். பிறகு இது கியர் சாதனங்களின் பட்டியலில் காட்டப்பட வேண்டும்."</string>
+    <string name="no_gear_description">கியர் தோன்றவில்லையா?</string>
+    <string name="no_network_message">கிடைக்கும் நெட்வொர்க்குகளைக் கண்டறிய இயலவில்லை.</string>
+    <string name="no_network_title">நெட்வொர்க் இணைப்பு இல்லை</string>
+    <string name="none_paired">சாதனங்கள் எதுவும் இணைக்கப்படவில்லை.</string>
+    <string name="not_now">பின்னர்</string>
+    <string name="not_supported_device_or_version">உங்கள் ஃபோன் இணக்கமானதா மற்றும் சாம்சங் கியர் பயன்பாடு புதுப்பிக்க வேண்டுமா என்று சரிபார்த்து, பிறகு மீண்டும் முயலவும்.</string>
+    <string name="ok">சரி</string>
+    <string name="paired">இணைக்கப்பட்டது</string>
+    <string name="pass_key">கடவுவிசை</string>
+    <string name="permission_dialog_body">"பயன்பாட்டின் சேவைக்கு பின்வரும் அனுமதிகள் தேவை. விருப்பத்தெரிவு அனுமதிகளுக்கு, சேவையின் டீஃபால்ட் செயல்பாடு இயக்கப்படும், ஆனால் அனுமதிக்கப்படாது.
+
+தேவையான அனுமதிகள்
+• இருப்பிடம்: கியருக்காக ப்ளூடூத் மூலம் அருகில் உள்ள சாதனங்களைத் தேட பயன்படுத்தப்படும்
+• சேமிப்பகம்: கியர் மூலம் கோப்புகளை அனுப்பவும், பெற்று சேமிக்கவும் பயன்படுத்தப்படும்
+• தொலைபேசி: Uபயன்பாடுகளைப் புதுப்பித்தல் மற்றும் பயன்பாடுகளின் பிளக்-இன்களை நிறுவுவதற்காக சாதன-தனித்துவ அடையாளம் காட்டி விவரத்தை உறுதிசெய்யப் பயன்படுத்தப்படும்
+
+விருப்பத்தெரிவு அனுமதிகள்
+• தொடர்புகள்: பதிவுசெய்த Samsung account விவரங்களைப் பயன்படுத்தும் கணக்குகளுடன் இணைக்கப்படும் சேவைகளை வழங்கப் பயன்படுத்தப்படும்"</string>
+    <string name="permission_dialog_title">பயன்பாட்டு அனுமதிகள்</string>
+    <string name="permission_settings_dialog_message">%s-ஐ பயன்படுத்த இயலவில்லை. “அமைவுகளை” டேப் செய்து, பிறகு பின்வரும் அனுமதிகளை அனுமதிக்கவும், மீண்டும் முயலவும்:</string>
+    <string name="pick_gear">உங்கள் கியரைத் தேர்வுசெய்க</string>
+    <string name="popup_message_bluetooth_turn_on">ப்ளூடூத் ஆஃப் செய்யப்பட்டுள்ளது. அதை ஆன் செய்ய, “ஆன் செய்க” என்பதை டேப் செய்யவும்.</string>
+    <string name="popup_title_message_bluetooth_turn_on">ப்ளூடூத்தை ஆன் செய்க</string>
+    <string name="popupmenu_connect_new_gear">புதிய கியரை இணைக்கவும்</string>
+    <string name="preparing_connect_and_install">இணைக்க தயாராக்குகிறது…</string>
+    <string name="reboot">மீ. துவங்கு</string>
+    <string name="reboot_phone_message">சாம்சங் துணைக்கருவிச் சேவை புதுப்பிக்கப்பட்டுள்ளது. உங்கள் கியருடன் இணைக்க, உங்கள் ஃபோனை மீண்டும் துவங்கவும்.</string>
+    <string name="retry">மீண்டும் முயலுக</string>
+    <string name="scan_all_gear_nearby">அருகிலுள்ள கியரை ஸ்கேன் செய்க</string>
+    <string name="scanning">ஸ்கேன் செய்கிறது…</string>
+    <string name="search_again">மீ. தேடுக</string>
+    <string name="select_gear_to_connect">நீங்கள் இணைக்க விரும்பும் கியரைத் தேர்வு செய்யவும்.</string>
+    <string name="settings">அமைவுகள்</string>
+    <string name="setup_connection_dialog_body">%s உடன் இணைக்கவா?</string>
+    <string name="setup_message_almost_there">நீங்கள் நெருங்கிவிட்டீர்கள்.</string>
+    <string name="setup_message_download">இணைக்க தயாராக்குகிறது…</string>
+    <string name="setup_message_install">உங்கள் ஃபோனை அமைக்கிறது…</string>
+    <string name="start_journey">பயணத்தைத் துவங்குக</string>
+    <string name="step_body">சவால்களை அமைத்து, உங்கள் காலடிகளை நண்பர்களுடன் ஒப்பிடவும்.</string>
+    <string name="step_title">காலடிகள் சவால்கள்</string>
+    <string name="title_other_devices">கிடைக்கும் சாதனங்கள்</string>
+    <string name="title_paired_devices">இணைக்கப்பட்ட சாதனங்கள்</string>
+    <string name="toast_text_for_reinstall">%2$s-ஐ நிறுவல் நீக்கிய பிறகும் கூட %1$s உங்கள் சாதனத்தில் தொடர்ந்து இருக்கும்.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">கூடுதல் மென்பொருளை (%s MB) நிறுவ இயலவில்லை. உங்கள் சாதன சேமிப்பகத்தில் போதுமான இடமில்லை. சில கோப்புகளை நீக்கிவிட்டு மீண்டும் முயலவும்.</string>
+    <string name="uhm_update_download_progress">புதுப்பித்தலை பதிவிறக்குகிறது…</string>
+    <string name="uhm_update_exist_notification_subtitle">புதிய பதிப்பு கிடைக்கிறது.</string>
+    <string name="uhm_update_exist_to_support_new_gear">ஸ்கேன் செய்த கியர்களில் சிலவற்றை உங்கள் ஃபோனில் இணைக்க இயலாது. “புதுப்பிக்கவும்” என்பதை டேப் செய்து %s பயன்பாட்டை சமீபத்தியப் பதிப்பிற்குப் புதுப்பித்து, பின்னர் மீண்டும் முயலவும்.</string>
+    <string name="uhm_update_install_disconnect_device">%s-இலிருந்து இணைப்பைத் துண்டித்தல்…</string>
+    <string name="uhm_update_install_error">நிறுவுதல் தோல்வி</string>
+    <string name="uhm_update_install_progress">கூடுதல் மென்பொருளை நிறுவுகிறது…</string>
+    <string name="uhm_update_notice">அறிவிப்பு</string>
+    <string name="uhm_update_notice_content">புதிய பதிப்பு கிடைக்கிறது. தொடர, பயன்பாட்டை புதுப்பிக்கவும்.</string>
+    <string name="uhm_update_notice_content_tUHM">புதுப்பிப்பு பதிவிறக்கப்பட்ட பிறகு, %s பயன்பாடு மூடப்படும். புதுப்பிப்பை முடிக்க, பயன்பாட்டை மீண்டும் திறக்கவும்.</string>
+    <string name="use_network_connection_dialog_body">வழக்கமாக வேலை செய்ய %s நெட்வொர்க் இணைப்புகளை பயன்படுத்த வேண்டும். அனுமதிக்கவா?</string>
+    <string name="use_network_connection_dialog_title">நெட்வொர்க் இணைப்புகளை பயன்படுத்தவும்</string>
+    <string name="welcome_no_device_found">உங்கள் கியர் சாதனங்களை பவர் ஆன் செய்த, பிறகு அவை இங்கே காட்டப்படும்.</string>
+    <string name="welcome_no_device_found_description">உங்கள் கியர் சரியாக பவர் ஆன் செய்யப்பட்டிருந்தும், இங்கு தோன்றவில்லையெனில், அமைவுகள் > கியர் விவரம் என்பதற்குச் சென்று, கியரை அதன் ஃபேக்டரி டீஃபால்ட் அமைவுகளுக்கு ரீசெட் செய்ய, கியர் ரீசெட் என்பதைத் தேர்வுசெய்யவும்.</string>
+    <string name="welcome_no_device_found_title">கியர் சாதனங்கள் எதுவும் இல்லை</string>
+    <string name="welcome_select_notice_not_enough_memory">சில கியர் வாட்ச்கள் %1$s %2$s அளவு நினைவகம் கொண்ட ஃபோன்களுடன் மட்டுமே இணைக்கும்.</string>
+    <string name="welcome_select_your_gear">உங்கள் கியரை தேர்வு செய்க</string>
+    <string name="welcome_select_your_gear_to_connect">இணைக்க கியரைத் தேர்வு செய்யவும்.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">கியருடன் இணை.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">பொத்தான்</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">எங்களை தொடர்பு கொள்க</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear-உடன் ஸ்மார்ட் அணியக்கூடியவைக்கான அனுபவத்தை மேம்படுத்துகிறது.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">மேலும் அறிக</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">இந்தப் பயன்பாட்டால் உங்கள் இருப்பிடத்தைக் கண்டறிந்து, உங்கள் சாதன சேமிப்பகத்தை அணுக இயலும்.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">கியரைத் தேடுகிறது…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">நல்வரவு</string>
+    <string name="which_gear">அருகில் கண்டறியப்பட்ட கியர்கள்</string>
+</resources>

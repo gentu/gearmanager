@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">අයිත්තම් රාමුව භාවිතයෙන් බ්ලූටූත් හරහා ඔබගේ දත්ත මාරු කිරීමට යෙදුමට ඉඩ දෙයි.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">රාමුව හරහා දත්ත මාරු කෙරෙමින්</string>
+    <string name="access_connected_device_status">උපා. සබැඳු. තත්ත්වයට ප්‍රවේශ ව.</string>
+    <string name="access_connected_device_status_description">මෙම යෙදුමට පළඳනා උපාංග සබැඳුම් තත්ත්වය වෙත ප්‍රවේශ විය හැක.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">මෙය ඔබ %s සමඟ ඇති සම්බන්ධතාවය අවසන් කරනු ඇත.</string>
+    <string name="app_name">සැම්සුං ගියර්</string>
+    <string name="auto_activity_body">ඔබේ ව්‍යායාම දත්ත ස්වයංක්‍රීයව නිරීක්ෂණය සහ පටිගත කරන්න.</string>
+    <string name="auto_activity_title">ව්‍යා. ස්. නිරීක්ෂණය</string>
+    <string name="auto_reinstalled">වැදගත් ගොනු මකන ලදී. ගියර කළමනාකරු ගොනු යළි ස්ථාපනය කෙරිණි.</string>
+    <string name="button_scan_again">නැවතත් පිරික්සන්න</string>
+    <string name="button_stop_scan_devices">නවත්.</string>
+    <string name="button_text_bluetooth_turn_on">ක්‍රියාත්මක කරන්න</string>
+    <string name="cancel">අවල. කර.</string>
+    <string name="com_samsung_accessory">සැම්සුං ආයිත්තම සේවාව</string>
+    <string name="com_samsung_android_gearoplugin">ගියර් S ප්ලගීනය</string>
+    <string name="connect_popup_content">සම්බන්ධවෙමින්</string>
+    <string name="connected">සබැඳිණි</string>
+    <string name="custom_binary_error_dialog_title">ඔබේ දුරකථනයේ ඇති මෙහෙයුම් පද්ධතිය බලය නොලත් අන්දමකින් විකරණය කර ඇත, සහ එය Samsung Gear යෙදුම සමග අනුගත නොවේ. ඔබේ මෙහෙයුම් පද්ධතිය පිරික්සා නැවත උත්සාහ කරන්න.</string>
+    <string name="deleting_unused_file">පෙර අනුවාදයෙන් භාවිතා නොකළ ගොනු මකමින්…</string>
+    <string name="dialog_popup_button_cancel">අවල. කර.</string>
+    <string name="dialog_popup_button_later">පසුව</string>
+    <string name="dialog_popup_button_update">යාවත්කාල කරන්න</string>
+    <string name="dialog_warning">අනතුරු ඇඟවීම</string>
+    <string name="disconnect_and_backup_msg">කරුණාකර රැඳී සිටින්න…</string>
+    <string name="do_not_show_again">නැවත නොපෙන්වන්න</string>
+    <string name="download_failure_message">බාගැනීම අසමත්. නැවත උත්සාහ කරන්න.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">මගේ එක මෙතැන නෑ</string>
+    <string name="general_app_name_for_reinstall">සැම්සුං ගියර් යෙදුම</string>
+    <string name="gsp_tracking_body">ඔබේ ව්‍යායාම් මාර්ග නිරීක්ෂණය කර තවත් නිවැරදි තොරතුරු ගන්න.</string>
+    <string name="gsp_tracking_title">GPS හඹා යෑම</string>
+    <string name="lets_pair_up">යුගලනය කරමු</string>
+    <string name="loading">ප්‍රෙව්ශනය කරමින්…</string>
+    <string name="make_sure_both_passkey">ඔබේ දුරකථනයේ සහ ඔබේ ගියරයේ මුරයතුරු ගැළපේ ද? යුගල කිරීමට කාලය පැමිණ තිබේ.</string>
+    <string name="maximum_power_saving_mode_dialog_body">ගියර් විසන්ධි කෙරිණි.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">උපරිම බල සුරැකුම් ප්‍රකාරය තුළ %s විවෘත කළ නොහැකිය.</string>
+    <string name="maximum_power_saving_mode_dialog_title">යෙදුම විවෘත කළ නොහැක</string>
+    <string name="no_earbud_body">ඔබට %s කන්පුඩු කට්ටලයක් ලැබුණා නම්, ඒවා චාර්ජ් කිරීමේ ආවරණයෙන් එළියට ගෙන ඔබේ කන්වල දාගන්න.</string>
+    <string name="no_gear_body">"කණගාටු නොවන්න! පළමුව, ඔබේ ගියර් සැබැවින්ම ක්‍රියාත්මක කර ඇති බව පරීක්ෂා කරන්න.
+
+එය එසේ නම්, සැකසුම් වෙත ගොස් “ගියර් යළි සකසන්න” තෝරන්න. එය ගියර් උපාංග ලැයිස්තුවේ දිස් විය යුතුය."</string>
+    <string name="no_gear_description">ගියර් දිස් නොවේ ද?</string>
+    <string name="no_network_message">පවතින ජාලයක් සොයා ගත නොහැකි විය.</string>
+    <string name="no_network_title">ජාල සබැඳුමක් නැත</string>
+    <string name="none_paired">යුගල කළ උපාංග නැත.</string>
+    <string name="not_now">පසුව</string>
+    <string name="not_supported_device_or_version">ඔබේ දුරකථනය අනුගත දැයි සහ Samsung Gear යෙදුම යාවත්කාලීන විය යුතු දැයි පිරික්සන්න, එවිට නැවත උත්සාහ කරන්න.</string>
+    <string name="ok">හරි</string>
+    <string name="paired">යුගල කළ</string>
+    <string name="pass_key">මුරයතුර</string>
+    <string name="permission_dialog_body">"පහත අවසර යෙදුම් සේවාව සඳහා අවශ්‍ය වේ. විකල්පමය අවසර සඳහා, සේවාවේ පෙරනිමි ක්‍රියාකාරිත්වය ක්‍රියාත්මක කර ඇති නමුත්, ඉඩ දී නැත.
+
+අවශ්‍ය අවසර
+• පිහිටීම: බ්ලූටූත් හරහා ගියර් සඳහා සමීපස්ථ උපාංග සෙවීමට භාවිතා වේ
+• ගබඩාව: ගියර් සමග ගබඩා කළ ගොනු සම්ප්‍රේෂණයට සහ ලැබීමට භාවිතා වේ
+• දුරකථනය: යෙදුම් යාවත්කාල කිරීම සහ පේනු-ගත යෙදුම් ස්ථාපනය කිරීම සඳහා උපාංගයට-අනන්‍ය වූ හඳුනා ගැනීමේ තොරතුරු පරීක්ෂා කිරීමට භාවිතා වේ
+
+විකල්පමය අවසර
+• සබඳතා: ලියාපදිංචි Samsung account තොරතුරු භාවිතයෙන් ගිණුම් සමග සම්බන්ධ විය යුතු සේවා සැපයීම සඳහා භාවිතා වේ"</string>
+    <string name="permission_dialog_title">යෙදුම් අවසර</string>
+    <string name="permission_settings_dialog_message">%s භාවිතා කළ නොහැකිය. “සැකසුම්” තට්ටු කරන්න, එවිට පහත අවසරයන්ට ඉඩ දී නැවත උත්සාහ කරන්න:</string>
+    <string name="pick_gear">ඔබේ ගියර් තේරීම</string>
+    <string name="popup_message_bluetooth_turn_on">බ්ලූටූත් අක්‍රියයි. එය ක්‍රියාත්මක කිරීමට “ක්‍රියාත්මක කරන්න” තට්ටු කරන්න.</string>
+    <string name="popup_title_message_bluetooth_turn_on">බ්ලූටූත් ක්‍රියාත්මක කරන්න</string>
+    <string name="popupmenu_connect_new_gear">නව ගියර් සබඳින්න</string>
+    <string name="preparing_connect_and_install">සබැඳීමට සූදානම් වෙමින්…</string>
+    <string name="reboot">යළි ඇරඹීම</string>
+    <string name="reboot_phone_message">Samsung Accessory සේවාව යාවාත්කාලීන වි ඇත. ගියර් වෙත සම්බන්ධවීමට උපාංගය යළි පිහිටුවන්න.</string>
+    <string name="retry">යළි උත්සහය</string>
+    <string name="scan_all_gear_nearby">සමීප ගියර් පිරික්සන්න</string>
+    <string name="scanning">පිරික්සමින්…</string>
+    <string name="search_again">නැවත සොයන්න</string>
+    <string name="select_gear_to_connect">ඔබට සම්බන්ධ වීමට අවශ්‍ය ගියරය තෝරන්න.</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="setup_connection_dialog_body">%s වෙත සබඳින්න ද?</string>
+    <string name="setup_message_almost_there">තව ටිකයි.</string>
+    <string name="setup_message_download">සබැඳීමට සූදානම් වෙමින්…</string>
+    <string name="setup_message_install">ඔබේ දුරකථනය සකසමින්…</string>
+    <string name="start_journey">ගමන අරඹන්න</string>
+    <string name="step_body">අභියෝග පිහිටුවා මිතුරන් සමග ඔබේ පියවර ගණන සසඳන්න.</string>
+    <string name="step_title">පියවර අභියෝග</string>
+    <string name="title_other_devices">තිබෙන ජාල</string>
+    <string name="title_paired_devices">යුගල්කළ උපාංග</string>
+    <string name="toast_text_for_reinstall">%2$s අස්ථාපනය කිරීමෙන් පසුව ද %1$s ඔබේ උපාංගයෙහි රැඳෙනු ඇත.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">අතිරේක මෘදුකාංගය (%s MB) ස්ථාපනය කළ නොහැකි විය. ඔබේ උපාංග ගබඩාවේ ප්‍රමාණවත් ඉඩක් නොමැත. ගොනු කිහිපයක් මකා නැවත උත්සාහ කරන්න.</string>
+    <string name="uhm_update_exist_to_support_new_gear">ඇතැම් පිරික්සූ ගියරයන් ඔබේ දුරකථනය වෙත සබැඳිය නොහැක. %s යෙදුම නවතම අනුවාදය වෙත යාවත්කාලීන කිරීමට “යාවත්කාලීනය” තට්ටු කරන්න, එවිට නැවත උත්සාහ කරන්න.</string>
+    <string name="uhm_update_install_disconnect_device">%s ගෙන් විසන්ධි වෙමින්…</string>
+    <string name="uhm_update_install_error">ස්ථාපිත කිරීම අපොහොසත්</string>
+    <string name="uhm_update_install_progress">අමතර මෘදුකාංග ස්ථාපනය කරමින්…</string>
+    <string name="uhm_update_notice_content">නව අනුවාදයක් ඇත. ඉදිරියට යාමට යෙදුම යාවත්කාලීන කරන්න.</string>
+    <string name="uhm_update_notice_content_tUHM">යාවත්කාලීනය බාගත් පසුව %s යෙදුම වැසෙනු ඇත. යාවත්කාලීනය සම්පූර්ණ කිරීමට යෙදුම යළි විවෘත කරන්න.</string>
+    <string name="use_network_connection_dialog_body">සාමාන්‍ය පරිදි ක්‍රියා කිරීමට %s හට ජාල සබැඳුම් භාවිතා කිරීමට අවශ්‍ය වේ. ඉඩ දෙනවා ද?</string>
+    <string name="use_network_connection_dialog_title">ජාල සබැඳුම් භාවිතය</string>
+    <string name="welcome_no_device_found">ඔබ ඔබේ ගියර් උපාංග බලගැන්වූ පසුව, ඒවා මෙතැන පෙන්වනු ඇත.</string>
+    <string name="welcome_no_device_found_description">ඔබේ ගියර් නියමාකාරයෙන් බලගන්වා ඇති නමුත් මෙතැන පෙන්වා නොමැති නම්, සැකසුම් > ගියර් තතු වෙත යන්න, එවිට ගියර් කම්හල් පෙරනිමි සැකසුම් වෙත යළි සැකසීමට එය මත “ගියර් යළි සකසන්න” තෝරන්න.</string>
+    <string name="welcome_no_device_found_title">ගියර් උපාංග නැත</string>
+    <string name="welcome_select_notice_not_enough_memory">ඇතැම් ගියර් ඔරලෝසුවලට %1$s %2$s වඩා වැඩි මතකය ඇති දුරකථනවලට පමණක් සම්බන්ධ විය හැක.</string>
+    <string name="welcome_select_your_gear">ඔබේ ගියර් තේරීම</string>
+    <string name="welcome_select_your_gear_to_connect">සබැඳීමට අවශ්‍ය ගියර් තෝරන්න.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ගියර් වෙත සබැඳීම</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">බොත්තම</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">අපව අමතන්න</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear සමග ස්මාර්ට් පැළදීමේ අත්දැකීම ඉහළ නැංවීම.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">වැඩිදුර දැන ගන්න</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">මෙම යෙදුමට ඔබ සිටින ස්ථානය නිශ්චය කර ඔබේ උපාංග ගබඩාවට ප්‍රවේශ විය හැක.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">ගියර් සොයමින්…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">ආයුබෝවන්</string>
+    <string name="which_gear">සමීපයේ සැරිසරන ගියර්</string>
+</resources>

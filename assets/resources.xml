@@ -1,0 +1,24 @@
+<rules>
+    <resource-info version="2.05">
+        <group name="Gear S3" displayOrder="2" aliasName="Gear S3 Frontier\nGear S3 Classic">
+            <item type="background" ySlideValue="855">gear_welcom_bg_gears3.png</item>
+            <item type="icon">select_divice_img_s3.png</item>
+            <item type="header">select_divice_bg_gears3.png</item>
+        </group>
+        <group name="Gear Fit2" displayOrder="3" aliasName="Gear Fit2 Pro\nGear Fit2">
+            <item type="background" ySlideValue="1254">gear_welcom_bg_fit2.png</item>
+            <item type="icon">select_divice_img_fit2.png</item>
+            <item type="header">select_divice_bg_fit2.png</item>
+        </group>
+        <group name="Gear IconX" displayOrder="4">
+            <item type="background" ySlideValue="576">gear_welcom_bg_iconx.png</item>
+            <item type="icon">select_divice_img_iconx.png</item>
+            <item type="header">select_divice_bg_iconx.png</item>
+        </group>
+        <group name="Gear Sport" displayOrder="1" aliasName="Gear Sport">
+            <item type="background" ySlideValue="1116">gear_welcom_bg_sport.png</item>
+            <item type="icon">select_divice_img_sport.png</item>
+            <item type="header">select_divice_bg_sport.png</item>
+        </group>
+    </resource-info>
+</rules>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gear Manager</string>
+    <string name="general_app_name_for_reinstall">Gear アプリケーション</string>
+    <string name="not_supported_device_or_version">端末との互換性や、Gearアプリを更新する必要があるかどうかを確認してから、再度実行してください。</string>
+    <string name="uhm_update_notice_content">Gear Managerを最新バージョンに更新する必要があります。GALAXY Appsから最新バージョンをダウンロードし、Gear Managerを最新バージョンに更新してください。</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Gearでスマートなウェアラブル体験をお楽しみください。</string>
+</resources>

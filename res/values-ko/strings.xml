@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">앱에서 액세서리 프레임워크를 사용하여 블루투스로 데이터를 전송할 수 있도록 허용합니다.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">프레임워크로 데이터 전송하기</string>
+    <string name="access_connected_device_status">디바이스 연결 상태 접근</string>
+    <string name="access_connected_device_status_description">이 앱은 웨어러블 디바이스 연결 상태에 접근할 수 있습니다.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">%s 디바이스 연결을 해제합니다.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">운동 데이터를 자동으로 기록하고 확인할 수 있습니다.</string>
+    <string name="auto_activity_title">자동으로 운동 기록</string>
+    <string name="auto_reinstalled">중요 파일이 삭제되어 Gear 관리자 파일을 다시 설치했습니다.</string>
+    <string name="button_scan_again">다시 찾기</string>
+    <string name="button_start_scan_devices">찾기</string>
+    <string name="button_stop_scan_devices">중지</string>
+    <string name="button_text_bluetooth_turn_on">실행</string>
+    <string name="cancel">취소</string>
+    <string name="com_samsung_accessory">삼성 액세서리 서비스</string>
+    <string name="com_samsung_android_gearoplugin">Gear S 플러그인</string>
+    <string name="connect_popup_content">연결 중</string>
+    <string name="connected">연결됨</string>
+    <string name="custom_binary_error_dialog_title">폰의 운영체제가 허가되지 않은 방법으로 수정되었거나 Samsung Gear 앱과 호환되지 않습니다. 운영체제를 확인한 후 다시 시도하세요.</string>
+    <string name="deleting_unused_file">이전 버전에서 사용하지 않는 파일 삭제 중…</string>
+    <string name="dialog_popup_button_cancel">취소</string>
+    <string name="dialog_popup_button_later">나중에</string>
+    <string name="dialog_popup_button_update">업데이트</string>
+    <string name="dialog_warning">경고</string>
+    <string name="disconnect_and_backup_msg">잠시 기다리세요…</string>
+    <string name="do_not_show_again">다시 보지 않기</string>
+    <string name="download_failure_message">다운로드하지 못했습니다. 다시 시도하세요.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">여기에 없어요</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear 애플리케이션</string>
+    <string name="gsp_tracking_body">GPS를 통해 운동 경로를 트래킹하여 보다 정확한 운동 정보를 확인할 수 있습니다.</string>
+    <string name="gsp_tracking_title">GPS 트래킹</string>
+    <string name="install_from_play_store">폰과 Gear에서 데이터를 서로 주고받으려면 [확인]을 눌러 %s 앱을 설치하세요.</string>
+    <string name="lets_pair_up">연결하기</string>
+    <string name="loading">불러오는 중…</string>
+    <string name="make_sure_both_passkey">폰과 Gear의 인증번호가 일치하나요? 자, 그럼 연결해 볼까요?</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear 연결이 해제된 상태입니다.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">초절전 모드에서는 %s 기능은 실행할 수 없습니다.</string>
+    <string name="maximum_power_saving_mode_dialog_title">앱을 실행할 수 없음</string>
+    <string name="no_earbud_body">%s를 가지고 있다면 충전기에서 이어버드를 꺼낸 후 양쪽 귀에 착용하세요.</string>
+    <string name="no_gear_body">"걱정 마세요! 먼저, Gear의 전원이 제대로 켜져 있는지 확인하세요.
+
+전원이 켜져 있다면 설정으로 이동하여 [Gear 초기화]를 선택하세요. Gear 목록에 내 디바이스가 표시될 거예요."</string>
+    <string name="no_gear_description">목록에서 Gear가 보이지 않나요?</string>
+    <string name="no_network_message">연결 가능한 네트워크를 찾지 못했습니다.</string>
+    <string name="no_network_title">연결된 네트워크 없음</string>
+    <string name="none_paired">등록된 디바이스가 없습니다.</string>
+    <string name="not_now">나중에</string>
+    <string name="not_supported_device_or_version">지원되는 폰인지, Samsung Gear 앱이 업데이트되었는지 확인한 후 다시 시도하세요.</string>
+    <string name="ok">확인</string>
+    <string name="paired">등록됨</string>
+    <string name="pass_key">인증번호</string>
+    <string name="permission_dialog_body">"서비스 제공을 위해 다음과 같은 접근권한을 필요로 합니다. 선택적 접근권한의 경우 허용하지 않더라도 서비스의 기본 기능의 사용은 가능합니다.
+
+[필수적 접근권한]
+• 위치 : 기어와 블루투스 연결을 위해 주변의 연결 가능 기기를 검색하기 위한 목적
+• 저장공간 : 저장된 파일을 기어와 송∙수신 하기 위한 목적
+• 전화 : 앱 업데이트 및 플러그인 앱 설치를 위해 단말 고유식별정보를 확인하기 위한 목적
+
+[선택적 접근권한]
+• 연락처 : 등록된 Samsung Account 정보를 활용하여, 계정 연동이 필요한 서비스를 제공하기 위한 목적"</string>
+    <string name="permission_dialog_title">앱 권한</string>
+    <string name="permission_settings_dialog_message">%s 기능을 사용할 수 없습니다. 상세설정 버튼을 누르고 다음 권한을 허용한 후 다시 시도하세요.</string>
+    <string name="pick_gear">내 Gear 선택하기</string>
+    <string name="popup_message_bluetooth_turn_on">블루투스가 해제된 상태입니다. 블루투스를 실행하려면 실행 버튼을 누르세요.</string>
+    <string name="popup_title_message_bluetooth_turn_on">블루투스 실행</string>
+    <string name="popupmenu_connect_new_gear">새 Gear 연결</string>
+    <string name="preparing_connect_and_install">연결 준비 중…</string>
+    <string name="reboot">다시 시작</string>
+    <string name="reboot_phone_message">삼성 액세서리 서비스를 업데이트했습니다. Gear와 연결하려면 폰을 다시 시작하세요.</string>
+    <string name="retry">다시 시도</string>
+    <string name="scan_all_gear_nearby">주변에서 Gear 찾기</string>
+    <string name="scanning">찾는 중…</string>
+    <string name="search_again">다시 검색</string>
+    <string name="select_gear_to_connect">연결할 Gear를 선택하세요.</string>
+    <string name="settings">설정</string>
+    <string name="setup_connection_dialog_body">%s에 연결할까요?</string>
+    <string name="setup_message_almost_there">거의 끝났습니다.</string>
+    <string name="setup_message_download">연결 준비 중…</string>
+    <string name="setup_message_install">폰 설정 중…</string>
+    <string name="start_journey">시작하기</string>
+    <string name="step_body">도전을 설정하고 친구와 함께 걸음 수를 확인할 수 있습니다.</string>
+    <string name="step_title">걸음 도전</string>
+    <string name="title_other_devices">연결 가능한 디바이스</string>
+    <string name="title_paired_devices">등록된 디바이스</string>
+    <string name="toast_text_for_reinstall">%2$s 플러그인을 삭제한 후에도 %1$s은 디바이스에 남아 있습니다.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">디바이스에 저장공간이 부족하여 추가 소프트웨어(%sMB)를 설치할 수 없습니다. 일부 파일을 삭제한 후 다시 시도하세요.</string>
+    <string name="uhm_update_download_progress">업데이트 다운로드 중…</string>
+    <string name="uhm_update_exist_notification_subtitle">새 버전이 있습니다.</string>
+    <string name="uhm_update_exist_to_support_new_gear">일부 검색된 Gear를 폰과 연결할 수 없습니다. 업데이트를 눌러 %s 앱을 최신 버전으로 업데이트한 후 다시 시도하세요.</string>
+    <string name="uhm_update_install_disconnect_device">%s 연결 해제 중…</string>
+    <string name="uhm_update_install_error">설치 안 됨</string>
+    <string name="uhm_update_install_progress">추가 소프트웨어 설치 중…</string>
+    <string name="uhm_update_notice">공지사항</string>
+    <string name="uhm_update_notice_content">새 버전이 있습니다. 계속하려면 앱을 업데이트하세요.</string>
+    <string name="uhm_update_notice_content_tUHM">업데이트가 다운로드되면 %s 앱이 종료됩니다. 앱을 다시 실행하여 업데이트를 완료하세요.</string>
+    <string name="use_network_connection_dialog_body">%s 앱이 정상적으로 작동하려면 네트워크 연결이 필요합니다. 허용할까요?</string>
+    <string name="use_network_connection_dialog_title">네트워크 연결 사용</string>
+    <string name="welcome_no_device_found">Gear 전원을 켜면 여기에 표시됩니다.</string>
+    <string name="welcome_no_device_found_description">Gear의 전원이 제대로 켜져 있는 상태에서 여기에 표시되지 않으면 Gear에서 [설정 > Gear 정보]로 이동한 후, Gear 초기화를 선택하여 Gear의 데이터 및 설정을 초기화하세요.</string>
+    <string name="welcome_no_device_found_title">Gear를 찾을 수 없습니다</string>
+    <string name="welcome_select_notice_not_enough_memory">일부 Gear는 RAM이 %1$s%2$s 이상인 폰에만 연결됩니다.</string>
+    <string name="welcome_select_your_gear">Gear 선택</string>
+    <string name="welcome_select_your_gear_to_connect">디바이스와 연결할 Gear를 선택하세요.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear에 연결</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">버튼</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">문의하기</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear와 함께 스마트한 웨어러블 경험을 즐겨보세요.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">자세히 알아보기</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">이 앱에서 위치를 확인할 수 있고 내 디바이스 저장공간에 접근할 수 있습니다.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear 찾는 중…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">환영합니다</string>
+    <string name="which_gear">주변에 있는 Gear</string>
+</resources>

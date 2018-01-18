@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Ба барнома имкон медиҳад, ки бо истифодаи низоми лавозимот иттилооти шуморо тавассути Bluetooth интиқол диҳад.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Интиқолдиҳии иттилоот тавассути чорчӯба</string>
+    <string name="access_connected_device_status">Дастрасӣ ба маъл. пайв. дастгоҳ</string>
+    <string name="access_connected_device_status_description">Ин барнома метавонад ҳолати пайвастагии дастгоҳҳои пӯшидашавандаро кунад.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Ин пайвастагии шуморо бо %s хотима медиҳад.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Иттилооти тамринро ба таври худкор пайгирӣ ва сабт кунед.</string>
+    <string name="auto_activity_title">Пайгирии хдкри тамрн</string>
+    <string name="auto_reinstalled">Файлҳои муҳим нест карда шуданд. Файлҳои Gear Manager аз нав насб шуданд.</string>
+    <string name="button_scan_again">Ковиши такрорӣ</string>
+    <string name="button_start_scan_devices">Ҷустуҷӯ</string>
+    <string name="button_stop_scan_devices">Қатъ кардан</string>
+    <string name="button_text_bluetooth_turn_on">Ба кор даровардан</string>
+    <string name="cancel">Бекор кардан</string>
+    <string name="com_samsung_accessory">Хидмати лавозимоти Samsung</string>
+    <string name="com_samsung_android_gearoplugin">Изофаи Gear S</string>
+    <string name="connect_popup_content">Пайваст барпо карда мешавад</string>
+    <string name="connected">Пайваст шуд</string>
+    <string name="custom_binary_error_dialog_title">Системаи омили телефони шумо ба таври мамнуъ тағйир дода шудааст, ва барои истифодаи барномаи Samsung Gear мувофиқ нест. Системаи омилро тафтиш карда, кӯшишро такрор кунед.</string>
+    <string name="deleting_unused_file">Несткунии файлҳои истифоданашуда аз версияи қаблӣ…</string>
+    <string name="dialog_popup_button_cancel">Бекор кардан</string>
+    <string name="dialog_popup_button_later">Баъдтар</string>
+    <string name="dialog_popup_button_update">Навсозӣ кардан</string>
+    <string name="dialog_warning">Диққат</string>
+    <string name="disconnect_and_backup_msg">Лутфан мунтазир шавед…</string>
+    <string name="do_not_show_again">Дигар нишон надиҳед</string>
+    <string name="download_failure_message">Боргирӣ иҷро нашуд. Аз нав кӯшиш кунед.</string>
+    <string name="gb">ГБ</string>
+    <string name="gear_not_presesnt">Аз они ман инҷо нест</string>
+    <string name="general_app_name_for_reinstall">барномаи Samsung Gear</string>
+    <string name="gsp_tracking_body">Хатсайрҳои тамринро пайгирӣ карда, маълумоти саҳеҳтар гиред.</string>
+    <string name="gsp_tracking_title">Пайгирии GPS</string>
+    <string name="install_from_play_store">Барои фаъол кардани таҳвили иттилоот байни Gear ва телефони худ, ОК-ро зарба зада, %s-ро насб кунед.</string>
+    <string name="lets_pair_up">Биёед ҷуфт шавем</string>
+    <string name="loading">Боркунӣ…</string>
+    <string name="make_sure_both_passkey">Калидҳои гузар дар Gear ва телефони шумо ба ҳам мувофиқанд? Пас, онҳоро ҷуфт кардан мумкин аст.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear ҷудо карда шуд.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Кушодани %s ҳангоми фаъол будани реҷаи Сарфаи ҳадди аксари барқ ғайриимкон аст.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Кушодани барнома ғайриимкон аст</string>
+    <string name="no_earbud_body">Агар ду гӯшмонаки %s дошта бошед, онҳоро аз ҷилди барқдиҳанда гирифта, ба гӯшҳоятон андозед.</string>
+    <string name="no_gear_body">"Хавотир нашавед! Пеш аз ҳама, фурӯзон будани Gear-ро тафтиш кунед.
+
+Агар фурӯзон бошад, ба Танзимот гузашта, Барқарор кардани Gear-ро интихоб кунед. Он бояд дар рӯйхати дастгоҳҳои Gear пайдо шавад."</string>
+    <string name="no_gear_description">Gear пайдо намешавад?</string>
+    <string name="no_network_message">Ягон шабакаи дастрас ёфт нашуд.</string>
+    <string name="no_network_title">Пайвасти шабакавӣ нест</string>
+    <string name="none_paired">Ягон дастгоҳ ҳамроҳ карда нушудааст.</string>
+    <string name="not_now">Дертар</string>
+    <string name="not_supported_device_or_version">Мувофиқ будани телефони худро тафтиш кунед ва лозимияти нав кардани барномаи Samsung Gear-ро тафтиш карда, кӯшишро такрор кунед.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Ҷуфт шуд</string>
+    <string name="pass_key">Шоҳкалид</string>
+    <string name="permission_dialog_body">"Барои кори барнома иҷозатҳои зерин лозиманд: Барои иҷозатҳои ихтиёрӣ, функсияҳои пешфарзи хидмат фурӯзон карда мешаванд, аммо иҷозат дода намешаванд.
+
+Иҷозатҳои ҳатмӣ
+• Макон: Барои ҷустуҷӯи дастгоҳҳои атроф тавассути Bluetooth барои Gear истифода бурда мешавад
+• Захирагоҳ: Барои интиқол додан ва қабул кардани файлҳои дар Gear нигоҳ доштамешуда истифода бурда мешавад
+• Телефон: Барои тафтиш кардани маълумоти муайянкунандаи беҳамтои дастгоҳ барои навсозии барномаҳо ва насб кардани барномаҳои изофавӣ истифода бурда мешавад
+
+Иҷозатҳои ихтиёрӣ
+• Алоқаҳо: Барои пешниҳод кардани хидматҳое истифода бурда мешавад, ки бояд бо ҳисобҳо бо истифодаи маълумоти Samsung account-и қайдшуда алоқаманд карда шаванд"</string>
+    <string name="permission_dialog_title">Иҷозатҳои барнома</string>
+    <string name="permission_settings_dialog_message">Истиф. %s ғайриимкон аст. ТАНЗИМОТ-ро зарба зада, иҷозатҳои зеринро бидиҳед ва кӯшишро такрор кунед.</string>
+    <string name="pick_gear">Gear-и худро интихоб кунед</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth хомӯш шуд. Барои фурӯзон кардани он Фурӯзон карданро зарба занед.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Фурӯзон кардани Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Пайваст к-дани Gear-и нав</string>
+    <string name="preparing_connect_and_install">Омодагӣ барои пайваст…</string>
+    <string name="reboot">Бозоғозӣ</string>
+    <string name="reboot_phone_message">Хизматрасонии лавозимоти Samsung навсозӣ карда шуд. Барои пайвастшавӣ ба Gear телефони худро бозоғоз кунед.</string>
+    <string name="retry">Аз нав кӯ.</string>
+    <string name="scan_all_gear_nearby">Ковиши Gear дар атроф</string>
+    <string name="scanning">Хондагирӣ иҷро мешавад…</string>
+    <string name="search_again">Ҷустуҷӯӣ такрорӣ</string>
+    <string name="select_gear_to_connect">Gear-еро интихоб кунед, ки ба он пайваст шуданиед.</string>
+    <string name="settings">Танзимот</string>
+    <string name="setup_connection_dialog_body">Ба %s пайваст меш-д?</string>
+    <string name="setup_message_almost_there">Камтари дигар.</string>
+    <string name="setup_message_download">Омодагӣ барои пайваст…</string>
+    <string name="setup_message_install">Тел танзим карда меш…</string>
+    <string name="start_journey">Ба пеш</string>
+    <string name="step_body">Майдонталабиҳо танзим к., қадамҳоятонро бо дӯстон муқоиса к.</string>
+    <string name="step_title">Майдонтал-ҳои қадам</string>
+    <string name="title_other_devices">Дастгоҳҳои дастрас</string>
+    <string name="title_paired_devices">Дастгоҳҳои ҳамроҳ</string>
+    <string name="toast_text_for_reinstall">%1$s дар телефони шумо, ҳатто баъд аз лағви насби %2$s меистад.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Нармафзори иловагиро (%s МБ) насб кардан мумкин нест. Дар захирагоҳи дастгоҳи шумо ҷои кофӣ нест. Баъзе файлҳоро нест карда, аз нав кӯшиш кунед.</string>
+    <string name="uhm_update_download_progress">Боргирии навсозӣ…</string>
+    <string name="uhm_update_exist_notification_subtitle">Версияи нав дастрас аст</string>
+    <string name="uhm_update_exist_to_support_new_gear">Баъзе аз дастгоҳҳои Gear-и сканшуда, бо дастгоҳи шумо пайваст шуда наметавонанд. НАВСОЗӢ КАРДАН-ро зарба зада, барномаи %s-ро то версияи охирин нав кунед ва кӯшишро такрор кунед.</string>
+    <string name="uhm_update_install_disconnect_device">Пайваст бо %s пароканда карда мешавад…</string>
+    <string name="uhm_update_install_error">Насбкунӣ бо нокомӣ дучор шуд</string>
+    <string name="uhm_update_install_progress">Насбкунии нармафзори иловагӣ…</string>
+    <string name="uhm_update_notice">Огоҳинома</string>
+    <string name="uhm_update_notice_content">Версияи нав дастрас аст. Барои идома додан барномаро навсозӣ кунед.</string>
+    <string name="uhm_update_notice_content_tUHM">Барномаи %s пас аз боргирӣ шудани навсозӣ пӯшида мешавад. Барои анҷом додани навсозӣ барномаро аз нав кушоед.</string>
+    <string name="use_network_connection_dialog_body">%s барои дуруст кор кардан ба пайватагии шабака ниёз дорад. Иҷозат медиҳед?</string>
+    <string name="use_network_connection_dialog_title">Истифодаи пайвастагиҳои шабака</string>
+    <string name="welcome_no_device_found">Вақте ки барқи дастгоҳоои Gear-ро фурӯзон мекунед, он дар инҷо нишон дода мешавад.</string>
+    <string name="welcome_no_device_found_description">Агар Gear-и шумо ба таври дуруст ба кор дароварда шуда бошаду дар инҷо пайдо нашавад, ба Танзимот > Маълумоти Gear гузаред, баъдан дар Gear Барқарор кардани Gear-ро интихоб карда, онро ба танзимоти пешфарзи коргоҳ барқарор кунед.</string>
+    <string name="welcome_no_device_found_title">Ягон дастгоҳи Gear нест</string>
+    <string name="welcome_select_notice_not_enough_memory">Баъзе соатҳои Gear метавонанд танҳо ба телефонҳое пайваст шаванд, ки беш аз %1$s %2$s хотира доранд.</string>
+    <string name="welcome_select_your_gear">Gear-и худро интихоб к-д</string>
+    <string name="welcome_select_your_gear_to_connect">Gear-еро барои пайваст шудан интихоб кунед.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Ба Gear пайваст шдн</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Тугма</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Тамос бо мо</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Такмилдиҳии таҷрибаи пӯшидании зеҳнӣ бо Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Маълумоти бештар</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Ин барнома метавонад макони шуморо муайян кунад ва захирагоҳи дастгоҳи шуморо дастрас кунад.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Ҷустуҷӯи Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Марҳабо</string>
+    <string name="which_gear">Дар наздикӣ дастгоҳҳои Gear зоҳир карда шуданд</string>
+</resources>

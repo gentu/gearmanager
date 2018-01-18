@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">ಅಸೆಸರಿ ಫ್ರೇಮ್‌ವರ್ಕ್ ಬಳಸಿಕೊಂಡು ಬ್ಲೂಟೂತ್ ಮೂಲಕ ನಿಮ್ಮ ಡೇಟಾ ವರ್ಗಾವಣೆ ಮಾಡಲು ಅನ್ವಯಿಸುವಿಕೆಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ಫ್ರೇಮ್‌ವರ್ಕ್ ಮೂಲಕ ಡೇಟಾ ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="access_connected_device_status">ಸಾಧನ ಸಂಪರ್ಕ ಸ್ಥಿತಿಯನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="access_connected_device_status_description">ಈ ಅನ್ವಯಿಸುವಿಕೆಯು ಧರಿಸಬಹುದಾದ ಸಾಧನ ಸಂಪರ್ಕದ ಸ್ಥಿತಿಯನ್ನು ಪ್ರವೇಶಿಸಬಹುದು.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">%s ನೊಂದಿಗೆ ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸುತ್ತದೆ.</string>
+    <string name="app_name">ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್</string>
+    <string name="auto_activity_body">ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ವ್ಯಾಯಾಮ ಡೇಟಾವನ್ನು ಟ್ರ್ಯಾಕ್ ಮತ್ತು ರೆಕಾರ್ಡ್ ಮಾಡಿ.</string>
+    <string name="auto_activity_title">ವ್ಯಾಯಾಮಗಳನ್ನು ಸ್ವಯಂ ಟ್ರ್ಯಾಕ್</string>
+    <string name="auto_reinstalled">ಪ್ರಮುಖ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ. ಗೇರ್ ಮ್ಯಾನೇಜರ್ ಫೈಲ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ.</string>
+    <string name="button_scan_again">ಮತ್ತೊಮ್ಮೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="button_start_scan_devices">ಸ್ಕ್ಯಾನ್</string>
+    <string name="button_stop_scan_devices">ನಿಲ್ಲಿಸು</string>
+    <string name="button_text_bluetooth_turn_on">ಆನ್ ಮಾಡಿ</string>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="com_samsung_accessory">ಸ್ಯಾಮ್‌ಸಂಗ್ ಅಸೆಸರಿ ಸೇವೆ</string>
+    <string name="com_samsung_android_gearoplugin">ಗೇರ್ S ಪ್ಲಗ್ ಇನ್</string>
+    <string name="connect_popup_content">ಸಂಪರ್ಕಿಸುತ್ತಿದೆ</string>
+    <string name="connected">ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</string>
+    <string name="custom_binary_error_dialog_title">ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿರುವ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂ ಅನ್ನು ಅನಧಿಕೃತ ವಿಧಾನದಲ್ಲಿ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ ಮತ್ತು ಇದು ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯೊಡನೆ ಹೊಂದಾಣಿಕೆಯಾಗುವುದಿಲ್ಲ. ನಿಮ್ಮ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂ ಅನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="deleting_unused_file">ಹಿಂದಿನ ಆವೃತ್ತಿಯಿಂದ ಬಳಸದೇ ಇರುವ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುತ್ತಿದೆ…</string>
+    <string name="dialog_popup_button_cancel">ರದ್ದು</string>
+    <string name="dialog_popup_button_later">ಆನಂತರ</string>
+    <string name="dialog_popup_button_update">ನವೀಕರಣ</string>
+    <string name="dialog_warning">ಎಚ್ಚರಿಕೆ</string>
+    <string name="disconnect_and_backup_msg">ದಯವಿಟ್ಟು ಕಾಯಿರಿ…</string>
+    <string name="do_not_show_again">ಮತ್ತೊಮ್ಮೆ ತೋರಿಸಬೇಡಿ</string>
+    <string name="download_failure_message">ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">ನನ್ನ ಗೇರ್ ಇಲ್ಲಿಲ್ಲ</string>
+    <string name="general_app_name_for_reinstall">ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆ</string>
+    <string name="gsp_tracking_body">ನಿಮ್ಮ ವ್ಯಾಯಾಮ ಮಾರ್ಗಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ ಮತ್ತು ಇನ್ನಷ್ಟು ನಿಖರ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಿರಿ.</string>
+    <string name="gsp_tracking_title">GPS ಟ್ರ್ಯಾಕಿಂಗ್</string>
+    <string name="install_from_play_store">ನಿಮ್ಮ ಗೇರ್ ಮತ್ತು ನಿಮ್ಮ ಫೋನ್ ನಡುವೆ ಡೇಟಾ ವರ್ಗಾವಣೆಯನ್ನು ಶಕ್ತಗೊಳಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ %s ಸ್ಥಾಪಿಸಲು ಸರಿ ತಟ್ಟಿ.</string>
+    <string name="lets_pair_up">ಜೋಡಿಗೊಳಿಸೋಣ</string>
+    <string name="loading">ಲೋಡಿಂಗ್…</string>
+    <string name="make_sure_both_passkey">ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿ ಪಾಸ್‍ಕೀಗಳನ್ನು ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಗೇರ್ ಹೋಲಿಕೆ ಮಾಡುವುದೇ? ಹಾಗಿದ್ದರೆ, ಇದು ಜೋಡಿಗೊಳಿಸುವ ಸಮಯ.</string>
+    <string name="maximum_power_saving_mode_dialog_body">ಗೇರ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">ಗರಿಷ್ಠ ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್‌ನಲ್ಲಿ %s ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="maximum_power_saving_mode_dialog_title">ಅನ್ವಯಿಸುವಿಕೆ ತೆರೆಯಲು ಅಸಮರ್ಥ</string>
+    <string name="no_earbud_body">ನೀವು %s ಸೆಟ್‍ನ ಇಯರ್‌ಬಡ್‍ಗಳನ್ನು ಪಡೆದಿದ್ದಲ್ಲಿ, ಚಾರ್ಜಿಂಗ್ ಕೇಸ್‍ನಿಂದ ಅವುಗಳನ್ನು ತೆಗೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ಕಿವಿಗಳಿಗೆ ಹಾಕಿಕೊಳ್ಳಿ.</string>
+    <string name="no_gear_body">"ಚಿಂತಿಸಬೇಡಿ! ಮೊದಲಿಗೆ, ನಿಮ್ಮ ಗೇರ್ ವಾಸ್ತವಿಕವಾಗಿ ಆನ್ ಆಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.
+
+ಅದು ಆನ್ ಆಗಿದ್ದರೇ, ಸಂಯೋಜನೆಗಳು ಎಂಬಲ್ಲಿಗೆ ಹೋಗಿ ಮತ್ತು “ಗೇರ್ ಮರುಹೊಂದಿಸು” ಆಯ್ಕೆಮಾಡಿ. ಹಾಗೆಯೇ ಆಗಿದ್ದರೆ, ಗೇರ್ ಸಾಧನಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಅದು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು."</string>
+    <string name="no_gear_description">ಗೇರ್ ಕಾಣಿಸುತ್ತಿಲ್ಲವೇ?</string>
+    <string name="no_network_message">ಯಾವುದೇ ಲಭ್ಯ ನೆಟ್‍ವರ್ಕ್‍ಗಳನ್ನು ಪತ್ತೆಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
+    <string name="no_network_title">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="none_paired">ಯಾವುದೇ ಸಾಧನಗಳು ಜೊತೆಯಾಗಿಲ್ಲ.</string>
+    <string name="not_now">ನಂತರ</string>
+    <string name="not_supported_device_or_version">ನಿಮ್ಮ ಫೋನ್ ಹೊಂದಾಣಿಕೆಯಾಗಿದೆಯೇ ಮತ್ತು ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ನವೀಕರಿಸಬೇಕಾಗಿದೆಯೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ, ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="ok">ಓಕೆ</string>
+    <string name="paired">ಜೊತೆಗೂಡಿಸಲಾಗಿದೆ</string>
+    <string name="pass_key">ಪಾಸ್‌ಕೀ</string>
+    <string name="permission_dialog_body">"ಅನ್ವಯಿಸುವಿಕೆ ಸೇವೆಗೆ ಈ ಮುಂದಿನ ಅನುಮತಿಗಳು ಅಗತ್ಯವಿದೆ. ಐಚ್ಛಿಕ ಅನುಮತಿಗಳಿಗಾಗಿ, ಸೇವೆಯ ಡೀಫಾಲ್ಟ್ ಕಾರ್ಯನಿರ್ವಹಿಸುವಿಕೆ ಆನ್ ಆಗಿದೆ, ಆದರೆ ಅನುಮತಿಸಲಾಗಿಲ್ಲ.
+
+ಅಗತ್ಯವಿರುವ ಅನುಮತಿಗಳು
+• ಸ್ಥಳ: ಬ್ಲೂಟೂತ್ ಮೂಲಕ ಗೇರ್‌ಗೆ ಹತ್ತಿರದ ಸಾಧನಗಳಿಗಾಗಿ ಶೋಧಿಸಲು ಬಳಸಲಾಗುವುದು
+• ಸಂಗ್ರಹಣೆ: ಗೇರ್ ಮೂಲಕ ಸಂಗ್ರಹಿಸಿದ ಫೈಲ್‍‍ಗಳನ್ನು ರವಾನಿಸಲು ಹಾಗೂ ಸ್ವೀಕರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ
+• ಟೆಲಿಫೋನ್: ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ನವೀಕರಿಸಲು ಹಾಗೂ ಪ್ಲಗ್ಇನ್ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಸ್ಥಾಪಿಸುವುದಕ್ಕಾಗಿ ಸಾಧನದ ಅನನ್ಯ ಗುರುತಿಸುವಿಕೆ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ
+
+ಐಚ್ಛಿಕ ಅನುಮತಿಗಳು
+• ಸಂಪರ್ಕಗಳು: ನೋಂದಾಯಿಸಿದ Samsung account ಮಾಹಿತಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಖಾತೆಗಳೊಂದಿಗೆ ಲಿಂಕ್ ಮಾಡಬೇಕಿರುವ ಸೇವೆಗಳನ್ನು ಒದಗಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ"</string>
+    <string name="permission_dialog_title">ಅನ್ವಯಿಸುವಿಕೆ ಅನುಮತಿಗಳು</string>
+    <string name="permission_settings_dialog_message">%s ಬಳಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. “ಸಂಯೋಜನೆಗಳು” ತಟ್ಟಿ, ಈ ಕೆಳಗಿನ ಅನ್ವಯಿಸುವಿಕೆಗಳಿಗೆ ಅವಕಾಶ ನೀಡಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ:</string>
+    <string name="pick_gear">ನಿಮ್ಮ ಗೇರ್ ಆರಿಸಿ</string>
+    <string name="popup_message_bluetooth_turn_on">ಬ್ಲೂಟೂತ್ ಆಫ್ ಆಗಿದೆ. ಅದನ್ನು ಆನ್ ಮಾಡಲು “ಆನ್ ಮಾಡಿ” ತಟ್ಟಿ.</string>
+    <string name="popup_title_message_bluetooth_turn_on">ಬ್ಲೂಟೂತ್ ಆನ್ ಮಾಡಿ</string>
+    <string name="popupmenu_connect_new_gear">ಹೊಸ ಗೇರ್ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="preparing_connect_and_install">ಸಂಪರ್ಕಿಸಲು ಸಿದ್ಧವಾಗುತ್ತಿದೆ…</string>
+    <string name="reboot">ಮರುಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="reboot_phone_message">Samsung Accessory Service ನವೀಕರಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಗೇರ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ನಿಮ್ಮ ಫೋನ್ ಪುನಾರಂಭಿಸಿ.</string>
+    <string name="retry">ಮರುಪ್ರಯತ್ನ</string>
+    <string name="scan_all_gear_nearby">ಹತ್ತಿರದ ಗೇರ್‌ಗೆ ಸ್ಕ್ಯಾನ್ ಮಾಡು</string>
+    <string name="scanning">ಸ್ಕ್ಯಾನ್ ಮಾಡುತ್ತಿದೆ…</string>
+    <string name="search_again">ಪುನಃ ಶೋಧಿಸಿ</string>
+    <string name="select_gear_to_connect">ನೀವು ಸಂಪರ್ಕಿಸಲು ಬಯಸುವ ಗೇರ್ ಆರಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="settings">ಸಂಯೋಜನೆಗಳು</string>
+    <string name="setup_connection_dialog_body">%sಗೆ ಸಂಪರ್ಕಿಸುವುದೇ?</string>
+    <string name="setup_message_almost_there">ಬಹುತೇಕ ಅಲ್ಲಿದ್ದೀರಿ.</string>
+    <string name="setup_message_download">ಸಂಪರ್ಕಿಸಲು ಸಿದ್ಧವಾಗುತ್ತಿದೆ…</string>
+    <string name="setup_message_install">ನಿಮ್ಮ ಫೋನ್ ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="start_journey">ಪ್ರಾಯಾಣ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="step_body">ಸವಾಲುಗಳನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಹೆಜ್ಜೆ ಎಣಿಕೆಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ.</string>
+    <string name="step_title">ಹೆಜ್ಜೆಗಳ ಸವಾಲುಗಳು</string>
+    <string name="title_other_devices">ಲಭ್ಯ ಸಾಧನಗಳು</string>
+    <string name="title_paired_devices">ಜೋಡಿ ಮಾಡಿದ ಸಾಧನಗಳು</string>
+    <string name="toast_text_for_reinstall">%2$s ಸ್ಥಾಪನೆ ರದ್ದುಗೊಳಿಸಿದ ನಂತರವೂ ಸಹ %1$s ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ ಉಳಿಯುತ್ತದೆ.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">ಹೆಚ್ಚುವರಿ ಸಾಫ್ಟ್‌ವೇರ್ (%s MB) ಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ನಿಮ್ಮ ಸಾಧನ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ. ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="uhm_update_download_progress">ನವೀಕರಣವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="uhm_update_exist_notification_subtitle">ಒಂದು ಹೊಸ ಆವೃತ್ತಿಯು ಲಭ್ಯವಿರುತ್ತದೆ.</string>
+    <string name="uhm_update_exist_to_support_new_gear">ಕೆಲವು ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ಗೇರ್‌ಗಳನ್ನು ನಿಮ್ಮ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ %s ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ನವೀಕರಿಸಲು “ನವೀಕರಿಸು” ತಟ್ಟಿ, ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="uhm_update_install_disconnect_device">%s ನಿಂದ ಸಂಪರ್ಕ ಕಡಿತಗೋಳಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="uhm_update_install_error">ಸ್ಥಾಪನೆ ಮಾಡುವುದು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="uhm_update_install_progress">ಹೆಚ್ಚುವರಿ ಸಾಫ್ಟ್‌ವೇರ್ ಸ್ಥಾಪಿಸುತ್ತಿದೆ…</string>
+    <string name="uhm_update_notice">ಪ್ರಕಟಣೆ</string>
+    <string name="uhm_update_notice_content">ಒಂದು ಹೊಸ ಆವೃತ್ತಿಯು ಲಭ್ಯವಿದೆ. ಮುಂದುವರಿಯಲು ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ನವೀಕರಿಸಿ.</string>
+    <string name="uhm_update_notice_content_tUHM">ನವೀಕರಣ ಡೌನ್‌ಲೋಡ್ ಆದ ನಂತರ %s ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಮುಚ್ಚಲಾಗುತ್ತದೆ. ನವೀಕರಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಮರುತೆರೆಯಿರಿ.</string>
+    <string name="use_network_connection_dialog_body">%s ಸಾಮಾನ್ಯವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕಗಳನ್ನು ಬಳಸಬೇಕಾಗಿದೆ. ಅನುಮತಿಸುವುದೇ?</string>
+    <string name="use_network_connection_dialog_title">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="welcome_no_device_found">ನೀವು ನಿಮ್ಮ ಗೇರ್ ಸಾಧನಗಳನ್ನು ಪವರ್ ಆನ್ ಮಾಡಿದ ನಂತರ, ಅವುಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="welcome_no_device_found_description">ನಿಮ್ಮ ಗೇರ್ ಅನ್ನು ಆನ್ ಮಾಡಲಾಗಿದೆ ಆದರೆ ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಿಲ್ಲ ಎಂಬುದಾದರೇ, ಸಂಯೋಜನೆಗಳು > ಗೇರ್ ಮಾಹಿತಿಗೆ ಹೋಗಿ, ತದನಂತರ ಫ್ಯಾಕ್ಟರಿ ಡೀಫಾಲ್ಟ್ ಸಂಯೋಜನೆ‌ಗಳಿಗೆ ಅದನ್ನು ಮರುಹೊಂದಿಸಲು ಗೇರ್‍‌ನಲ್ಲಿ “ಗೇರ್ ಮರುಹೊಂದಿಸು” ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="welcome_no_device_found_title">ಯಾವುದೇ ಗೇರ್ ಸಾಧನಗಳಿಲ್ಲ</string>
+    <string name="welcome_select_notice_not_enough_memory">ಸುಮಾರು %1$s %2$sಕ್ಕಿಂತ ಹೆಚ್ಚು ಸ್ಮರಣೆ ಹೊಂದಿರುವ ಫೋನ್‍ಗಳಿಗೆ ಮಾತ್ರವೇ ಕೆಲವು ಗೇರ್ ವಾಚ್‍ಗಳನ್ನು ಸಂಪರ್ಕಿಸಬಹುದು.</string>
+    <string name="welcome_select_your_gear">ನಿಮ್ಮ ಗೇರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="welcome_select_your_gear_to_connect">ಸಂಪರ್ಕಿಸಲು ಬಯಸುವ ಗೇರ್ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ಗೇರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">ಬಟನ್</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಮೂಲಕ ಸ್ಮಾರ್ಟ್ ವೇರಬಲ್ ಅನುಭವವನ್ನು ವರ್ಧಿಸುವಿಕೆ.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">ಹೆಚ್ಚು ತಿಳಿಯಿರಿ</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">ಈ ಅನ್ವಯಿಸುವಿಕೆಯು ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ನಿರ್ಧರಿಸಬಹುದು ಮತ್ತು ನಿಮ್ಮ ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರವೇಶಿಸಬಹುದು.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">ಗೇರ್ ಹುಡುಕುತ್ತಿದೆ…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">ಸುಸ್ವಾಗತ</string>
+    <string name="which_gear">ಸಮೀಪದಲ್ಲಿ ಗೇರ್‌ಗಳು ಕಂಡುಬಂದಿವೆ</string>
+</resources>

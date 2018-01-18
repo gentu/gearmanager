@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Сунуучуга айтымдарыңызды, кошумча жабдуунун алкагын пайдаланып, Bluetooth аркылуу өткөрүүгө мүмкүн кылат</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Айтымдарды алкак аркылуу өткөрүүдө</string>
+    <string name="access_connected_device_status">Түзмөк туташуу абалына кошулуу</string>
+    <string name="access_connected_device_status_description">Бул колдонмо зымдуу түзмөктүн туташуу абалына кошула алат.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Бул %s менен байланышыңызды үзөт</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Машыгуу маал. автоматтык түрдө жаздырыңыз ж-а изин байкаңыз.</string>
+    <string name="auto_activity_title">Авто изи бай. машыг.</string>
+    <string name="auto_reinstalled">Маанилүү файлдар жок кылынды. Gear Manager файлдары кайрадан орнотулду.</string>
+    <string name="button_scan_again">Дагы бир жолу арытуу</string>
+    <string name="button_start_scan_devices">Скандоо</string>
+    <string name="button_stop_scan_devices">Ток.</string>
+    <string name="button_text_bluetooth_turn_on">Күйгүзүү</string>
+    <string name="cancel">Артка</string>
+    <string name="com_samsung_accessory">Samsung Жабдуу Кызматы</string>
+    <string name="com_samsung_android_gearoplugin">Gear S кондурмасы</string>
+    <string name="connect_popup_content">Туташууда</string>
+    <string name="connected">Туташылды</string>
+    <string name="custom_binary_error_dialog_title">Телефонуңуздагы аткарылып жаткан система уруксат берилбеген жол менен өзгөртүлгөн, жана ал Samsung Gear колдонмосуна туура келбейт. Аткарылып жаткан системаңызды текшерип, дагы аракеттениңиз.</string>
+    <string name="deleting_unused_file">Мурунку версиялардан пайдаланылбаган файлдарды жок кылууда…</string>
+    <string name="dialog_popup_button_cancel">Артка</string>
+    <string name="dialog_popup_button_later">Кийин</string>
+    <string name="dialog_popup_button_update">Жаңыртуу</string>
+    <string name="dialog_warning">Эскертүү</string>
+    <string name="disconnect_and_backup_msg">Күтө туруңуз…</string>
+    <string name="do_not_show_again">Кайра көрсөтпөө</string>
+    <string name="download_failure_message">Жүктөө ишке ашпады. Дагы аракет кылыңыз.</string>
+    <string name="gb">ГБ</string>
+    <string name="gear_not_presesnt">Менки бул жерде эмес</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear колдонмосу</string>
+    <string name="gsp_tracking_body">Машыгуу маршрут. изин байкаңыз ж-а тагыраак маалым. алыңыз.</string>
+    <string name="gsp_tracking_title">GPS м-н из. байкоо</string>
+    <string name="install_from_play_store">Gear менен телефонуңуздун ортосунда маалымат өткөрүүнү иштетүү үчүн %s орнотуу үчүн OK’ди басыңыз.</string>
+    <string name="lets_pair_up">Байланыштарды жупташтыралы</string>
+    <string name="loading">Жүктөлүүдө…</string>
+    <string name="make_sure_both_passkey">"Gear'ыңыз менен телефонуңуздун жалпы ачкычы дал келдиби? Кайра байланыштырууга убакыт келди."</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear ажыратылган.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Максималдык кубат үнөмдөө режиминде, %s ачуу мүмкүн эмес.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Сунуучуну ачууга болбоду</string>
+    <string name="no_earbud_body">Эгер сизде %s кулакаспаптарынын таңгагы болсо, аларды заряддоо кутусунан чыгарып, аларды кулагыңызга салыңыз.</string>
+    <string name="no_gear_body">"Кам санабаңыз! Биринчиден, Gear'иңиздин учурда күйгүзулгөнүн караңыз.
+
+Эгер күйгүзулуп турса, Орнотууларга барып, Gear'ди кайра коюуну тандаңыз. Ал Gear түзмөктөрүнүн тизмесинде пайда болушу керек."</string>
+    <string name="no_gear_description">Gear пайда болбой жатабы?</string>
+    <string name="no_network_message">Байкалган тармактарды табуу ишке ашкан жок.</string>
+    <string name="no_network_title">Эч бир тармак туташуусу жок</string>
+    <string name="none_paired">Кошоктоткон түзмөктөр жок</string>
+    <string name="not_now">Кийинче.</string>
+    <string name="not_supported_device_or_version">Телефонуңуздун ылайыктуулугун жана Samsung Gear колдонмосунун жаңыртылыш керек экендигин текшерип, андан соң дагы аракеттениңиз.</string>
+    <string name="ok">ОК</string>
+    <string name="paired">Бириккен</string>
+    <string name="pass_key">Жалпы ачкыч</string>
+    <string name="permission_dialog_body">"Колдонмо кызматы үчүн төмөндөгү уруксаттар талап кылынат. Тандамал уруксаттар үчүн, кызматтын баштапкы функционалдуулугу күйгүзүлгөн, бирок ага уруксат берилбейт.
+
+Талап кылынган уруксаттар
+• Жайгашуу: Bluetooth аркылуу Gear үчүн жакынкы түзмөктөрдү издөөгө колдонулат
+• Сактагыч: Gear'де сакталган файлдарды өткөрүү жана кабыл алуу үчүн колдонулат
+• Телефон: Колдонмолорду жаңыртуу жана кондурма колдонмолорун орнотуудагы үчүн түзмөктүн өзгөчө идентификациялоочу маалыматтын текшерүү үчүн колдонулат
+
+Тандамал уруксаттар
+• Катыштар: Катталган Samsung account маалыматын колдонуп, аккаунттарга шилтемелене турган кызматтарды камсыз кылуу үчүн колдонулат"</string>
+    <string name="permission_dialog_title">Колдонмо уруксаттары</string>
+    <string name="permission_settings_dialog_message">%s колдонуу мүмкүн эмес. ОРНОТУУЛАРды басыңыз, андан соң төмөнкү уруксаттарды берип, дагы аракеттениңиз:</string>
+    <string name="pick_gear">"Gear'иңизди тандаңыз"</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth өчүрүлгөн. Муну күйгүзүүгө Күйгүзүүнү басыңыз.</string>
+    <string name="popup_title_message_bluetooth_turn_on">"Bluetooth'ду күйгүзүү"</string>
+    <string name="popupmenu_connect_new_gear">Жаңы Gear туташтырыңыз</string>
+    <string name="preparing_connect_and_install">Туташууга даярдалууда…</string>
+    <string name="reboot">Кай. башт.</string>
+    <string name="reboot_phone_message">"Samsung Жабдуулар Кызматы жаңыртылды. Gear'иңизге туташуу үчүн, телефонуңузду кайра иштетиңиз."</string>
+    <string name="retry">Дагы аракет.</string>
+    <string name="scan_all_gear_nearby">Жакынкы ар. Gear издөө</string>
+    <string name="scanning">Арытууда…</string>
+    <string name="search_again">Кайра издөө</string>
+    <string name="select_gear_to_connect">"Туташкыңыз келген Gear'ди тандаңыз."</string>
+    <string name="settings">Орнотуулар</string>
+    <string name="setup_connection_dialog_body">%s’га туташасызбы?</string>
+    <string name="setup_message_almost_there">Дээрлик ал жакта.</string>
+    <string name="setup_message_download">Туташууга даярдалууда…</string>
+    <string name="setup_message_install">Телефон. орнотууда…</string>
+    <string name="start_journey">Саякатты баштоо</string>
+    <string name="step_body">Мелдеш. орнотуп, кадам эсебиңизди досторуңуз. м-н салыштыр.</string>
+    <string name="step_title">Кадам мелдештери</string>
+    <string name="title_other_devices">Байкалган түзмөктөр</string>
+    <string name="title_paired_devices">Байланышкан түзмөктөр</string>
+    <string name="toast_text_for_reinstall">%2$s орнотуудан чыгарылгандан кийин да %1$s түзмөгүңүздө кала берет.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Кошумча программалык камсыздоо (%s мб) орнотулган жок. Түзмөгүңүздүн сактагычында орун жетишсиз. Айрым файлдарды өчүрүп, дагы аракет кылып көрүңүз.</string>
+    <string name="uhm_update_download_progress">Жаңыртууну жүктөөдө…</string>
+    <string name="uhm_update_exist_notification_subtitle">Жаңы версия байкалат</string>
+    <string name="uhm_update_exist_to_support_new_gear">Скандалган Gear’лердин кээ бирлери телефонуңузга туташылбайт. %s колдонмосун акыркы версиясына жаңыртуу үчүн, ЖАҢЫРТУУну басып, андан соң дагы аракеттениңиз.</string>
+    <string name="uhm_update_install_disconnect_device">%s менен байланыш үзүүдө…</string>
+    <string name="uhm_update_install_error">Орнотуу кыйрады</string>
+    <string name="uhm_update_install_progress">Кошумча программа орнотулууда…</string>
+    <string name="uhm_update_notice">Эскертме</string>
+    <string name="uhm_update_notice_content">Жаңы нуска байкалат. Улантуу үчүн колдонмону жаңыртыңыз.</string>
+    <string name="uhm_update_notice_content_tUHM">Жаңыртуу жүктөлгөндөн кийин %s колдонмосу жабылат. Жаңыртууну аяктоо үчүн колдонмону кайра ачуу.</string>
+    <string name="use_network_connection_dialog_body">Нормалдуу иштөө үчүн %s’га тармак туташууларын колдонуусу керек. Уруксатпы?</string>
+    <string name="use_network_connection_dialog_title">Тармак туташууларын колдонуу</string>
+    <string name="welcome_no_device_found">Gear түзмөктөрүңүздү күйгүзгөнүңүздөн кийин, алар бул жерде көрсөтүлөт.</string>
+    <string name="welcome_no_device_found_description">"Эгер Gear'иңиз туура куйгүзүлүп, бирок бул жерде көрсөтүлбөсө, Орнотуулар > Gear маалыматына барыңыз, андан соң Gear'иңизди баштапкы заводдук орнотууларына кайра коюу үчүн, Gear'ди кайра коюуну тандаңыз."</string>
+    <string name="welcome_no_device_found_title">Gear түзмөктөрү жок</string>
+    <string name="welcome_select_notice_not_enough_memory">Айрым Gear сааттары %1$s %2$s көбүрөөк эстутумду камтыган телефондорго гана туташа алат.</string>
+    <string name="welcome_select_your_gear">Gear’иңизди тандаңыз</string>
+    <string name="welcome_select_your_gear_to_connect">"Туташуу үчүн Gear'ди тандаңыз."</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">"Gear'ге туташуу"</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Баскыч</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Биз менен байланышыңыз</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Смарт кийилген тажрыйбасын Samsung Gear менен байытуу.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Кошумча үйрөн</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Бул колдонмо жайгашууңузду аныктай жана түзмөк сактагычыңызга кошула алат.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear’ди издөөдө…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Кош келиңиз</string>
+    <string name="which_gear">"Жакын арада жайгашкан Gear'лер"</string>
+</resources>

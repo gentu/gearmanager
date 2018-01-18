@@ -1,0 +1,395 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xxhdpi-v4/winset_buttonbarbutton_selector_pressed.9
+ .png
+SHA-256-Digest: He4/DC+i0PSygDX9KtayeSJg55ct0AIe3TxrpYB/XTI=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_logo.png
+SHA-256-Digest: X3sxhyh3Powa+WDEtqzxcUv6fUvD5SNPYmTd/kLT+Bo=
+
+Name: res/drawable-xxhdpi-v4/galaxy_bg_1200x1200.png
+SHA-256-Digest: wtrCfrfwiCFqfr5iBU+LRktsPtn9lDcKPfZx7pANVWg=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_secondary_holo_light.9.p
+ ng
+SHA-256-Digest: h365HQUTK5tuVKapqFV+FWFLjuG+1r5C8DbGSGWmwik=
+
+Name: assets/rules.xml
+SHA-256-Digest: vbVGKunzL8JiccggIiKmGZqT92dPgWW/NHrU8934Zto=
+
+Name: res/drawable/list_divider.xml
+SHA-256-Digest: /7smLRTxKCy0SQIl1W3dmi4BmdYsOq1MIN/4rdy+whk=
+
+Name: res/drawable/button_shape_dark.xml
+SHA-256-Digest: W1bVvB5mePTabYi/5YiXWVeqcO7JE0ftI2wPS8L0igw=
+
+Name: res/drawable/list_bg.xml
+SHA-256-Digest: nLOdYqqmfAsaYB61eai5JJ4L4cZEmY88QqF2mL2Z+lY=
+
+Name: res/drawable-xxhdpi-v4/select_divice_img_sport.png
+SHA-256-Digest: 310nbuG+Z1y8GY8Q8mtHJuUaZIDNG8yZTu9gj7/l4pM=
+
+Name: res/drawable-v19/navigation_back.xml
+SHA-256-Digest: nnxPKDQ8q4A43sfCsKs9JEDq9yuACHiFMFmiDa5m3AI=
+
+Name: res/drawable/button_shape_grey_highlight.xml
+SHA-256-Digest: SklSeEZE6XKHGLWaNnuFRKQjdylykc2fY3WmkWN/pQ0=
+
+Name: res/drawable-xxhdpi-v4/samsung_gear.png
+SHA-256-Digest: 5oa6XqbaZKU/023eat4MRt3VIxZcV8m8LOj5zjD21jk=
+
+Name: res/drawable-xxhdpi-v4/galaxy_comet_layer_1_1200x1200.png
+SHA-256-Digest: vQBY5BceBw/wqluO79oRB/gsBhbdgmD0Uuo2eaog5VU=
+
+Name: res/layout/promotion.xml
+SHA-256-Digest: bgN1iv/iGdFRunhbeHU7qJSujyRdzzajwerCq2RJ1lw=
+
+Name: res/drawable-xxhdpi-v4/select_divice_bg_sport.png
+SHA-256-Digest: +SaP4yMHPIN09GupT98jZdtPNvF4yg+/G+eKXZ6Kr4s=
+
+Name: res/drawable-xxhdpi-v4/winset_buttonbarbutton_selector_focused.9
+ .png
+SHA-256-Digest: 2aoCdsgFPfejSggddDTbQi3S//mkrwO7jM25wzNCukA=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_bg_holo_light.9.png
+SHA-256-Digest: SvVjCIW10oBBUCUQmpxItaLhZNsktK+EwMjDRumcZBc=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_secondary_holo_light.9.pn
+ g
+SHA-256-Digest: nG66U5qjjfTbaN0uA22vMQN3AmZj93p6WQPfr9mz95g=
+
+Name: res/xml-v21/xml_button_selector.xml
+SHA-256-Digest: LU/wn+jYbNVcahwNC4PAisJ0xU1sD36Bh0QxqCz8St4=
+
+Name: res/drawable-xxhdpi-v4/galaxy_comet_layer_3_1200x1200.png
+SHA-256-Digest: XHW5Et8XqjokI4D3u2tG5sQprgt60B4AgBh42KKE2+E=
+
+Name: res/layout/common_dialog_template.xml
+SHA-256-Digest: mmy8lfdS+e6yo3FzRSDrinMIC5eAn5cuMMwCctPaum8=
+
+Name: res/xml/xml_listitem_selector.xml
+SHA-256-Digest: ZgV6uzBmWJCRs8/rwqCy1yB/E1Xz8nyc7I6fp/RWvIM=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_gearfit2.png
+SHA-256-Digest: Fw7A4RapBka2wQko8dAJwYtxh57KLMl+DQllv4V2nLI=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate3_holo_l
+ ight.png
+SHA-256-Digest: 8nuEwOUPTzEP5Kkk47OKkyNxDR6aafJxCM/RjRpQKd0=
+
+Name: res/drawable-v21/button_background_show_shape_grey.xml
+SHA-256-Digest: UvXIAMuBoAzotq5seG9qV8uoZltk4NlbJpzIjqtqz4Q=
+
+Name: res/drawable/above_shadow.xml
+SHA-256-Digest: jlRgFHwDGgvKFdqrHlz8MYNHChc8zl9M6Ls6IVw8bsY=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate4_holo_l
+ ight.png
+SHA-256-Digest: gJud+6xlejazyNVaWYf8E2rHO9dV+Jq//bHK9Zpcid8=
+
+Name: res/drawable/button_shape_grey.xml
+SHA-256-Digest: MXkK/HCX5eq+YYcnIzoBheLs78XKl54BlAuGAVivLtE=
+
+Name: res/drawable-xxhdpi-v4/tw_section_divider_mtrl.9.png
+SHA-256-Digest: TmEvLy1m8KgIxxTWTUbYhwOrAwN6E9dwpCKccYIokYM=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate3_holo_li
+ ght.png
+SHA-256-Digest: zIQxuXNhfpZ7LW1NbALFUkeq349ob2bO+yX/W+4loAU=
+
+Name: res/drawable/button_text_selector.xml
+SHA-256-Digest: deXMWYGDggkJY/21JISl5YcjgOujwAPYsTQUXM0iB/E=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_bg_fit2.png
+SHA-256-Digest: xIwTMQVpddgKXdqq+Gd9eGFcsb0z2KrWz88W6n4MRmE=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate2_holo_li
+ ght.png
+SHA-256-Digest: +EFCsj+23Ck0D6Qi6WNfdFW/JeyZ6GnTlnwe7qJ3yxQ=
+
+Name: res/layout/layout_device_list_from_plugin.xml
+SHA-256-Digest: 6fL/orqkm9LPi97dgJm6ELUs41AEdbtvyIT8XhEpP+w=
+
+Name: res/layout/template_item_list_permission.xml
+SHA-256-Digest: 5+OpNCnXDcFXxMA37D3xfWl+xy83YsCf9Sh/LBK4Wzg=
+
+Name: resources.arsc
+SHA-256-Digest: p3QSpJyJSzBjNoQS1SWw8S2Gk2fVOU0ZgVAZeP63DXY=
+
+Name: res/drawable/below_shadow.xml
+SHA-256-Digest: L5VToP+5papcDc5lXdQE+gAdjywmvuHIQllIdUoat/4=
+
+Name: res/anim/rotate_galaxy.xml
+SHA-256-Digest: e4g7GcwcAIGQpccGeESou+1D+feOYFHt0ooqKxIoLTI=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 4IeDivIAD5tkQEb992y5+lVCx1FlgnJXY2koI/dZrMs=
+
+Name: res/drawable/button_background_show_shape_grey.xml
+SHA-256-Digest: ia9K6ILrf145K/r9jh9Y5NMlj3WU1vdKaSkKHvek/QA=
+
+Name: res/drawable/devicelist_icon_bg.xml
+SHA-256-Digest: xkplgKs6N03MABefOxjzSjdody5iOM2sDhcacydOepM=
+
+Name: res/drawable/dialog_background.xml
+SHA-256-Digest: 4qnaPM13yns/IcbW8yFOpi/iUo3sNMJfvHHjmtZRKvM=
+
+Name: res/drawable/text_shape.xml
+SHA-256-Digest: EW63WzSKmD2jdNmyJJBFiudNMrbflxbYAY6jdf/wzKY=
+
+Name: res/drawable-v21/button_background_show_shape_dark.xml
+SHA-256-Digest: w0m4EQkKcPiovwbx+ev7kefUj1vAgHtDAws1r4BDDg4=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate1_holo_l
+ ight.png
+SHA-256-Digest: 8FvSLg1hojA3aX5cF69SJ/rj1Pl+r+8TbAyZ+SQ+5Wo=
+
+Name: res/layout/fragment_background.xml
+SHA-256-Digest: HlU3e6JFUrWKzHMCsqNt2SnWbTYSJ21b/AX50QQ3WIs=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_gearcircle.png
+SHA-256-Digest: nu3gp24nfPr7ICu2YrsJVE5MHMuilysMG9SDBjr5ZHo=
+
+Name: res/menu/device_list_menu.xml
+SHA-256-Digest: LlQPVMt0uFIc9YMzgmDkc6LfEjiEbg7lP1MPtKeuu5Y=
+
+Name: res/layout/layout_welcome_device_name.xml
+SHA-256-Digest: sqEQ6V5Gq073IKdW+8LEY7PDCGFDiBl+54NUm4gGEIE=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_primary_holo_light.9.png
+SHA-256-Digest: 1h5VnK/vohmpy4nxTq+8y5eK3Hh1oaXmvuBMK09rDP8=
+
+Name: res/layout-v21/layout_device_list_from_plugin.xml
+SHA-256-Digest: AbcI7Y/IQKHbjSb/+IkFM8rpGTaP69csUUXL0CctCwI=
+
+Name: res/layout/default_download_install.xml
+SHA-256-Digest: qiXoGa5HpEkKn9lBFPd7V0WPfMRo/BNOH5Bv+2o7DZI=
+
+Name: res/drawable-xhdpi-v4/samsung_gear.png
+SHA-256-Digest: 5oa6XqbaZKU/023eat4MRt3VIxZcV8m8LOj5zjD21jk=
+
+Name: res/xml/xml_button_selector.xml
+SHA-256-Digest: 90hYVeHYZJ+ZDrqBOslQKmsN6Qk50b8JOBSLkdH4wNY=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_wearable.png
+SHA-256-Digest: 4hyWzTulTOvigZqBS+Pl4Eb0Ueldy8l5zIRtrIgPusQ=
+
+Name: res/layout/item_list_permission.xml
+SHA-256-Digest: kVEB9gMIB0HcQJqaeT8FWA+5+6G2mFAg7M81LV34SPU=
+
+Name: classes.dex
+SHA-256-Digest: RRxdlbOtAM0RWUgaUWXs8V5zgkgnRqp+P4d8lXKkYWE=
+
+Name: res/drawable-xxhdpi-v4/manager_list_selected.9.png
+SHA-256-Digest: VvALd5eCUolpcp6ThiT6fq6/xuaV+8Pi4KTMDAq1Xys=
+
+Name: res/drawable-xxhdpi-v4/winset_dialog_bg.9.png
+SHA-256-Digest: cgsG4vdGpgBiHdc2gQF7X1B818VWfO+ZxCTTcYe0ORc=
+
+Name: res/drawable/button_background_show_shape_dark.xml
+SHA-256-Digest: Sjehg5a4CHHc+5Ls2ypu6zeTcgtQ9Nr8rfHdfYr3PPU=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate2_holo_l
+ ight.png
+SHA-256-Digest: 07R5weW2XXnIFCvtBwqA5YqwZg8dqbUg5tZhq1G2t8E=
+
+Name: res/drawable/winset_progress_indeterminate_horizontal.xml
+SHA-256-Digest: gu2yvZPaxRAkt9+buuQzwsygCVoHQSuHviBvmlSQIek=
+
+Name: res/xml-v21/xml_listitem_selector.xml
+SHA-256-Digest: FUdWLP2CYonJXNn6vfmY4EztoFJ7o6ds6ro5YJ9/HQA=
+
+Name: res/layout/select_gear_layout.xml
+SHA-256-Digest: XrKCoQbtsIaeDyeRnvwoXw+WAf8K19nV2x36qz9EARI=
+
+Name: res/layout/space_view.xml
+SHA-256-Digest: ELNFmfvcw/Vhjv/tVWeg89Xc+vEF5FPsOeB4ORP0t1c=
+
+Name: res/drawable-xxhdpi-v4/select_divice_bg_gears3.png
+SHA-256-Digest: TTw9xFT3tfhFmotCGN6aOYD/5BF0Efw3JTezyL8MHw4=
+
+Name: res/drawable-xxhdpi-v4/tw_ic_ab_back_mtrl.png
+SHA-256-Digest: K79dqqkcFd3bW6crTwFZnoQF4C58Wub27WzG1qk7r3E=
+
+Name: res/drawable-xxhdpi-v4/manager_widget_progressbar.png
+SHA-256-Digest: LqqdeArpiWHRuMrJF8ke1kWcc3EgHdHP97f6Octr13s=
+
+Name: res/drawable/button_shape.xml
+SHA-256-Digest: 635sb0dbbj6PpSijXsro11IwqpdyLcZy16yuhqHzDUs=
+
+Name: res/drawable-xxhdpi-v4/manager_scrollbar.9.png
+SHA-256-Digest: Q/3xGK/NntkatDpMHZm/zyPs/S+XwPHX1IpyCHToeW8=
+
+Name: res/drawable/navigation_back.xml
+SHA-256-Digest: IiwQ0T5yGbIhLlEUUWgqxP9vunm5v+p5LBdcEhH2wN8=
+
+Name: res/drawable-mcc440/gear_welcom_logo.png
+SHA-256-Digest: xwfj8M3hdvw09Eet7WO6k3TnHOcd0TvapnDidrQHZio=
+
+Name: res/xml/filepaths.xml
+SHA-256-Digest: lSZA9nr+dhmpEfXU2cly91upH1yz/whv89Bu0gkdU8c=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_bg_holo_light.9.png
+SHA-256-Digest: R5QuPABc4MTRlOeSVIKegPYouw/GX//4hpsmFKHHJ3g=
+
+Name: res/layout/list_device_item_icon_subtext.xml
+SHA-256-Digest: led/OQ0WLahABN7un48s2kPxe1PE0MCzAKc2XCsg25U=
+
+Name: res/drawable/grid_item_shape.xml
+SHA-256-Digest: /U+V/qN7MFASLJcAXr1aWcES0mY5yXNFbkY/eXmUOyc=
+
+Name: res/drawable-xxhdpi-v4/select_divice_bg_fit2.png
+SHA-256-Digest: eJyAqBBtXL9ur8ShjqOmtTLNaC9qJeasa+CV3+ODm3I=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_bg_iconx.png
+SHA-256-Digest: UXfba6s4A/085qjQqhfMXjV2C4p6fdirbMCpODSdAbA=
+
+Name: res/drawable/button_shape_highlight.xml
+SHA-256-Digest: GAFF6ooRizESPD/Z0pIGPUZuNIO9OUhb08A0wp/PUeA=
+
+Name: res/layout/background_item.xml
+SHA-256-Digest: j/JpDgyl7Bt4yyq9wwuLuIgTiSXlm/75Dw42o+9kZbE=
+
+Name: res/layout/select_gear_griditem.xml
+SHA-256-Digest: Qi0e1b5bvYL2dn4ihSB5h7+JsO4YeKlNTNjfWYxDxQM=
+
+Name: res/drawable-xxxhdpi-v4/winset_buttonbarbutton_selector_pressed.
+ 9.png
+SHA-256-Digest: JHcH7OZ+gixgeqShkmGS9JjH+pz2wfKQSQy0fJTc608=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: KXPtZBP9ZJT4aUs4ggqLtOJUTC3FoNcQEqzF2uC25xc=
+
+Name: res/layout/layout_container_main.xml
+SHA-256-Digest: 7EhRYIBKR2LC82mEvPEXto+gVe95/v4MTcb9XRlnGMo=
+
+Name: res/drawable-xxhdpi-v4/galaxy_comet_layer_4_1200x1200.png
+SHA-256-Digest: JHepV4lz9IwuQfjhzUsWGa5iCdcV4Wlg7m9XrBt+hc8=
+
+Name: res/drawable-sw600dp-tvdpi-v13/manager_widget_progressbar.png
+SHA-256-Digest: PcNPxb1E8JGLtmUAjwAyZ9uIP/E7Y70kqk6JOt8DWg0=
+
+Name: res/drawable-v21/button_background.xml
+SHA-256-Digest: 6ucJ0/qOwLIAsljp30M4atkHnUvklfDYUTd+E3NDVt4=
+
+Name: res/layout/template_download_install.xml
+SHA-256-Digest: RP050zBv2SLHi8q+r1LAF2C6PFak0DHnSPilkzeIy3M=
+
+Name: res/drawable-xxhdpi-v4/select_divice_img_s3.png
+SHA-256-Digest: mnKdvlHhKCvSYzeMCZrf5uwDAfrTcTikzd20s06Miis=
+
+Name: res/anim/rotate.xml
+SHA-256-Digest: fZMVMwWyTUv+bse1mlakoPGwVhBrxaEC/ate6/YUwlQ=
+
+Name: res/drawable-v21/manager_popup_btn.xml
+SHA-256-Digest: 7diPDTCtaSIHyOdCuBp6IbyMiDwiVKsnbrWWaWv/XNc=
+
+Name: res/layout/pair_up_layout.xml
+SHA-256-Digest: aRg0cbqqoRZxEOcCG0WjELfraFRNMm2lf+fIuu5JGbQ=
+
+Name: res/drawable/winset_progress_drawable.xml
+SHA-256-Digest: x8JPdyat5c0p6X8hG0Vs6MBhD1oPKi+Cf0J1ESNwg8o=
+
+Name: res/drawable-xxhdpi-v4/galaxy_comet_layer_2_1200x1200.png
+SHA-256-Digest: c66kKyBo/IcC2r0l7tpC4Og8UbI6VRGBC7dTQNFExH0=
+
+Name: res/layout/activity_setupwizard_check_update_waiting.xml
+SHA-256-Digest: 5xtrcchRlaW62vA18vIE4+sr5tDcjX43Ji8V21FfC7A=
+
+Name: assets/resources.xml
+SHA-256-Digest: nZG/1axg6ia6zssb+ZXBpUzFjfvqbZqp0QOhq9YuY2U=
+
+Name: res/layout-v21/promotion.xml
+SHA-256-Digest: MuS2ydDB/4hX9xkkzyQ2Zz+ZmnfVV9yYdhO5ffTvUck=
+
+Name: res/drawable-v21/button_background_show_shape.xml
+SHA-256-Digest: RW80AypSzAogt81jZyHPOMwjRvXinJqmhzxDgC9/8AU=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_bg_sport.png
+SHA-256-Digest: VyMX+c4EIvr07yaD+6xceih330czjmbPnQPq13Den5I=
+
+Name: res/layout/pop_download_install.xml
+SHA-256-Digest: qX7AOxNHnaIgGOrWJN/dhBmufR0cCac9P/+16zSOJ00=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_arrow.png
+SHA-256-Digest: ScJ/0S1DpLeW4A8uToP/98DClAW5zfNh6eQOtctMD3o=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_bg_gears3.png
+SHA-256-Digest: WcVRHXkAR2lbqrWKHSSKKWd1Ks8i6sX269Yo62n2iGk=
+
+Name: res/drawable-xxxhdpi-v4/winset_buttonbarbutton_selector_focused.
+ 9.png
+SHA-256-Digest: zBdqh3Vsh9YSOYn5Mhs3lnJHQ3CFNn5oypBffgIzbAo=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate1_holo_li
+ ght.png
+SHA-256-Digest: ykclQOts07ozdPvK7MTv/LXBke3z2ArwENf6y0u/9jk=
+
+Name: res/drawable-xxhdpi-v4/select_divice_img_iconx.png
+SHA-256-Digest: JEGARgSyQlURsppupGjzM7jKV3TbqM1d9jJDBn83bmU=
+
+Name: res/drawable-hdpi-v4/manager_scrollbar.9.png
+SHA-256-Digest: psslqK1RFhpkf+s1KV3kPspGVNBOVth0qFs7sB559nI=
+
+Name: res/layout-v22/layout_device_list_from_plugin.xml
+SHA-256-Digest: 9FUg9EAqF4dCGmx8Q5UItchGYumsGCHwm6cItwg5BwQ=
+
+Name: res/drawable-xxhdpi-v4/select_divice_img_fit2.png
+SHA-256-Digest: Viyjax2DNow6XsWvJ/C2aleMuV6Yni8xL2arT2mP4fE=
+
+Name: res/drawable/button_shape_dark_highlight.xml
+SHA-256-Digest: kzzeSL3K5+HRTCArJrsI5YYHmr1REPq9tBIfdcdCMnM=
+
+Name: res/drawable/button_background_show_shape.xml
+SHA-256-Digest: YCV3VzBYFGIjQCTLTS4utYKg+HOE7qC+HbLInUr3kNI=
+
+Name: res/drawable-xxhdpi-v4/tw_ab_bottom_transparent_mtrl.9.png
+SHA-256-Digest: oPhUBNjdqe+Urt+A3HEakVSaxfyFHJrw/oqPcvs0+Ik=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_primary_holo_light.9.png
+SHA-256-Digest: 7OlOIkGbHUN8zfiXa3741ncboU+7mT9ULXlxDyrkb2k=
+
+Name: res/drawable-xxhdpi-v4/select_divice_bg_iconx.png
+SHA-256-Digest: cu29tgb6f4Qymp0plsI/1HYBRAcn4ZeAWpEKNiqo96A=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate4_holo_li
+ ght.png
+SHA-256-Digest: 2Ml/wkEJG7cW8Z0GSz6v1Jj+FT8mB4avUYZgchsswTc=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: 9K67jm/suN+BDlPA07AWPxjZTIalt6SMHT5XA4U/olw=
+
+Name: res/drawable-sw800dp-mdpi-v13/manager_widget_progressbar.png
+SHA-256-Digest: PxWrOXXumdq/C2CZpFLrb/XSOx5Tct4Q6mREqpmRbzI=
+
+Name: res/layout/layout_setup_wizard_welcome_device_list_fragment.xml
+SHA-256-Digest: svLS6nDqOqs2cPZgk4VwqHdGQNMLiV3hHmxguRAJcdc=
+
+Name: res/drawable-xxhdpi-v4/manager_list_pressed.9.png
+SHA-256-Digest: v9PWVl5BgIzFsG56i67jHqH7atqNhL6KZ8+u5e/pcoI=
+
+Name: res/drawable-hdpi-v4/samsung_gear.png
+SHA-256-Digest: Bt4ehUCRaQ8JZuRpIUqljd+Cz/dFEFmZkktnFE7CNGU=
+
+Name: res/drawable-xxhdpi-v4/select_divice_bg_default.png
+SHA-256-Digest: rHWPFfoOjrXOEqWzDJjVuCp/UWoSr17yTAi9cFd9ZA0=
+
+Name: res/drawable/section_divider.xml
+SHA-256-Digest: AcsRJkWZpf+fsO7LmJErb2MWikXlIfXDZRGqflL3ChI=
+
+Name: res/drawable-mdpi-v4/samsung_gear.png
+SHA-256-Digest: Bt4ehUCRaQ8JZuRpIUqljd+Cz/dFEFmZkktnFE7CNGU=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_iconx.png
+SHA-256-Digest: myoe4DaRmFTHo+BbVJuJJxFXiG3linQah9q7gyDZCzk=
+
+Name: res/drawable-ldpi-v4/samsung_gear.png
+SHA-256-Digest: Bt4ehUCRaQ8JZuRpIUqljd+Cz/dFEFmZkktnFE7CNGU=
+
+Name: res/drawable/manager_popup_btn.xml
+SHA-256-Digest: UI9Cpmt9X4oQl1ou/ZI7tYAIGsFO/tFR3IcBeOGeFmc=
+
+Name: res/drawable/button_background.xml
+SHA-256-Digest: ia02SUmzYfkREjnU02ATHi2wHGOZ1Nu5j/fTnWtjcCY=
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">يسمح للتطبيق بنقل البيانات عبر البلوتوث باستخدام إطار العمل الخاص بالملحقات‬.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">نقل البيانات عبر إطار العمل</string>
+    <string name="access_connected_device_status">الوصول إلى حالة اتصال الجهاز</string>
+    <string name="access_connected_device_status_description">يمكن لهذا التطبيق الوصول إلى حالة اتصال الجهاز القابل للارتداء.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">سيؤدي ذلك إلى إنهاء اتصالك بـ ‎%s</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">تعقّب بيانات تدريبك وسجّلها تلقائياً.</string>
+    <string name="auto_activity_title">التعقب التلقائي للتدريبات</string>
+    <string name="auto_reinstalled">تم حذف ملفات هامة. ستتم إعادة تثبيت ملفات إدارة Gear.</string>
+    <string name="button_scan_again">بحث مرة أخرى</string>
+    <string name="button_start_scan_devices">بحث</string>
+    <string name="button_stop_scan_devices">إيقاف</string>
+    <string name="button_text_bluetooth_turn_on">تشغيل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="com_samsung_accessory">خدمة ملحقات Samsung</string>
+    <string name="com_samsung_android_gearoplugin">المكون الإضافي لـ Gear S</string>
+    <string name="connect_popup_content">الاتصال</string>
+    <string name="connected">تم الاتصال</string>
+    <string name="custom_binary_error_dialog_title">تم تعديل نظام التشغيل على هاتفك بطريقة غير مسموح بها، وهو غير متوافق مع تطبيق Samsung Gear. تحقق من نظام تشغيلك وحاول مرة أخرى.</string>
+    <string name="deleting_unused_file">جار حذف الملفات غير المستخدمة من الإصدار السابق…</string>
+    <string name="dialog_popup_button_cancel">إلغاء</string>
+    <string name="dialog_popup_button_later">لاحقًا</string>
+    <string name="dialog_popup_button_update">تحديث</string>
+    <string name="dialog_warning">تحذير</string>
+    <string name="disconnect_and_backup_msg">يرجى الانتظار …</string>
+    <string name="do_not_show_again">عدم العرض مرة أخرى</string>
+    <string name="download_failure_message">فشل التنزيل. حاول مرة أخرى.</string>
+    <string name="gb">ج.ب</string>
+    <string name="gear_not_presesnt">المنتج الخاص بي ليس هنا</string>
+    <string name="general_app_name_for_reinstall">تطبيق Samsung Gear</string>
+    <string name="gsp_tracking_body">تعقّب مسارات تدريباتك واحصل على معلومات أدق.</string>
+    <string name="gsp_tracking_title">التعقب عبر GPS</string>
+    <string name="install_from_play_store">انقر فوق موافق لتثبيت %s لتفعيل نقل البيانات بين ساعة Gear وهاتفك.</string>
+    <string name="lets_pair_up">لنقم بالإقران</string>
+    <string name="loading">جارٍ التحميل …</string>
+    <string name="make_sure_both_passkey">هل تتطابق مفاتيح المرور على هاتفك وعلى ساعة Gear الخاصة بك؟ عندئذٍ فقد حان الوقت لإقرانهما.</string>
+    <string name="maximum_power_saving_mode_dialog_body">تم قطع اتصال ساعة Gear.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">يتعذر فتح %s في وضع توفير الطاقة إلى الحد الأقصى.</string>
+    <string name="maximum_power_saving_mode_dialog_title">يتعذر فتح التطبيق</string>
+    <string name="no_earbud_body">إذا كانت لديك مجموعة من سماعات أذن %s، أخرجها من حقيبة الشحن وضعها في أذنيك.</string>
+    <string name="no_gear_body">"لا تقلق! أولاً، تحقق أن ساعة Gear قيد التشغيل فعلاً.
+
+إذا كانت كذلك، فانتقل إلى الضبط وحدد ”إعادة ضبط ساعة Gear“. ويجب عندئذٍ أن تظهر في قائمة أجهزة Gear."</string>
+    <string name="no_gear_description">هل ساعة Gear غير ظاهرة؟</string>
+    <string name="no_network_message">تعذر العثور على شبكات متوفرة.</string>
+    <string name="no_network_title">ما من اتصال بالشبكة</string>
+    <string name="none_paired">لم يتم إقتران أجهزة.</string>
+    <string name="not_now">لاحقاً</string>
+    <string name="not_supported_device_or_version">تحقق ما إذا كان هاتفك متوافقاً وما إذا كان يجب تحديث تطبيق Samsung Gear، ثم حاول مجدداً.</string>
+    <string name="ok">موافق</string>
+    <string name="paired">تم الاقتران</string>
+    <string name="pass_key">مفتاح المرور</string>
+    <string name="permission_dialog_body">"الأذونات التالية مطلوبة لخدمة التطبيق. للأذونات الاختيارية، يتم تشغيل وظائف الخدمة الافتراضية من دون السماح بها.
+
+الأذونات المطلوبة
+• الموقع: يُستخدم للبحث عن الأجهزة المجاورة لـ Gear من خلال البلوتوث
+• وحدة التخزين: تُستخدم لنقل الملفات المخزنة واستلامها باستخدام Gear
+• الهاتف: يُستخدم للتحقق من معلومات التعريف الفريد للجهاز لتحديث التطبيقات وتثبيت التطبيقات الإضافية
+
+الأذونات الاختيارية
+• جهات الاتصال: تُستخدم لتوفير الخدمات المطلوب ارتباطها بالحسابات باستخدام معلومات Samsung account المسجلة"</string>
+    <string name="permission_dialog_title">أذونات التطبيق</string>
+    <string name="permission_settings_dialog_message">يتعذر استخدام %s. انقر فوق ”الضبط“، ثم اسمح بالأذونات التالية وحاول مرة أخرى:</string>
+    <string name="pick_gear">اختر ساعة Gear الخاصة بك</string>
+    <string name="popup_message_bluetooth_turn_on">تم إيقاف تشغيل البلوتوث. انقر فوق ”تشغيل“ لتشغيله.</string>
+    <string name="popup_title_message_bluetooth_turn_on">تشغيل البلوتوث</string>
+    <string name="popupmenu_connect_new_gear">توصيل ساعة Gear جديدة</string>
+    <string name="preparing_connect_and_install">جارٍ التحضير للاتصال…</string>
+    <string name="reboot">إعادة التشغيل</string>
+    <string name="reboot_phone_message">تم تحديث خدمة ملحقات Samsung. أعد تشغيل الهاتف لتوصيله بساعة Gear.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="scan_all_gear_nearby">مسح بحثاً عن ساعة Gear مجاورة</string>
+    <string name="scanning">يتم المسح…</string>
+    <string name="search_again">بحث مرة ثانية</string>
+    <string name="select_gear_to_connect">اختر ساعة Gear التي تريد الاتصال بها.</string>
+    <string name="settings">الضبط</string>
+    <string name="setup_connection_dialog_body">هل تريد الاتصال بـ %s؟</string>
+    <string name="setup_message_almost_there">تكاد تحقق هدفك.</string>
+    <string name="setup_message_download">جارٍ التحضير للاتصال…</string>
+    <string name="setup_message_install">جارٍ إعداد هاتفك…</string>
+    <string name="start_journey">بدء الرحلة</string>
+    <string name="step_body">ضع التحديات وقارن عدد خطواتك مع أصدقائك.</string>
+    <string name="step_title">تحديات الخطوات</string>
+    <string name="title_other_devices">الأجهزة المتاحة</string>
+    <string name="title_paired_devices">الأجهزة المقترنة</string>
+    <string name="toast_text_for_reinstall">سيبقى %1$s على جهازك حتى بعد إلغاء تثبيت %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">تعذر تثبيت البرنامج الإضافي (%s ميجابايت). ما من مساحة كافية على وحدة تخزين الجهاز. احذف بعض الملفات وحاول مرة أخرى.</string>
+    <string name="uhm_update_download_progress">جار تنزيل التحديث…</string>
+    <string name="uhm_update_exist_notification_subtitle">يتوفر إصدار جديد.</string>
+    <string name="uhm_update_exist_to_support_new_gear">يتعذر وصل بعض ساعات Gear التي تم مسحها بهاتفك. انقر فوق ”تحديث“ لتحديث تطبيق %s إلى أحدث إصدار، ثم حاول مرة أخرى.</string>
+    <string name="uhm_update_install_disconnect_device">جار قطع الاتصال من %s…</string>
+    <string name="uhm_update_install_error">فشل التخزين</string>
+    <string name="uhm_update_install_progress">يتم تثبيت برنامج إضافي…</string>
+    <string name="uhm_update_notice">إشعار</string>
+    <string name="uhm_update_notice_content">يتوفر إصدار جديد. قم بتحديث التطبيق للمتابعة.</string>
+    <string name="uhm_update_notice_content_tUHM">سيغلق تطبيق %s بعد تنزيل التحديث. أعد فتح التطبيق لإكمال التحديث.</string>
+    <string name="use_network_connection_dialog_body">يلزم %s الاتصال بالشبكة للعمل بشكل صحيح. هل تريد السماح بهذا الإجراء؟</string>
+    <string name="use_network_connection_dialog_title">استخدام اتصالات الشبكة</string>
+    <string name="welcome_no_device_found">ستظهر أجهزة Gear هنا بعد تشغيلها.</string>
+    <string name="welcome_no_device_found_description">إذا كان جهاز Gear قيد التشغيل بشكل صحيح ولكنه لا يظهر هنا، فانتقل إلى الضبط > معلومات Gear، ثم حدد ”إعادة ضبط Gear“ على جهاز Gear لإعادة ضبطه إلى ضبط المصنع الافتراضي الخاص به.</string>
+    <string name="welcome_no_device_found_title">ما من أجهزة Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">لا تستطيع بعض ساعات Gear سوى الاتصال بالهواتف التي تتضمن أكثر من %1$s %2$s من الذاكرة.</string>
+    <string name="welcome_select_your_gear">تحديد ساعة Gear</string>
+    <string name="welcome_select_your_gear_to_connect">حدّد ساعة Gear للاتصال بها.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">الاتصال بساعة Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">الزر</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">اتصل بنا</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">تحسين التجربة الذكية للجهاز القابل للارتداء مع Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">معرفة المزيد</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">يمكن لهذا التطبيق تحديد موقعك والوصول إلى وحدة تخزين جهازك.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">جارٍ البحث عن Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">مرحباً</string>
+    <string name="which_gear">ساعات Gear المجاورة</string>
+</resources>

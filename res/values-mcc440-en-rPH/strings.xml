@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gear Manager</string>
+    <string name="general_app_name_for_reinstall">The Gear application</string>
+    <string name="not_supported_device_or_version">Check if your phone is compatible and if the Gear app needs to be updated, then try again.</string>
+    <string name="uhm_update_notice_content">Gear Manager needs to be updated to the latest version. Download the latest version via GALAXY Apps, then update Gear Manager to the latest version.</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Enhancing the smart wearable experience with Gear.</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">允許應用程式使用配件架構經藍牙傳輸您的資料。</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">經架構傳輸資料</string>
+    <string name="access_connected_device_status">存取裝置連線狀態</string>
+    <string name="access_connected_device_status_description">此應用程式可存取穿戴式裝置的連線狀態。</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">這將終止您與 %s 的連線。</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">自動追蹤並記錄您的健身資料。</string>
+    <string name="auto_activity_title">自動追蹤健身</string>
+    <string name="auto_reinstalled">已刪除重要檔案。Gear Manager 檔案已重新安裝。</string>
+    <string name="button_scan_again">重新搜尋</string>
+    <string name="button_start_scan_devices">掃描</string>
+    <string name="button_stop_scan_devices">停止</string>
+    <string name="button_text_bluetooth_turn_on">開啟</string>
+    <string name="cancel">取消</string>
+    <string name="com_samsung_accessory">三星配件服務</string>
+    <string name="com_samsung_android_gearoplugin">Gear S 外掛程式</string>
+    <string name="connect_popup_content">連線中</string>
+    <string name="connected">已連接</string>
+    <string name="custom_binary_error_dialog_title">您手機的作業系統已遭未授權的方式進行修改，且與 Samsung Gear 應用程式不相容。請檢查您的作業系統並重試。</string>
+    <string name="deleting_unused_file">正在自前一版本刪除未使用的檔案…</string>
+    <string name="dialog_popup_button_cancel">取消</string>
+    <string name="dialog_popup_button_later">稍後</string>
+    <string name="dialog_popup_button_update">更新</string>
+    <string name="dialog_warning">警告</string>
+    <string name="disconnect_and_backup_msg">請稍候…</string>
+    <string name="do_not_show_again">不再顯示</string>
+    <string name="download_failure_message">下載失敗。請重試。</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">我的裝置不在其中</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear 應用程式</string>
+    <string name="gsp_tracking_body">追蹤您的健身路線並獲得更精確的資訊。</string>
+    <string name="gsp_tracking_title">GPS 追蹤</string>
+    <string name="install_from_play_store">輕觸「確定」來安裝 %s 以啟用您的 Gear 與手機間的資料傳輸。</string>
+    <string name="lets_pair_up">開始配對</string>
+    <string name="loading">正在載入…</string>
+    <string name="make_sure_both_passkey">手機和 Gear 上的密碼是否相符？立刻來配對吧。</string>
+    <string name="maximum_power_saving_mode_dialog_body">已中斷 Gear 連線。</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">超省電模式中無法開啟 %s。</string>
+    <string name="maximum_power_saving_mode_dialog_title">無法開啟應用程式</string>
+    <string name="no_earbud_body">若您已有一組 %s 耳機，請從充電盒中取出並戴上。</string>
+    <string name="no_gear_body">"別擔心！首先，請檢查您的 Gear 是否已確實開啟。
+
+若已開啟，請前往設定並選擇 [重設 Gear]。接下來隨即會顯示於 Gear 裝置清單上。"</string>
+    <string name="no_gear_description">未顯示 Gear 嗎？</string>
+    <string name="no_network_message">找不到可用的網路。</string>
+    <string name="no_network_title">無網路連線</string>
+    <string name="none_paired">無配對裝置。</string>
+    <string name="not_now">稍後</string>
+    <string name="not_supported_device_or_version">請檢查您的手機是否相容且 Samsung Gear 應用程式是否需要更新，然後重試。</string>
+    <string name="ok">確定</string>
+    <string name="paired">已配對</string>
+    <string name="pass_key">密碼</string>
+    <string name="permission_dialog_body">"本應用程式服務需要下列權限。如為選擇性權限，將開啟本服務的預設功能，但不允許權限。
+
+必要權限
+• 定位：提供 Gear 透過藍牙搜尋附近裝置使用
+• 儲存空間：用於傳輸與接收透過 Gear 儲存的檔案
+• 電話：用於查看裝置唯一識別碼資訊以更新應用程式及安裝外掛應用程式
+
+選擇性權限
+• 聯絡人：用於提供需要使用已註冊三星帳號資訊來連結帳號的服務"</string>
+    <string name="permission_dialog_title">應用程式權限</string>
+    <string name="permission_settings_dialog_message">無法使用 [%s]。請輕觸 [設定]，然後允許下列權限並重試：</string>
+    <string name="pick_gear">選擇您的 Gear</string>
+    <string name="popup_message_bluetooth_turn_on">藍牙已關閉。輕觸開啟以開啟。</string>
+    <string name="popup_title_message_bluetooth_turn_on">開啟藍牙</string>
+    <string name="popupmenu_connect_new_gear">連接新的 Gear</string>
+    <string name="preparing_connect_and_install">正在準備連接…</string>
+    <string name="reboot">重新啟動</string>
+    <string name="reboot_phone_message">三星配件服務已更新。請重新啟動您的手機以連接 Gear。</string>
+    <string name="retry">重試</string>
+    <string name="scan_all_gear_nearby">掃描附近 Gear</string>
+    <string name="scanning">掃描中…</string>
+    <string name="search_again">再次搜尋</string>
+    <string name="select_gear_to_connect">選擇欲連接的 Gear。</string>
+    <string name="settings">設定</string>
+    <string name="setup_connection_dialog_body">連接到%s嗎？</string>
+    <string name="setup_message_almost_there">快完成了。</string>
+    <string name="setup_message_download">正在準備連接…</string>
+    <string name="setup_message_install">正在設定您的手機…</string>
+    <string name="start_journey">開始使用</string>
+    <string name="step_body">設定挑戰並和朋友比較您的步數。</string>
+    <string name="step_title">步數挑戰</string>
+    <string name="title_other_devices">可用的裝置</string>
+    <string name="title_paired_devices">配對裝置</string>
+    <string name="toast_text_for_reinstall">解除安裝 %2$s 後，裝置上仍會有 %1$s。</string>
+    <string name="uhm_install_error_msg_insufficient_storage">無法安裝額外軟體 (%s MB)。您的裝置儲存空間不足。請刪除部份檔案並重試。</string>
+    <string name="uhm_update_download_progress">正在下載更新…</string>
+    <string name="uhm_update_exist_notification_subtitle">已有新版本可用。</string>
+    <string name="uhm_update_exist_to_support_new_gear">部份已掃描的 [Gear] 無法連接至您的手機。請輕觸 [更新] 來將 [%s] 應用程式更新至最新版本，然後重試。</string>
+    <string name="uhm_update_install_disconnect_device">正在中斷與%s的連線…</string>
+    <string name="uhm_update_install_error">安裝失敗</string>
+    <string name="uhm_update_install_progress">正在安裝其他軟體…</string>
+    <string name="uhm_update_notice">注意</string>
+    <string name="uhm_update_notice_content">已有新版本可用。更新應用程式以繼續。</string>
+    <string name="uhm_update_notice_content_tUHM">%s應用程式將於更新下載後關閉。請重新開啟應用程式來完成更新。</string>
+    <string name="use_network_connection_dialog_body">%s需要使用網路連線才能正確運作。允許嗎？</string>
+    <string name="use_network_connection_dialog_title">使用網路連線</string>
+    <string name="welcome_no_device_found">您的 Gear 裝置開機後，將顯示於此。</string>
+    <string name="welcome_no_device_found_description">若您的 Gear 已正確開機卻未顯示於此，請在 Gear 上前往 [設定] > [Gear 資訊]，然後選擇 [重置 Gear] 將 Gear 重置為原廠預設設定。</string>
+    <string name="welcome_no_device_found_title">無 Gear 裝置</string>
+    <string name="welcome_select_notice_not_enough_memory">部分 Gear 手錶僅能與記憶體超過 %1$s %2$s 的手機連接。</string>
+    <string name="welcome_select_your_gear">選擇您的 Gear</string>
+    <string name="welcome_select_your_gear_to_connect">選擇要連接的 Gear。</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">連接至 Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">按鈕</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">與我們聯絡</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">與 Samsung Gear 一起提升智能可穿戴體驗。</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">深入瞭解</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">此應用程式可判定您的位置並存取裝置儲存空間。</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">正在搜尋 Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">歡迎</string>
+    <string name="which_gear">已找到附近的 Gear</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Aplikazioari zure datuak Bluetooth bidez transferitzen uzten dio osagarri markoa erabiliz</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Datuak marko bidez transferitzen</string>
+    <string name="access_connected_device_status">Sartu gailuaren konex. egoerara</string>
+    <string name="access_connected_device_status_description">Aplikazio hau gailu jantzigarriaren konexio egoerara sar daiteke.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Honek %s-(r)ekin duzun konexioa amaituko du</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Egin jarraipena eta erregistratu entrenamenduak automatikoki.</string>
+    <string name="auto_activity_title">Egin jarraipena auto.</string>
+    <string name="auto_reinstalled">Fitxategi garrantzitsuak ezabatuta. Gear Manager fitxategiak berriz instalatuta.</string>
+    <string name="button_scan_again">Bilatu berriz</string>
+    <string name="button_start_scan_devices">Eskaneatzea</string>
+    <string name="button_stop_scan_devices">Gelditu</string>
+    <string name="button_text_bluetooth_turn_on">Aktibatu</string>
+    <string name="cancel">Ezeztatu</string>
+    <string name="com_samsung_accessory">Samsung osagarrien zerbitzua</string>
+    <string name="com_samsung_android_gearoplugin">Gear S plug-ina</string>
+    <string name="connect_popup_content">Konektatzen</string>
+    <string name="connected">Konektatuta</string>
+    <string name="custom_binary_error_dialog_title">Telefonoaren sistema eragilea baimenik gabe aldatu da, eta ez da Samsung Gear aplikazioarekin bateragarria. Egiaztatu zure sistema eragilea eta saiatu berriz.</string>
+    <string name="deleting_unused_file">Erabili gabeko fitxategiak aurreko bertsiotik ezabatzen…</string>
+    <string name="dialog_popup_button_cancel">Ezeztatu</string>
+    <string name="dialog_popup_button_later">Geroago</string>
+    <string name="dialog_popup_button_update">Eguneratu</string>
+    <string name="dialog_warning">Oharra</string>
+    <string name="disconnect_and_backup_msg">Zain…</string>
+    <string name="do_not_show_again">Ez erakutsi berriz</string>
+    <string name="download_failure_message">Deskargak huts egin du. Saiatu berriz.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Nirea ez dago</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear aplikazioa</string>
+    <string name="gsp_tracking_body">Egin ibilbideen jarraipena eta lortu informazio zehatzagoa.</string>
+    <string name="gsp_tracking_title">GPS bidez jarraitzea</string>
+    <string name="install_from_play_store">Sakatu ADOS %s instalatzeko eta Gear-en eta telefonoaren artean datu transferentzia gaitzeko.</string>
+    <string name="lets_pair_up">Parekatu</string>
+    <string name="loading">Kargatzen…</string>
+    <string name="make_sure_both_passkey">Telefono eta Gear gailuko pasahitza bat al datoz? Pareka daitezke orduan.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear deskonektatu da.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Ezin da ireki %s Bateria aurrezteko gehienezko moduan.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Ezin da aplikazioa ireki</string>
+    <string name="no_earbud_body">%s aurikularrak badituzu, atera itzazu kargatzeko oinarritik eta jar itzazu belarrietan.</string>
+    <string name="no_gear_body">"Ez kezkatu! Lehenik, egiaztatu Gear aktibatuta dagoela.
+
+Aktibatuta badago, joan Ezarpenak aukerara eta hautatu Berrezarri Gear. Ondoren, Gear gailuen zerrendan agertuko da."</string>
+    <string name="no_gear_description">Gear ez da agertzen?</string>
+    <string name="no_network_message">Ezin izan da aurkitu sarerik erabilgarri.</string>
+    <string name="no_network_title">Ez dago sare konexiorik</string>
+    <string name="none_paired">Ez dago parekatutako gailurik</string>
+    <string name="not_now">Geroago</string>
+    <string name="not_supported_device_or_version">Egiaztatu telefonoa bateragarria dela eta Samsung Gear aplikazioa eguneratu behar al den, eta ondoren, saiatu berriz.</string>
+    <string name="ok">Ados</string>
+    <string name="paired">Parekatuta</string>
+    <string name="pass_key">Pasahitza</string>
+    <string name="permission_dialog_body">"Aplikazioa hornitu ahal izateko, baimen hauek behar dira. Baimen optimoak lortzeko, zerbitzuaren funtzio lehenetsiak aktibatuta daude, baina ez, ordea, baimenduta.
+
+Behar diren baimenak
+• Kokapena: Gear gailua aurkitzeko inguruko gailuak Bluetooth bidez bilatzeko
+• Biltegia: gordetako fitxategiak Gear gailuarekin bidali eta jasotzeko
+• Telefonoa: aplikazioak eguneratu eta plugin-ak instalatzearren gailuaren identifikazio informazio esklusiboa ikusteko
+
+Aukerako baimenak
+• Kontaktuak: kontuekin lotu behar diren zerbitzuak eskaintzeko, Samsung account informazio erregistratua erabiliz"</string>
+    <string name="permission_dialog_title">Aplikazio baimenak</string>
+    <string name="permission_settings_dialog_message">Ezin da %s erabili. Ukitu EZARPENAK, eman hurrengo baimenak eta saiatu berriz:</string>
+    <string name="pick_gear">Aukeratu Gear gailua</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth desaktibatuta dago. Aktibatzeko, ukitu Aktibatu.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Piztu Bluetootha</string>
+    <string name="popupmenu_connect_new_gear">Konektatu Gear berria</string>
+    <string name="preparing_connect_and_install">Konektatzeko prestatzen…</string>
+    <string name="reboot">Berrab.</string>
+    <string name="reboot_phone_message">Samsung Osagarrien zerbitzua eguneratu egin da. Gear gailura konektatzeko, berrabiarazi telefonoa.</string>
+    <string name="retry">Berriz</string>
+    <string name="scan_all_gear_nearby">Bilatu Gear inguruan</string>
+    <string name="scanning">Bilatzen…</string>
+    <string name="search_again">Berriro bilatu</string>
+    <string name="select_gear_to_connect">Aukeratu konektatu nahi duzun Gear gailua.</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="setup_connection_dialog_body">%s gailura konektatu?</string>
+    <string name="setup_message_almost_there">Ia amaitu duzu.</string>
+    <string name="setup_message_download">Konektatzeko prestatzen…</string>
+    <string name="setup_message_install">Telefonoa konfiguratzen…</string>
+    <string name="start_journey">Hasi bidaia</string>
+    <string name="step_body">Ezarri erronkak eta alderatu pauso kontaketa lagunekin.</string>
+    <string name="step_title">Pausoen erronkak</string>
+    <string name="title_other_devices">Eskura dauden gailuak</string>
+    <string name="title_paired_devices">Sinkronizatutako gailuak</string>
+    <string name="toast_text_for_reinstall">%1$s-(e)k zure gailuan jarraituko du, %2$s desinstalatuta ere.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Ezin da software osagarria (%s MB) instalatu. Ez dago nahikoa espazio gailu biltegian. Ezabatu hainbat fitxategi eta saiatu berriz.</string>
+    <string name="uhm_update_download_progress">Eguneratzea deskargatzen…</string>
+    <string name="uhm_update_exist_notification_subtitle">Bertsio berria dago erabilgarri</string>
+    <string name="uhm_update_exist_to_support_new_gear">Aurkitutako Gear batzuk ezin dira telefonora konektatu. Ukitu EGUNERATU, %s aplikazioaren bertsio berrienera eguneratzeko eta saiatu berriz.</string>
+    <string name="uhm_update_install_disconnect_device">%s-tik deskonektatzen…</string>
+    <string name="uhm_update_install_error">Instalazioak huts egin du</string>
+    <string name="uhm_update_install_progress">Software gehigarria instalatzen…</string>
+    <string name="uhm_update_notice">Oharra</string>
+    <string name="uhm_update_notice_content">Bertsio berria dago eskuragarri. Jarraitzeko, eguneratu aplikazioa.</string>
+    <string name="uhm_update_notice_content_tUHM">Eguneraketa deskargatutakoan, %s aplikazioa itxiko da. Ireki aplikazioa berriro eguneraketa osatzeko.</string>
+    <string name="use_network_connection_dialog_body">%s aplikazioak sare konexioak erabili behar ditu behar bezala funtzionatzeko. Baimendu?</string>
+    <string name="use_network_connection_dialog_title">Erabili sare konexioak</string>
+    <string name="welcome_no_device_found">Gear gailuak piztu ondoren, hemen erakutsiko dira.</string>
+    <string name="welcome_no_device_found_description">Gear piztuta badago baina hemen agertzen ez bada, Gear gailuan zoaz Ezarpenak > Gear informazioa atalera, eta hautatu Berrezarri Gear, fabrikako ezarpen lehenetsiak berrezartzeko.</string>
+    <string name="welcome_no_device_found_title">Ez dago Gear gailurik</string>
+    <string name="welcome_select_notice_not_enough_memory">Zenbait Gear erloju %1$s %2$s memoria baino gehiago duten telefonoetara soilik konekta daitezke.</string>
+    <string name="welcome_select_your_gear">Hautatu zure Gear gailua</string>
+    <string name="welcome_select_your_gear_to_connect">Hautatu zer Gear gailura konektatu nahi duzun.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Konektatu Gear-era</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Botoia</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Jarri gurekin harremanetan</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Gailu eramangarrien erabilera hobetua Samsung Gear-ekin.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Lortu info. gehiago</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Kokapena ezagutu eta gailuaren biltegian sar daiteke aplikazio hau.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear bilatzen…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Ongi etorri</string>
+    <string name="which_gear">Gear gailuak hauteman dira inguruan</string>
+</resources>

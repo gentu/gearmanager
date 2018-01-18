@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Ilovaga ma’lumotingizni aksessuar hoshiyasi yordamida Bluetooth orqali uzatish uchun ruxsat beradi.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Ma’lumotni hoshiya orqali uzatish</string>
+    <string name="access_connected_device_status">Qurilma ulanish holatiga kirish</string>
+    <string name="access_connected_device_status_description">Ushbu ilova taqiladigan qurilmaning ulanish holatiga kirishi mumkin.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Bu Sizning %s bilan ulanishingizni yakunlaydi.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Mashq ma’lumotlarini avtomatik kuzating va yozib oling.</string>
+    <string name="auto_activity_title">Mashq. avto-kuzatish</string>
+    <string name="auto_reinstalled">Muhim fayllar yo‘q qilindi. Gear Manager fayllari qayta o‘rnatildi</string>
+    <string name="button_scan_again">Qayta tekshirish</string>
+    <string name="button_start_scan_devices">"Ko'rib chiqilmoqda…"</string>
+    <string name="button_stop_scan_devices">To‘xtatish</string>
+    <string name="button_text_bluetooth_turn_on">Yoqing</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="com_samsung_accessory">Samsung aksessuar xizmati</string>
+    <string name="com_samsung_android_gearoplugin">Gear S plag-ini</string>
+    <string name="connect_popup_content">Ulanish</string>
+    <string name="connected">Ulangan</string>
+    <string name="custom_binary_error_dialog_title">Telefoningizdagi operatsion tizim ruxsat berilmagan usulda o‘zgartirilgan va Samsung Gear ilovasiga mos kelmaydi. Operatsion tizimingizni tekshiring va qayta urinib ko‘ring.</string>
+    <string name="deleting_unused_file">Avvalgi versiyadagi keraksiz fayllar olib tashlanmoqda…</string>
+    <string name="dialog_popup_button_cancel">Bekor qilish</string>
+    <string name="dialog_popup_button_later">Keyinroq</string>
+    <string name="dialog_popup_button_update">Yangilash</string>
+    <string name="dialog_warning">Ogohlantirish</string>
+    <string name="disconnect_and_backup_msg">Iltimos, kuting…</string>
+    <string name="do_not_show_again">Boshqa ko‘rsatilmasin</string>
+    <string name="download_failure_message">Yuklab olib bo‘lmadi. Qayta urinib ko‘ring</string>
+    <string name="gb">Gb</string>
+    <string name="gear_not_presesnt">Meniki bu yerda emas</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear ilovasi</string>
+    <string name="gsp_tracking_body">Mashq marshrutini kuzating va aniqroq ma’l-ga ega bo‘ling.</string>
+    <string name="gsp_tracking_title">GPS kuzatish</string>
+    <string name="install_from_play_store">Gear va telefoningiz o‘rtasida ma’lumotni uzatish maqsadida %s’ni o‘rnatish uchun OKga teging.</string>
+    <string name="lets_pair_up">Keling, bog‘lanamiz</string>
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="make_sure_both_passkey">Telefon va Gear’ingizdagi kirish kalitlari mos kelyaptimi? U holda bog‘lanish vaqti keldi.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear uzilgan.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Maksimum quvvat tejash rejimida %s’ni ochib bo‘lmaydi.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Ilovani ochib bo‘lmaydi</string>
+    <string name="no_earbud_body">%s quloqliklari to‘plamini olgan bo‘lsangiz, ularni zaryadlash qutisidan chiqarib oling va qulog‘ingizga taqing.</string>
+    <string name="no_gear_body">"Havotir olmang! Eng avvalo Gear’ingiz yoqilganligini tekshiring.
+
+Agar u yoqilgan bo‘lsa, Parametrlarga o‘ting va Gear’ni birlamchi holatiga tashlashni tanlang. Shundan so‘ng u Gear qurilmalari ro‘yxatida ko‘rsatilishi lozim."</string>
+    <string name="no_gear_description">Gear ko‘rsatilmayaptimi?</string>
+    <string name="no_network_message">Foydalanish mumkin bo‘lgan tarmoqlar topilmadi.</string>
+    <string name="no_network_title">Tarmoq ulanishi yo‘q</string>
+    <string name="none_paired">Bog‘langan qurilmalar yo‘q.</string>
+    <string name="not_now">Keyinroq</string>
+    <string name="not_supported_device_or_version">Telefoningiz mos kelishiga va Samsung Gear ilovasi yangilanganligini tekshiring, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Bog‘langan</string>
+    <string name="pass_key">Kirish kaliti</string>
+    <string name="permission_dialog_body">"Ilova xizmati uchun quyidagi ruxsatlar talab qilinadi. Ixtiyoriy ruxsatlar uchun xizmatning birlamchi funksionalligi yoqilgan, ammo ruxsat berilmagan.
+
+Majburiy ruxsatlar
+• Joylashuv: Bluetooth orqali Gear uchun yaqin-atrofdagi qurilmalarni qidirishda ishlatiladi
+• Xotira: Gear yordamida saqlangan fayllarni uzatish va olish uchun ishlatiladi
+• Telefon: Ilovalarni yangilash va plag-in ilovalarini o‘rnatishda qurilma unikal identifikator ma’lumotlarini tekshirish uchun ishlatiladi
+
+Ixtiyoriy ruxsatlar
+• Kontaktlar: Ro‘yxatga olingan Samsung account ma’lumotlari yordamida hisob qaydnomalari bilan bog‘lanishi lozim bo‘lgan xizmatlarni taqdim etish uchun ishlatiladi"</string>
+    <string name="permission_dialog_title">Ilova ruxsatlari</string>
+    <string name="permission_settings_dialog_message">%s’ni ishlatib bo‘lmaydi. PARAMETRLAR tugmasiga teging, so‘ngra quyidagiga ruxsat bering va qayta urinib ko‘ring:</string>
+    <string name="pick_gear">Gear’ni tanlash</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth o‘chirilgan. Uni yoqish uchun Yoqishga teging.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetoothni yoqish</string>
+    <string name="popupmenu_connect_new_gear">Yangi Gear’ga ulanish</string>
+    <string name="preparing_connect_and_install">Ulanishga tayyorlanmoqda…</string>
+    <string name="reboot">Qay/yuk</string>
+    <string name="reboot_phone_message">Samsung aksessuar xizmati yangilandi. Gear’ga ulanish uchun telefonni qayta yuklang.</string>
+    <string name="retry">Qayta urin</string>
+    <string name="scan_all_gear_nearby">Yaqindagi Gear qidir</string>
+    <string name="scanning">Qidirilmoqda…</string>
+    <string name="search_again">Qayta qidirish</string>
+    <string name="select_gear_to_connect">Ulanmoqchi bo‘lgan Gear’ni tanlang.</string>
+    <string name="settings">Parametrlar</string>
+    <string name="setup_connection_dialog_body">%s’ga ulanilsinmi?</string>
+    <string name="setup_message_almost_there">Deyarli yetdingiz.</string>
+    <string name="setup_message_download">Ulanishga tayyorlanmoqda…</string>
+    <string name="setup_message_install">Telefon sozlanmoqda…</string>
+    <string name="start_journey">Sayohatni boshlash</string>
+    <string name="step_body">Vazifa belgilang va qadam sonini do‘stlar b-n solishtiring.</string>
+    <string name="step_title">Qadam rejalari</string>
+    <string name="title_other_devices">Mavjud qurilmalar</string>
+    <string name="title_paired_devices">Bog‘langan qurilmalar</string>
+    <string name="toast_text_for_reinstall">%1$s qurilmangizda saqlanib qolad, hatto %2$s ni olib tashlaganingizdan keyin ham.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Qo‘shimcha dasturiy ta’minot (%s Mb) o‘rnatib bo‘lmaydi. Qurilmangiz xotirasida yetarli bo‘sh joy mavjud emas. Ba’zi fayllarni yo‘q qiling va qayta urinib ko‘ring.</string>
+    <string name="uhm_update_download_progress">Yangilash yuklab olinmoqda…</string>
+    <string name="uhm_update_exist_notification_subtitle">Yangi versiya mavjud.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Ba’zi skanerlangan Gearlarni telefoningizga ulab bo‘lmaydi. %s ilovasini oxirgi versiyaga yangilash uchun YANGILASHga teging, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="uhm_update_install_disconnect_device">%sdan uzilmoqda…</string>
+    <string name="uhm_update_install_error">O‘rnatib bo‘lmadi</string>
+    <string name="uhm_update_install_progress">Qo‘shimcha dastur o‘rnatilmoqda…</string>
+    <string name="uhm_update_notice">Eslatma</string>
+    <string name="uhm_update_notice_content">Yangi versiya mavjud. Davom ettirish uchun ilovani yangilang.</string>
+    <string name="uhm_update_notice_content_tUHM">Yangilash yuklab olingandan so‘ng %s ilovasi yopiladi. Yangilashni yakunlash uchun ilovani qayta oching.</string>
+    <string name="use_network_connection_dialog_body">%s to‘g‘ri ishlashi uchun tarmoq ulanishidan foydalanishi lozim. Ruxsat berilsinmi?</string>
+    <string name="use_network_connection_dialog_title">Tarmoq ulanishlaridan foydalanish</string>
+    <string name="welcome_no_device_found">Gear qurilmangizni yoqqaningizdan so‘ng ular bu yerda ko‘rsatiladi.</string>
+    <string name="welcome_no_device_found_description">Agar Gear to‘g‘ri yoqilgan bo‘lsa, ammo bu yerda ko‘rsatilmagan bo‘lsa, uni ishlab chiqaruvchining birlamchi parametrlariga tashlash uchun Parametrlar > Gear ma’lumotiga o‘ting, so‘ngra Gear’da Gear’ni birlamchi holatiga tashlashni tanlang.</string>
+    <string name="welcome_no_device_found_title">Gear qurilmalari yo‘q</string>
+    <string name="welcome_select_notice_not_enough_memory">Ayrim Gear soatlari faqat %1$s %2$s dan ortiq xotiraga ega bo‘lgan telefonlarga ulana oladi.</string>
+    <string name="welcome_select_your_gear">Gear-ingizni tanlang</string>
+    <string name="welcome_select_your_gear_to_connect">Ulanish uchun Gear tanlang.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear’ga ulanish</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Tugma</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Biz bilan bog‘lanish</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear yordamida aqlli taqiladigan qurilma bilan ishlash tajribangizni takomillashtiring.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Qo‘shimcha ma’lumot</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Bu ilova joylashuvingizni aniqlashi va qurilma xotirasiga kirishi mumkin.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear qidirilmoqda…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Xush kelibsiz</string>
+    <string name="which_gear">Yaqin-atrofdagi Gear’lar</string>
+</resources>

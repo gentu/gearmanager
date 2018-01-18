@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">საშუალებას აძლევს პროგრამას გადასცეს თქვენი მონაცემები Bluetooth-ით, დამხმარე სტრუქტურის გამოყენებით.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">მონაცემთა გადაცემა ხდება სტრუქტურით</string>
+    <string name="access_connected_device_status">დაკავშირების სტატუსზე წვდომა</string>
+    <string name="access_connected_device_status_description">ამ აპლიკაციას შეუძლია, გაიგოს სატარებელი მოწყობილობის დაკავშირების სტატუსი.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ამით შეწყდება კავშირი %s-თან.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">ავტომატურად ადევნეთ თვალი და ჩაიწერეთ ვარჯიშის მონაცემები.</string>
+    <string name="auto_activity_title">ავტომატური თვალთვალი</string>
+    <string name="auto_reinstalled">მნიშვნელოვანი ფაილები წაიშალა. Gear Manager-ის ფაილები ხელახლა დაინსტალირდა</string>
+    <string name="button_scan_again">ისევ დასკანერდეს</string>
+    <string name="button_start_scan_devices">სკანირება</string>
+    <string name="button_stop_scan_devices">შეჩერება</string>
+    <string name="button_text_bluetooth_turn_on">ჩართვა</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="com_samsung_accessory">Samsung აქსესუარის სერვისი</string>
+    <string name="com_samsung_android_gearoplugin">Gear S დანამატი</string>
+    <string name="connect_popup_content">დაკავშირება</string>
+    <string name="connected">დაკავშირებულია</string>
+    <string name="custom_binary_error_dialog_title">ტელეფონის ოპერაციული სისტემის მოდიფიცირება მოხდა არაავტორიზებული გზით და ის არ არის თავსებადი Samsung Gear აპლიკაციასთან. შეამოწმეთ ოპერაციული სისტემა და ისევ სცადეთ.</string>
+    <string name="deleting_unused_file">სრულდება წინა ვერსის გამოუყენებელი ფაილების წაშლა…</string>
+    <string name="dialog_popup_button_cancel">გაუქმება</string>
+    <string name="dialog_popup_button_later">მოგვიანებით</string>
+    <string name="dialog_popup_button_update">განახლება</string>
+    <string name="dialog_warning">გაფრთხილება</string>
+    <string name="disconnect_and_backup_msg">გთხოვთ, დაელოდოთ…</string>
+    <string name="do_not_show_again">აღარ მაჩვენო</string>
+    <string name="download_failure_message">ვერ ჩამოიტვირთა. ისევ ცადეთ</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">ჩემი არ არის აქ</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear-ის აპლიკაცია</string>
+    <string name="gsp_tracking_body">თვალი ადევნეთ მარშრუტებს და მიიღეთ უფრო ზუსტი ინფორმაცია.</string>
+    <string name="gsp_tracking_title">GPS თვალთვალი</string>
+    <string name="install_from_play_store">შეეხეთ OK-ს, რომ დააინსტალიროთ %s, რათა ჩართოთ მონაცემთა გადაცემა Gear-სა და ტელეფონს შორის.</string>
+    <string name="lets_pair_up">დავაწყვილოთ</string>
+    <string name="loading">იტვირთება…</string>
+    <string name="make_sure_both_passkey">ტელეფონისა და Gear-ის პაროლ-კოდები თანხვდება? დაწყვილების დროა.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear-თან კავშირი შეწყდა.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">%s ვერ გაიხსნება ენერგიის მაქსიმალური დაზოგვის რეჟიმში.</string>
+    <string name="maximum_power_saving_mode_dialog_title">პროგრამა ვერ იხსნება</string>
+    <string name="no_earbud_body">თუ გაქვთ %s ყურსასმენების ნაკრები, ამოიღეთ ისინი დამტენიდან და გაიკეთეთ ყურებში.</string>
+    <string name="no_gear_body">"ნუ იდარდებთ! პირველ რიგში, დარწმუნდით, რომ Gear ნამდვილად ჩართულია.
+
+თუ ჩართულია, გადადით „პარამეტრებზე“ და აირჩიეთ „Gear-ის გადატვირთვა“. შემდეგ ის უნდა გამოჩნდეს Gear მოწყობილობების სიაში."</string>
+    <string name="no_gear_description">Gear არ ჩანს?</string>
+    <string name="no_network_message">ხელმისაწვდომი ქსელები ვერ მოიძებნა.</string>
+    <string name="no_network_title">ქსელთან კავშირი არ არის</string>
+    <string name="none_paired">მოწყობილობები არ არის დაწყვილებული.</string>
+    <string name="not_now">სხვა დროს</string>
+    <string name="not_supported_device_or_version">შეამოწმეთ თქვენი ტელეფონის თავსებადობა და Samsung Gear აპლიკაციის განახლების საჭიროება, შემდეგ კი ისევ სცადეთ.</string>
+    <string name="ok">კი</string>
+    <string name="paired">დაწყვილებული</string>
+    <string name="pass_key">პაროლ-კოდი</string>
+    <string name="permission_dialog_body">"შემდეგი ნებართვები საჭიროა აპლიკაციის სერვისისთვის. არასავალდებულო ნებართვების შემთხვევაში, სერვისის ნაგულისხმევი ფუნქცია ჩართულია, მაგრამ ნებართვა არ არის.
+
+სავალდებულო ნებართვები
+• ლოკაცია: გამოიყენება Gear-ში, ახლომდებარე მოწყობილობების Bluetooth-ით მოსაძებნად
+• საცავი: გამოიყენება შენახული ფაილების Gear-თან გასაგზავნად და მისგან მისაღებად
+• ტელეფონი: გამოიყენება მოწყობილობის უნიკალური საიდენტიფიკაციო ინფორმაციის შესამოწმებლად, აპლიკაციის განახლებისთვის და აპლიკაციის დანამატების დასაინსტალირებლად 
+
+არასავალდებულო ნებართვები 
+• კონტაქტები: გამოიყენება ისეთი სერვისების უზრუნველსაყოფად, რომლებიც ანგარიშებს უნდა მიებას რეგისტრირებული Samsung account-ის ინფორმაციის გამოყენებით"</string>
+    <string name="permission_dialog_title">აპლიკაციის ნებართვები</string>
+    <string name="permission_settings_dialog_message">%s-ს ვერ გამოიყენებთ. შეეხეთ „პარამეტრებს“, შემდეგ კი დართეთ შემდეგი ნებართვები და ისევ სცადეთ:</string>
+    <string name="pick_gear">Gear-ის არჩევა</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth გამორთულია. შეეხეთ „ჩართვა“-ს, რომ ჩართოთ.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth-ის ჩართვა</string>
+    <string name="popupmenu_connect_new_gear">დააკავშირეთ ახალი Gear</string>
+    <string name="preparing_connect_and_install">მზადდება დასაკავშირებლად…</string>
+    <string name="reboot">გადატვ.</string>
+    <string name="reboot_phone_message">Samsung აქსესუარების სერვისი განახლდა. გადატვირთეთ ტელეფონი, რომ დაუკავშირდეს თქვენს Gear-ს.</string>
+    <string name="retry">ისევ ცდა</string>
+    <string name="scan_all_gear_nearby">უახლოესი Gear-ის ძებნა</string>
+    <string name="scanning">სკანირდება…</string>
+    <string name="search_again">ძებნის გამეორება</string>
+    <string name="select_gear_to_connect">აირჩიეთ დასაკავშირებელი Gear.</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="setup_connection_dialog_body">დაუკავშირდებით %s-ს?</string>
+    <string name="setup_message_almost_there">თითქმის მიაღწიეთ.</string>
+    <string name="setup_message_download">მზადდება დასაკავშირებლად…</string>
+    <string name="setup_message_install">ყენდება ტელეფონი…</string>
+    <string name="start_journey">მოგზაურობის დაწყება</string>
+    <string name="step_body">დააყენე გამოწვევები და შეადარე შენი და მეგობრების ნაბიჯები.</string>
+    <string name="step_title">გამოწვევა ნაბიჯებში</string>
+    <string name="title_other_devices">მისაწვდომი მოწყობილობები</string>
+    <string name="title_paired_devices">დაკავშირებული მოწყობილობები</string>
+    <string name="toast_text_for_reinstall">%1$s დარჩება თქვენს მოწყობილობაში, %2$s-ის ინსტალაციის გაუქმების შემდეგაც კი.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">დამატებითი პროგრამა (%s მბ) ვერ დაინსტალირდა. მოწყობილობის მეხსიერებაში არ არის საკმარისი ადგილი. წაშალეთ ზოგიერთი ფაილი და ისევ სცადეთ.</string>
+    <string name="uhm_update_download_progress">განახლება იტვირთება…</string>
+    <string name="uhm_update_exist_notification_subtitle">გამოვიდა ახალი ვერსია.</string>
+    <string name="uhm_update_exist_to_support_new_gear">ზოგიერთი მოძებნილი Gear ვერ უკავშირდება ტელეფონს. შეეხეთ „განახლება“-ს, რომ განაახლოთ %s აპლიკაცია უახლესი ვერსიით, შემდეგ კი ისევ სცადეთ.</string>
+    <string name="uhm_update_install_disconnect_device">წყდება კავშირი %s-სთან…</string>
+    <string name="uhm_update_install_error">ინიციალიზაცია ვერ შესრულდა</string>
+    <string name="uhm_update_install_progress">ინსტალირდება დამატებითი პროგრამა…</string>
+    <string name="uhm_update_notice">შენიშვნა</string>
+    <string name="uhm_update_notice_content">გამოვიდა ახალი ვერსია. განაახლეთ აპლიკაცია, რომ განაგრძოთ.</string>
+    <string name="uhm_update_notice_content_tUHM">%s აპლიკაცია დაიხურება განახლების ჩამოტვირთვის შემდეგ. განახლების დასასრულებლად, ისევ გახსენით აპლიკაცია.</string>
+    <string name="use_network_connection_dialog_body">%s საჭიროებს ქსელთან კავშირს, ნორმალური მუშაობისთვის. დართავთ ნებას?</string>
+    <string name="use_network_connection_dialog_title">ქსელური კავშირების გამოყენება</string>
+    <string name="welcome_no_device_found">თქვენი Gear მოწყობილობების ჩართვის შემდეგ, ისინი გამოჩნდება აქ.</string>
+    <string name="welcome_no_device_found_description">თუ Gear სწორადაა ჩართული, მაგრამ არ ჩანს აქ, გახსენით „პარამეტრები“ > „Gear-ის ინფორმაცია“, შემდეგ კი Gear-ში აირჩიეთ „Gear-ის გადატვირთვა“, რათა დაბრუნდეს მისი ნაგულისხმევი ქარხნული პარამეტრები.</string>
+    <string name="welcome_no_device_found_title">Gear მოწყობილობები არ არის</string>
+    <string name="welcome_select_notice_not_enough_memory">ზოგიერთ Gear საათს შეუძლია მხოლოდ ისეთ ტელეფონებთან დაკავშირება, რომლებშიც არის %1$s %2$s-ზე მეტი მეხსიერება.</string>
+    <string name="welcome_select_your_gear">აირჩიეთ Gear</string>
+    <string name="welcome_select_your_gear_to_connect">აირჩიეთ დასაკავშირებელი Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">დააკავშირეთ Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">ღილაკი</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">მოგვმართეთ</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear-ის ინტელექტუალური სატარებელი მოწყობილობა აუმჯობესებს კომფორტს.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">შეიტყვეთ მეტი</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">ამ აპლიკაციას შეუძლია თქვენი ლოკაციის განსაზღვრა და წვდომის განხორციელება მოწყობილობის მეხსიერებაზე.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">იძებნება Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">მოგესალმებით</string>
+    <string name="which_gear">ახლომახლო მოიძებნა Gear-ები</string>
+</resources>

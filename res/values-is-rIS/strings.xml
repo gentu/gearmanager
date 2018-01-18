@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Leyfir forritinu að flytja gögnin þín um Bluetooth með grunnkerfi aukabúnaðar.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Gögn flutt um grunnkerfi</string>
+    <string name="access_connected_device_status">Aðgangur að tengistöðu tækis</string>
+    <string name="access_connected_device_status_description">Þetta forrit hefur aðgang að tengistöðu smátækja.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Þetta slítur tengingunni við %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Fylgstu með og skráðu æfingagögnin þín sjálfkrafa.</string>
+    <string name="auto_activity_title">Skrá æfingu sjálfkr.</string>
+    <string name="auto_reinstalled">Mikilvægum skrám var eytt. Skrár Gear-stjórnunar verða settar upp aftur.</string>
+    <string name="button_scan_again">Leita aftur</string>
+    <string name="button_start_scan_devices">Skanna</string>
+    <string name="button_stop_scan_devices">Stöðva</string>
+    <string name="button_text_bluetooth_turn_on">Kveikja</string>
+    <string name="cancel">Hætta v.</string>
+    <string name="com_samsung_accessory">Aukabúnaðarþjónusta Samsung</string>
+    <string name="com_samsung_android_gearoplugin">Viðbót fyrir Gear S</string>
+    <string name="connect_popup_content">Tengist</string>
+    <string name="connected">Tengt</string>
+    <string name="custom_binary_error_dialog_title">Stýrikerfi símans hefur verið breytt á óleyfilegan hátt og það er ekki samhæft við Samsung Gear-forritið. Athugaðu stýrikerfið og reyndu aftur.</string>
+    <string name="deleting_unused_file">Eyðir ónotuðum skrám úr eldri útgáfu…</string>
+    <string name="dialog_popup_button_cancel">Hætta v.</string>
+    <string name="dialog_popup_button_later">Síðar</string>
+    <string name="dialog_popup_button_update">Uppfæra</string>
+    <string name="dialog_warning">Viðvörun</string>
+    <string name="disconnect_and_backup_msg">Augnablik…</string>
+    <string name="do_not_show_again">Ekki sýna aftur</string>
+    <string name="download_failure_message">Niðurhalið mistókst. Reyndu aftur.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Mitt birtist ekki</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear forritið</string>
+    <string name="gsp_tracking_body">Fylgstu með æfingarleiðunum og fáðu nákvæmari upplýsingar.</string>
+    <string name="gsp_tracking_title">GPS-rakning</string>
+    <string name="install_from_play_store">Pikkaðu á Í LAGI til að setja upp %s og virkja gagnaflutning milli Gear og símans.</string>
+    <string name="lets_pair_up">Pörum tækin</string>
+    <string name="loading">Hleð…</string>
+    <string name="make_sure_both_passkey">Stemma lykilnúmerin á símanum og Gear? Þá er tími til að para.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear var aftengt.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Ekki er hægt að opna %s í hámarksofursparnaðarstillingu.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Ekki hægt að opna forrit</string>
+    <string name="no_earbud_body">Ef þú ert með %s-heyrnartól skaltu taka þau úr hleðsluhulstrinu og setja þau í eyrun.</string>
+    <string name="no_gear_body">"Engar áhyggjur! Athugaðu fyrst hvort örugglega sé kveikt á Gear-tækinu.
+
+Ef sú er raunin skaltu opna stillingarnar og velja „Endurstilla Gear“. Það ætti síðan að birtast á listanum yfir Gear-tæki."</string>
+    <string name="no_gear_description">Birtist Gear ekki?</string>
+    <string name="no_network_message">Engin tiltæk net fundust.</string>
+    <string name="no_network_title">Engin nettenging</string>
+    <string name="none_paired">Engin pöruð tæki.</string>
+    <string name="not_now">Síðar</string>
+    <string name="not_supported_device_or_version">Gakktu úr skugga um að síminn þinn sé samhæfur og hvort uppfæra þurfi Samsung Gear-forritið og reyndu svo aftur.</string>
+    <string name="ok">Í lagi</string>
+    <string name="paired">Parað</string>
+    <string name="pass_key">Lykilnúmer</string>
+    <string name="permission_dialog_body">"Eftirfarandi heimilda er krafist fyrir þjónustu forritsins. Kveikt er á sjálfgefinni virkni þjónustunnar fyrir valkvæðar heimildir en þær eru ekki heimilaðar.
+
+Nauðsynlegar heimildir
+• Staðsetning: Notað til að leita að nálægum tækjum fyrir Gear í gegnum Bluetooth
+• Geymsla: Notað til að senda og taka á móti vistuðum skrám í Gear
+• Sími: Notað til að athuga einkvæmt kenni tækisins til að uppfæra forritið og setja upp viðbætur fyrir forritið
+
+Valkvæðar heimildir
+• Tengiliðir: Notað til að veita þjónustu sem tengja þarf við reikninga með því að nota upplýsingar af skráðum Samsung account"</string>
+    <string name="permission_dialog_title">Forritsheimildir</string>
+    <string name="permission_settings_dialog_message">Ekki er hægt að nota %s. Pikkaðu á STILLINGAR, veittu síðan eftirfarandi heimildir og reyndu aftur:</string>
+    <string name="pick_gear">Veldu Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Slökkt er á Bluetooth. Pikkaðu á „Kveikja“ til að kveikja á því.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Kveikja á Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Tengja nýtt Gear</string>
+    <string name="preparing_connect_and_install">Undirbý tengingu…</string>
+    <string name="reboot">Endurræ.</string>
+    <string name="reboot_phone_message">Aukabúnaðarþjónusta Samsung hefur verið uppfærð. Endurræstu símann til að tengjast við Gear.</string>
+    <string name="retry">Rey. aftur</string>
+    <string name="scan_all_gear_nearby">Leita að nálægu Gear</string>
+    <string name="scanning">Leita…</string>
+    <string name="search_again">Leita aftur</string>
+    <string name="select_gear_to_connect">Veldu það Gear sem á að tengjast.</string>
+    <string name="settings">Stillingar</string>
+    <string name="setup_connection_dialog_body">Tengjast %s?</string>
+    <string name="setup_message_almost_there">Næstum komið.</string>
+    <string name="setup_message_download">Undirbý tengingu…</string>
+    <string name="setup_message_install">Setur símann upp …</string>
+    <string name="start_journey">Hefja ferðina</string>
+    <string name="step_body">Veldu áskoranir og berðu skrefafjöldann saman við skrefafjölda vina þína.</string>
+    <string name="step_title">Skrefaáskoranir</string>
+    <string name="title_other_devices">Tiltæk tæki</string>
+    <string name="title_paired_devices">Pöruð tæki</string>
+    <string name="toast_text_for_reinstall">%1$s verður áfram í tækinu, jafnvel þótt %2$s sé fjarlægt.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Ekki var hægt að setja upp viðbótarhugbúnað (%s MB). Ekki er nægt pláss í geymslu tækisins. Eyddu einhverjum skrám og reyndu aftur.</string>
+    <string name="uhm_update_download_progress">Sæki uppfærslu…</string>
+    <string name="uhm_update_exist_notification_subtitle">Ný útgáfa er í boði.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Ekki er hægt að tengja sum Gear-tækin sem fundust við símann. Pikkaðu á UPPFÆRA til að uppfæra forritið %s í nýjustu útgáfu og reyndu svo aftur.</string>
+    <string name="uhm_update_install_disconnect_device">Verið er að aftengja %s…</string>
+    <string name="uhm_update_install_error">Uppsetning mistókst</string>
+    <string name="uhm_update_install_progress">Set upp viðbótarhugbúnað…</string>
+    <string name="uhm_update_notice">Tilkynning</string>
+    <string name="uhm_update_notice_content">Ný útgáfa er í boði. Uppfærðu forritið til að halda áfram.</string>
+    <string name="uhm_update_notice_content_tUHM">Forritinu %s verður lokað eftir að uppfærslan hefur verið sótt. Opnaðu það aftur til að ljúka uppfærslunni.</string>
+    <string name="use_network_connection_dialog_body">%s þarf að nota nettengingar til að virka rétt. Viltu leyfa það?</string>
+    <string name="use_network_connection_dialog_title">Nota nettengingar</string>
+    <string name="welcome_no_device_found">Gear-tækin birtast hér eftir að kveikt er á þeim.</string>
+    <string name="welcome_no_device_found_description">Ef kveikt hefur verið á Gear en það sést ekki hér skaltu opna „Stillingar > Upplýsingar um Gear“ og velja „Endurstilla Gear“ í Gear til að endurstilla það á sjálfgefnar grunnstillingar framleiðanda.</string>
+    <string name="welcome_no_device_found_title">Engin Gear-tæki</string>
+    <string name="welcome_select_notice_not_enough_memory">Sum Gear-úr geta eingöngu tengst við síma sem eru með meira en %1$s %2$s af minni.</string>
+    <string name="welcome_select_your_gear">Veldu Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Veldu það Gear sem þú vilt tengjast.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Tengjast við Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Hnappur</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Hafa samband</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Notkun snjalltækja sem notandi ber á sér endurbætt með Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Frekari upplýsingar</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Þetta forrit getur staðsett þig og hefur aðgang að geymslu tækisins.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Leita að Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Velkomin(n)</string>
+    <string name="which_gear">Gear-tæki fundust í grenndinni</string>
+</resources>

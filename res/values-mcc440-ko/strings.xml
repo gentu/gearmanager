@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gear Manager</string>
+    <string name="general_app_name_for_reinstall">Gear 애플리케이션</string>
+    <string name="not_supported_device_or_version">지원되는 폰인지, Gear 앱이 업데이트되었는지 확인한 후 다시 시도하세요.</string>
+    <string name="uhm_update_notice_content">Gear 관리자를 최신 버전으로 업데이트해야 합니다. GALAXY Apps로 최신 버전을 다운로드한 후 Gear 관리자를 업데이트 하세요.</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Gear와 함께 스마트한 웨어러블 경험을 즐겨보세요.</string>
+</resources>

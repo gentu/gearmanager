@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">অ্যাক্সেসরি ফ্রেমওয়ার্ক ব্যবহার করে Bluetooth-এর মাধ্যমে আপনার ডাটা স্থানান্তরের জন্য অ্যাপটিকে অনুমতি দেয়৷</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ফ্রেমওয়ার্কের মাধ্যমে তথ্য স্থানান্তর হচ্ছে</string>
+    <string name="access_connected_device_status">ডিভাইসের সংযোগের স্ট্যাটাস অ্যাক্সেস করুন</string>
+    <string name="access_connected_device_status_description">এই অ্যাপ্লিকেশনটি পরিধেয় ডিভাইসের সংযোগের স্ট্যাটাস সম্পর্কে অ্যাক্সেস করতে পারে৷</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">এটি আপনার সাথে %s-এর সংযোগ বিচ্ছিন্ন করবে।</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">আপনার ব্যায়ামের তথ্য স্বয়ংক্রিয়ভাবে ট্র্যাক ও রেকর্ড করুন৷</string>
+    <string name="auto_activity_title">ব্যায়াম অটো ট্র্যাক করা</string>
+    <string name="auto_reinstalled">গুরুত্বপূর্ণ ফাইলগুলো মোছা হয়েছে৷ Gear ম্যানেজারের ফাইলগুলো পুনরায় ইনস্টল হয়েছে৷</string>
+    <string name="button_scan_again">আবার স্ক্যান করুন</string>
+    <string name="button_start_scan_devices">স্ক্যান করুন</string>
+    <string name="button_stop_scan_devices">থামুন</string>
+    <string name="button_text_bluetooth_turn_on">চালু করুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gear S প্লাগ ইন</string>
+    <string name="connect_popup_content">সংযোগ করা হচ্ছে</string>
+    <string name="connected">সংযুক্ত হয়েছে</string>
+    <string name="custom_binary_error_dialog_title">আপনার ফোনের অপারেটিং সিস্টেম অননুমোদিতভাবে পরিবর্তন করা হয়েছে, এবং এটি Samsung Gear অ্যাপের সাথে মানানসই নয়৷ আপনার অপারেটিং সিস্টেম পরীক্ষা করে আবার চেষ্টা করুন৷</string>
+    <string name="deleting_unused_file">আগের সংস্করণের অব্যবহৃত ফাইলগুলো মুছে ফেলা হচ্ছে…</string>
+    <string name="dialog_popup_button_cancel">বাতিল</string>
+    <string name="dialog_popup_button_later">পরে</string>
+    <string name="dialog_popup_button_update">আপডেট</string>
+    <string name="dialog_warning">সতর্কীকরণ</string>
+    <string name="disconnect_and_backup_msg">অনুগ্রহ করে অপেক্ষা করুন…</string>
+    <string name="do_not_show_again">আর দেখাবেন না</string>
+    <string name="download_failure_message">ডাউনলোড ব্যর্থ হয়েছে৷ আবার চেষ্টা করুন।</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">আমারটি এখানে নেই</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear অ্যাপ্লিকেশন</string>
+    <string name="gsp_tracking_body">আপনার ব্যায়ামের রুট ট্র্যাক করুন এবং আরো নির্ভুল তথ্য সংগ্রহ করুন৷</string>
+    <string name="gsp_tracking_title">GPS ট্র্যাকিং</string>
+    <string name="install_from_play_store">আপনার Gear ও আপনার ফোনের মধ্যে তথ্য স্থানান্তর সক্রিয় করার জন্য %s ইনস্টল করতে ‘ঠিক আছে’ ট্যাপ করুন৷</string>
+    <string name="lets_pair_up">চলুন পেয়ার করা যাক</string>
+    <string name="loading">লোড হচ্ছে…</string>
+    <string name="make_sure_both_passkey">আপনার ফোনে ও Gear-এ পাসকী মিলছে? তাহলে এখন পেয়ার করার সময় হয়েছে৷</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear-এর সংযোগ বিচ্ছিন্ন হয়েছে।</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">‘সর্বোচ্চ পাওয়ার সাশ্রয় মোডে’ %s খুলতে অক্ষম৷</string>
+    <string name="maximum_power_saving_mode_dialog_title">অ্যাপ খোলা সম্ভব নয়</string>
+    <string name="no_earbud_body">আপনি %s ইয়ারবাডের একটি সেট পেলে, সেগুলোকে চার্জিং কেস থেকে বের করে আপনার কানে পরুন৷</string>
+    <string name="no_gear_body">"চিন্তা করবেন না! প্রথমত, চেক করুন যে আপনার Gear আসলে চালু আছে কিনা।
+
+চালু থাকলে, সেটিংসে যান এবং ‘Gear রিসেট করুন’ অপশনটি নির্বাচন করুন। তখন এটিকে Gear ডিভাইসের তালিকায় দেখানো উচিত।"</string>
+    <string name="no_gear_description">Gear দেখা যাচ্ছে না?</string>
+    <string name="no_network_message">কোনো লভ্য নেটওয়ার্ক খুঁজে পাওয়া যায়নি৷</string>
+    <string name="no_network_title">কোনো নেটওয়ার্ক সংযোগ নেই</string>
+    <string name="none_paired">কোনো ডিভাইস জোড়বদ্ধ নেই৷</string>
+    <string name="not_now">পরে</string>
+    <string name="not_supported_device_or_version">আপনার ফোন মানানসই কিনা এবং Samsung Gear অ্যাপ হালনাগাদ করার প্রয়োজন আছে কিনা পরীক্ষা করে আবার চেষ্টা করুন৷</string>
+    <string name="ok">ওকে</string>
+    <string name="paired">জোড়বদ্ধ</string>
+    <string name="pass_key">পাসকী</string>
+    <string name="permission_dialog_body">"অ্যাপ সার্ভিসের জন্য নিচের অনুমতিগুলো আবশ্যক৷ ঐচ্ছিক অনুমতিগুলোর জন্য, সার্ভিসের ডিফল্ট ফাংশনালিটি চালু হয়েছে, কিন্তু অনুমোদিত নয়৷
+
+আবশ্যক অনুমতি
+• অবস্থান: Bluetooth-এর মাধ্যমে Gear-এর জন্য নিকটবর্তী ডিভাইসগুলো খুঁজতে ব্যবহার করা হয়
+• স্টোরেজ: সংরক্ষিত ফাইলগুলো পাঠাতে ও গ্রহণ করতে Gear-এর সাথে ব্যবহার করা হয়
+• টেলিফোন: অ্যাপ আপডেট করতে ও প্লাগ-ইন অ্যাপগুলো ইনস্টল করতে ডিভাইসের অনন্য শনাক্তকরণের তথ্য নিশ্চিত করার জন্য ব্যবহার করা হয়
+
+ঐচ্ছিক অনুমতি
+• কন্টাক্ট: নিবন্ধিত Samsung account-এর তথ্য ব্যবহার করে অ্যাকাউন্টগুলোর সাথে লিংক করা প্রয়োজন এমন পরিষেবা প্রদান করার জন্য ব্যবহার করা হয়৷"</string>
+    <string name="permission_dialog_title">অ্যাপের অনুমতি</string>
+    <string name="permission_settings_dialog_message">%s ব্যবহার করতে অক্ষম৷ ‘সেটিংস’-এ ট্যাপ করুন, তারপর নিম্নলিখিত অনুমতিগুলো দিয়ে আবার চেষ্টা করুন:</string>
+    <string name="pick_gear">আপনার Gear তুলুন</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth বন্ধ আছে। এটি চালু করতে চালু করুন ট্যাপ করুন।</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth চালু করুন</string>
+    <string name="popupmenu_connect_new_gear">নতুন Gear সংযোগ করুন</string>
+    <string name="preparing_connect_and_install">সংযোগের জন্য তৈরি হচ্ছে…</string>
+    <string name="reboot">পুনঃচালু</string>
+    <string name="reboot_phone_message">Samsung Accessory Service আপডেট হয়েছে৷ আপনার Gear-এর সাথে সংযোগ করতে আপনার ফোন পুনরায় চালু করুন৷</string>
+    <string name="retry">পুনঃচেষ্টা করুন</string>
+    <string name="scan_all_gear_nearby">কাছাকাছি Gear স্ক্যান করুন</string>
+    <string name="scanning">স্ক্যান করা হচ্ছে…</string>
+    <string name="search_again">Search again</string>
+    <string name="select_gear_to_connect">আপনি যে Gear-এর সাথে সংযোগ করতে চান সেটি তুলুন।</string>
+    <string name="settings">সেটিংস</string>
+    <string name="setup_connection_dialog_body">%s-এর সাথে সংযুক্ত হবেন?</string>
+    <string name="setup_message_almost_there">প্রায় পৌঁছে গেছেন৷</string>
+    <string name="setup_message_download">সংযোগের জন্য তৈরি হচ্ছে…</string>
+    <string name="setup_message_install">আপনার ফোন সেট-আপ করা হচ্ছে…</string>
+    <string name="start_journey">ভ্রমণ শুরু করুন</string>
+    <string name="step_body">চ্যালেঞ্জ সেট করুন এবং বন্ধুদের সাথে আপনার পদক্ষেপ সংখ্যা তুলনা করুন৷</string>
+    <string name="step_title">পদক্ষেপের চ্যালেঞ্জ</string>
+    <string name="title_other_devices">সুলভ ডিভাইসগুলো</string>
+    <string name="title_paired_devices">জোড় বাঁধা ডিভাইসগুলো</string>
+    <string name="toast_text_for_reinstall">%2$s আনইনস্টল করার পরেও %1$s আপনার ডিভাইসে থেকে যাবে৷</string>
+    <string name="uhm_install_error_msg_insufficient_storage">বাড়তি সফ্টওয়্যার (%s MB) ইনস্টল করা যায়নি৷ আপনার ডিভাইসের স্টোরেজে পর্যাপ্ত জায়গা নেই। কিছু ফাইল মুছে আবার চেষ্টা করুন।</string>
+    <string name="uhm_update_download_progress">আপডেট ডাউনলোড করা হচ্ছে…</string>
+    <string name="uhm_update_exist_notification_subtitle">একটি নতুন সংস্করণ পাওয়া যাচ্ছে।</string>
+    <string name="uhm_update_exist_to_support_new_gear">স্ক্যান করা কিছু Gear আপনার ফোনের সাথে সংযুক্ত করা যাবে না৷ %s অ্যাপটি সর্বশেষ সংস্করণে আপডেট করতে ‘আপডেট করুন’-এ ট্যাপ করুন, তারপর আবার চেষ্টা করুন৷</string>
+    <string name="uhm_update_install_disconnect_device">%s থেকে বিচ্ছিন্ন করা হচ্ছে…</string>
+    <string name="uhm_update_install_error">ইনস্টল করতে ব্যর্থ</string>
+    <string name="uhm_update_install_progress">আরো সফ্টওয়্যার ইনস্টল হচ্ছে…</string>
+    <string name="uhm_update_notice">বিজ্ঞপ্তি</string>
+    <string name="uhm_update_notice_content">একটি নতুন সংস্করণ আছে। অব্যাহত রাখতে অ্যাপটি আপডেট করুন।</string>
+    <string name="uhm_update_notice_content_tUHM">আপডেট ডাউনলোড হওয়ার পর %s অ্যাপ বন্ধ হবে৷ আপডেট সম্পন্ন করতে অ্যাপটি আবার খুলুন৷</string>
+    <string name="use_network_connection_dialog_body">স্বাভাবিকভাবে কাজ করতে %s-এর নেটওয়ার্ক সংযোগগুলো ব্যবহার করা প্রয়োজন। অনুমতি দেবেন?</string>
+    <string name="use_network_connection_dialog_title">নেটওয়ার্ক সংযোগ ব্যবহার করুন</string>
+    <string name="welcome_no_device_found">আপনি আপনার Gear ডিভাইসগুলো চালু করার পর, সেগুলো এখানে দেখানো হবে৷</string>
+    <string name="welcome_no_device_found_description">যদি আপনার Gear-এর পাওয়ার যথাযথভাবে চালু হয় কিন্তু সেটি এখানে দেখানো না হয়, তাহলে ‘সেটিংস > Gear-এর তথ্য’ অপশনে যান, তারপর এটিকে ফ্যাক্টরি ডিফল্ট সেটিংসে রিসেট করতে Gear-এ ‘Gear রিসেট’ অপশনটি নির্বাচন করুন৷</string>
+    <string name="welcome_no_device_found_title">কোনো Gear ডিভাইস নেই</string>
+    <string name="welcome_select_notice_not_enough_memory">কিছু Gear ঘড়ি শুধু %1$s %2$s-এর বেশি মেমোরিযুক্ত ফোনের সাথে সংযোগ করতে পারে।</string>
+    <string name="welcome_select_your_gear">আপনার Gear নির্বাচন করুন।</string>
+    <string name="welcome_select_your_gear_to_connect">সংযোগ করতে Gear নির্বাচন করুন৷</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear-এ সংযুক্ত করুন</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">বাটন</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear-এর মাধ্যমে পরিধানযোগ্য স্মার্ট ডিভাইসের অভিজ্ঞতা বৃদ্ধি৷</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">আরো শিখুন</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">এই অ্যাপটি আপনার অবস্থান শনাক্ত করতে পারে এবং আপনার ডিভাইসের স্টোরেজ অ্যাক্সেস করতে পারে৷</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear খোঁজা হচ্ছে…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">স্বাগতম</string>
+    <string name="which_gear">কাছাকাছি জায়গায় Gear শনাক্ত হয়েছে</string>
+</resources>

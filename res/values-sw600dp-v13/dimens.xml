@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="device_list_divider_margin_start">108.0dip</dimen>
+    <dimen name="list_device_icon_padding">32.0dip</dimen>
+    <dimen name="list_device_item_icon_size">44.0dip</dimen>
+    <dimen name="list_device_item_padding">17.5dip</dimen>
+    <dimen name="sub_divider_height">32.0dip</dimen>
+</resources>

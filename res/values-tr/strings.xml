@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Uygulamanın aksesuar çerçevesi kullanarak Bluetooth üzerinden verilerinizi aktarmasına izin verir.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Çerçeve vasıtasıyla veri aktarımı</string>
+    <string name="access_connected_device_status">Cihaz bağlantı durumuna erişim</string>
+    <string name="access_connected_device_status_description">Bu uygulama, takılabilir cihaz bağlantı durumuna erişebilir.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Bu %s bağlantınızı sonlandıracaktır</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Antrenman verilerinizi otomatik olarak izleyin ve kaydedin.</string>
+    <string name="auto_activity_title">Oto. antrenmn takibi</string>
+    <string name="auto_reinstalled">Önemli dosyalar silindi. Gear Manager dosyaları yeniden yüklendi.</string>
+    <string name="button_scan_again">Tekrar tara</string>
+    <string name="button_start_scan_devices">Tara</string>
+    <string name="button_stop_scan_devices">Durdur</string>
+    <string name="button_text_bluetooth_turn_on">Aç</string>
+    <string name="cancel">İptal</string>
+    <string name="com_samsung_accessory">Samsung Aksesuar Servisi</string>
+    <string name="com_samsung_android_gearoplugin">Gear S eklentisi</string>
+    <string name="connect_popup_content">Bağlanıyor</string>
+    <string name="connected">Bağlantı kuruldu</string>
+    <string name="custom_binary_error_dialog_title">Telefonunuzdaki işletim sistemi yetkisiz şekilde değiştirildi ve Samsung Gear uygulamasıyla uyumlu değil. İşletim sisteminizi kontrol edip tekrar deneyin.</string>
+    <string name="deleting_unused_file">Önceki sürümden kullanılmayan dosyalar siliniyor…</string>
+    <string name="dialog_popup_button_cancel">İptal</string>
+    <string name="dialog_popup_button_later">Daha sonra</string>
+    <string name="dialog_popup_button_update">Güncelle</string>
+    <string name="dialog_warning">Uyarı</string>
+    <string name="disconnect_and_backup_msg">Lütfen bekleyin…</string>
+    <string name="do_not_show_again">Tekrar gösterme</string>
+    <string name="download_failure_message">İndirme başarısız. Sonra deneyin.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Benimki burada değil</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear uygulaması</string>
+    <string name="gsp_tracking_body">Antrenman rotalarınızı izleyin ve daha doğru bilgiler alın.</string>
+    <string name="gsp_tracking_title">GPS izleme</string>
+    <string name="install_from_play_store">Gear’ınız ve telefonunuz arasında veri aktarımını etkinleştirmek üzere %s öğesini yüklemek için Tamam’a dokunun.</string>
+    <string name="lets_pair_up">Eşitleyelim</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="make_sure_both_passkey">"Telefonunuz ve Gear'ınızdaki geçiş anahtarları eşleşiyor mu? O zaman eşleştirme zamanı."</string>
+    <string name="maximum_power_saving_mode_dialog_body">"Gear'ın bağlantısı kesildi."</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Maksimum güç tasarrufu modunda %s açılamıyor.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Uygulama açılamıyor</string>
+    <string name="no_earbud_body">%s kulaklık setiniz varsa kulaklığı şarj kılıfından çıkarıp kulaklarınıza takın.</string>
+    <string name="no_gear_body">"Endişelenmeyin! Öncelikle Gear'ınızın gerçekten açık olduğunu kontrol edin.
+
+Öyleyse Ayarlar'a gidip Gear'ı sıfırla öğesini seçin. Ardından Gear cihazları listesinde görünmesi gerekir."</string>
+    <string name="no_gear_description">Gear görünmüyor mu?</string>
+    <string name="no_network_message">Kullanılabilir ağ bulunamadı.</string>
+    <string name="no_network_title">Ağ bağlantısı yok</string>
+    <string name="none_paired">Hiçbir cihaz eşleşmedi.</string>
+    <string name="not_now">Daha sonra</string>
+    <string name="not_supported_device_or_version">Telefonunuzun uyumlu olup olmadığını ve Samsung Gear uygulamasının güncellenmesi gerekip gerekmediğini kontrol edip tekrar deneyin.</string>
+    <string name="ok">Tamam</string>
+    <string name="paired">Eşleştirildi</string>
+    <string name="pass_key">Geçiş anahtarı</string>
+    <string name="permission_dialog_body">"Uygulama servisi için aşağıdaki izinler gerekir. İsteğe bağlı izinler için servisin varsayılan işlevselliği açılır ancak izin verilmez.
+
+Gerekli izinler
+• Konum: Gear için Bluetooth yoluyla yakındaki cihazları aramak için kullanılır
+• Depolama: Gear ile depolanan dosyaları iletmek ve almak için kullanılır
+• Telefon: Uygulamaları güncellemek ve eklenti uygulamalarını yüklemek üzere cihazın benzersiz tanımlama bilglerini kontrol etmek için kullanılır
+
+İsteğe bağlı izinler
+• Kişiler: Kayıtlı Samsung account bilgileri kullanılarak hesaplara bağlanması gereken servisleri sunmak için kullanılır"</string>
+    <string name="permission_dialog_title">Uygulama izinleri</string>
+    <string name="permission_settings_dialog_message">"%s kullanılamıyor. AYARLAR'a dokunun, ardından aşağıdaki izinleri verip tekrar deneyin:"</string>
+    <string name="pick_gear">"Gear'ınızı seçin"</string>
+    <string name="popup_message_bluetooth_turn_on">"Bluetooth kapalı. Açmak için Aç'a dokunun."</string>
+    <string name="popup_title_message_bluetooth_turn_on">"Bluetooth'u aç"</string>
+    <string name="popupmenu_connect_new_gear">"Yeni Gear'ı bağlayın"</string>
+    <string name="preparing_connect_and_install">Bağlanmaya hazırlanılıyor…</string>
+    <string name="reboot">Yn bşlt</string>
+    <string name="reboot_phone_message">"Samsung Aksesuar Servisi güncellendi. Gear'ınıza bağlanmak için telefonunuzu yeniden başlatın."</string>
+    <string name="retry">Tkrar dene</string>
+    <string name="scan_all_gear_nearby">Yakında Gear ara</string>
+    <string name="scanning">Taranıyor…</string>
+    <string name="search_again">Tekrar ara</string>
+    <string name="select_gear_to_connect">"Bağlanmak istediğiniz Gear'ı seçin."</string>
+    <string name="settings">Ayarlar</string>
+    <string name="setup_connection_dialog_body">%s cihzna bğlnlsn mı?</string>
+    <string name="setup_message_almost_there">Neredeyse tamamlandı.</string>
+    <string name="setup_message_download">Bağlanmaya hazırlanılıyor…</string>
+    <string name="setup_message_install">Telefonunuz kuruluyor…</string>
+    <string name="start_journey">Yolculuğa başla</string>
+    <string name="step_body">Mücadelelr belrleyn ve arkdşlrnızla adım sylarnzı krşlaştrn.</string>
+    <string name="step_title">Adım mücadeleleri</string>
+    <string name="title_other_devices">Kullanılabilir cihazlar</string>
+    <string name="title_paired_devices">Eşleşen cihazlar</string>
+    <string name="toast_text_for_reinstall">%1$s, %2$s kaldırıldıktan sonra bile cihazınızda kalır.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Ek yazılım (%s MB) yüklenemedi. Cihazınızın hafızasında yeterli alan yok. Bazı dosyaları silip tekrar deneyin.</string>
+    <string name="uhm_update_download_progress">Güncelleme indiriliyor…</string>
+    <string name="uhm_update_exist_notification_subtitle">Yeni bir sürüm mevcut.</string>
+    <string name="uhm_update_exist_to_support_new_gear">"Taranan Gear'lardan bazıları telefonunuza bağlanamıyor. %s uygulamasını en son sürümüne güncellemek için GÜNCELLE öğesine dokunun, ardından tekrar deneyin."</string>
+    <string name="uhm_update_install_disconnect_device">%s ile bağlantı kesiliyor…</string>
+    <string name="uhm_update_install_error">Kurma başarısız</string>
+    <string name="uhm_update_install_progress">Ek yazılım yükleniyor…</string>
+    <string name="uhm_update_notice">Dikkat</string>
+    <string name="uhm_update_notice_content">Yeni bir sürüm mevcut. Devam etmek için uygulamayı güncelleyin.</string>
+    <string name="uhm_update_notice_content_tUHM">Güncelleme indirildikten sonra %s uygulaması kapatılacak. Güncellemeyi tamamlamak için uygulamayı yeniden açın.</string>
+    <string name="use_network_connection_dialog_body">%s uygulamasının, manuel olarak çalışmak için ağ bağlantılarını kullanması gerekiyor. İzin verilsin mi?</string>
+    <string name="use_network_connection_dialog_title">Ağ bağlantılarını kullan</string>
+    <string name="welcome_no_device_found">Açtığınız Gear cihazlarınız burada gösterilir.</string>
+    <string name="welcome_no_device_found_description">"Gear'ınız düzgün şekilde açıldıysa ancak burada gösterilmiyorsa Ayarlar > Gear bilgileri bölümüne gidin, ardından varsayılan fabrika ayarlarına sıfırlamak için Gear'da Gear'ı sıfırla öğesini seçin."</string>
+    <string name="welcome_no_device_found_title">Gear cihazı yok</string>
+    <string name="welcome_select_notice_not_enough_memory">Bazı Gear saatler sadece %1$s %2$s hafıza olan telefonlara bağlanabilir.</string>
+    <string name="welcome_select_your_gear">"Gear'ınızı seçme"</string>
+    <string name="welcome_select_your_gear_to_connect">"Bağlanılacak Gear'ı seçin."</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">"Gear'a bağlan"</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Tuş</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Bize ulaşın</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear ile akıllı takılabilir cihaz deneyimini geliştirin.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Ek bilgi</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Bu uygulama, konumunuzu belirleyebilir ve cihazınızın hafızasına erişebilir.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear aranıyor…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Hoş Geldiniz</string>
+    <string name="which_gear">Yakında Gear tespit edildi</string>
+</resources>

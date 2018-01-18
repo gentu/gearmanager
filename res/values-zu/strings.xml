@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Allows the app to transfer your data via Bluetooth using the accessory framework.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Transferring data via framework</string>
+    <string name="access_connected_device_status">Access device connection status</string>
+    <string name="access_connected_device_status_description">This application can access the wearable device connection status.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Lokhu kuzoqeda uxhumano lwakho nokuthi %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Track and record your workout data automatically.</string>
+    <string name="auto_activity_title">Auto track workouts</string>
+    <string name="auto_reinstalled">Important files deleted. Gear Manager files reinstalled.</string>
+    <string name="button_scan_again">Scan again</string>
+    <string name="button_start_scan_devices">Skena</string>
+    <string name="button_stop_scan_devices">Yima</string>
+    <string name="button_text_bluetooth_turn_on">Vula</string>
+    <string name="cancel">Khansela</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gear S plug-in</string>
+    <string name="connect_popup_content">Ukuxhuma</string>
+    <string name="connected">Connected</string>
+    <string name="custom_binary_error_dialog_title">The operating system on your phone has been modified in an unauthorised way, and is not compatible with the Samsung Gear app. Check your operating system and try again.</string>
+    <string name="deleting_unused_file">Deleting unused files from previous version…</string>
+    <string name="dialog_popup_button_cancel">Khansela</string>
+    <string name="dialog_popup_button_later">Kamuva</string>
+    <string name="dialog_popup_button_update">Buyekeza</string>
+    <string name="dialog_warning">Isexwayiso</string>
+    <string name="disconnect_and_backup_msg">Sicela ulinde…</string>
+    <string name="do_not_show_again">Ungaphinde uveze</string>
+    <string name="download_failure_message">Download failed. Try again.</string>
+    <string name="gb">i-GB</string>
+    <string name="gear_not_presesnt">"Mine's not here"</string>
+    <string name="general_app_name_for_reinstall">the Samsung Gear application</string>
+    <string name="gsp_tracking_body">Track your workout routes and get more accurate information.</string>
+    <string name="gsp_tracking_title">GPS tracking</string>
+    <string name="install_from_play_store">Tap OK to install %s to enable the data transfer between your Gear and your phone.</string>
+    <string name="lets_pair_up">"Let's pair up"</string>
+    <string name="loading">Loading…</string>
+    <string name="make_sure_both_passkey">"Do the passkeys on your phone and your Gear match? Then it's time to pair up."</string>
+    <string name="maximum_power_saving_mode_dialog_body">The Gear has been disconnected.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Unable to open %s in Maximum power saving mode.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Unable to open app</string>
+    <string name="no_earbud_body">"If you've got a set of %s earbuds, take them out of the charging case and put them in your ears."</string>
+    <string name="no_gear_body">"Don't worry! First of all, check that your Gear is actually turned on.
+
+If it is, go to Settings and select Reset Gear. It should then appear in the list of Gear devices."</string>
+    <string name="no_gear_description">Gear not appearing?</string>
+    <string name="no_network_message">"Couldn't find any available networks."</string>
+    <string name="no_network_title">No network connection</string>
+    <string name="none_paired">No devices are paired.</string>
+    <string name="not_now">Later</string>
+    <string name="not_supported_device_or_version">Check if your phone is compatible and if the Samsung Gear app needs to be updated, then try again.</string>
+    <string name="ok">KULUNGILE</string>
+    <string name="paired">Paired</string>
+    <string name="pass_key">Passkey</string>
+    <string name="permission_dialog_body">"The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed.
+
+Required permissions
+• Location: Used to search for nearby devices for Gear through Bluetooth
+• Storage: Used to transmit and receive the stored files with Gear
+• Telephone: Used to check device-unique identification information for updating apps and installing plug-in apps
+
+Optional permissions
+• Contacts: Used to provide services that need to be linked with accounts using registered Samsung account information"</string>
+    <string name="permission_dialog_title">App permissions</string>
+    <string name="permission_settings_dialog_message">Unable to use %s. Tap SETTINGS, then allow the following permissions and try again:</string>
+    <string name="pick_gear">Pick your Gear</string>
+    <string name="popup_message_bluetooth_turn_on">I-Bluetooth ivaliwe. Thepha okuthi Vula ukuze uyivule.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Vula i-Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Connect new Gear</string>
+    <string name="preparing_connect_and_install">Preparing to connect…</string>
+    <string name="reboot">Restart</string>
+    <string name="reboot_phone_message">Samsung Accessory Service has been updated. Restart your phone to connect to your Gear.</string>
+    <string name="retry">Retry</string>
+    <string name="scan_all_gear_nearby">Scan for nearby Gear</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_again">Ukucinga futhi</string>
+    <string name="select_gear_to_connect">Pick the Gear that you want to connect to.</string>
+    <string name="settings">Settings</string>
+    <string name="setup_connection_dialog_body">Connect to %s?</string>
+    <string name="setup_message_almost_there">Almost there.</string>
+    <string name="setup_message_download">Preparing to connect…</string>
+    <string name="setup_message_install">Setting up your phone…</string>
+    <string name="start_journey">Start the journey</string>
+    <string name="step_body">Set challenges and compare your step count with friends.</string>
+    <string name="step_title">Steps challenges</string>
+    <string name="title_other_devices">Amadivayisi atholakalayo</string>
+    <string name="title_paired_devices">Amadivayisi abhanqiwe</string>
+    <string name="toast_text_for_reinstall">%1$s will remain on your device even after uninstalling %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Additional software (%s MB) could not be installed. There is not enough space in your device storage. Delete some files and try again.</string>
+    <string name="uhm_update_download_progress">Ukufaka ezamuva ohlelweni lokudiliza…</string>
+    <string name="uhm_update_exist_notification_subtitle">A new version is available.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Some of the scanned Gears cannot be connected to your phone. Tap UPDATE to update the %s app to the latest version, then try again.</string>
+    <string name="uhm_update_install_disconnect_device">Kunqamule kwi%s…</string>
+    <string name="uhm_update_install_error">Ukufakela kuhlulekile</string>
+    <string name="uhm_update_install_progress">Installing additional software…</string>
+    <string name="uhm_update_notice">Isaziso</string>
+    <string name="uhm_update_notice_content">A new version is available. Update the app to continue.</string>
+    <string name="uhm_update_notice_content_tUHM">The %s app will close after the update has been downloaded. Reopen the app to complete the update.</string>
+    <string name="use_network_connection_dialog_body">%s needs to use network connections to work normally. Allow?</string>
+    <string name="use_network_connection_dialog_title">Use network connections</string>
+    <string name="welcome_no_device_found">After you power on your Gear devices, they will be shown here.</string>
+    <string name="welcome_no_device_found_description">If your Gear is powered on properly but not shown here, go to Settings > Gear info, then select Reset Gear on the Gear to reset it to its factory default settings.</string>
+    <string name="welcome_no_device_found_title">No Gear devices</string>
+    <string name="welcome_select_notice_not_enough_memory">Some Gear watches can only connect to phones that have more than %1$s %2$s of memory.</string>
+    <string name="welcome_select_your_gear">Select your Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Select the Gear to connect to.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Connect to Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Button</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Contact us</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Enhancing the smart wearable experience with Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Learn more</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">This app can determine your location and access your device storage.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Searching Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Welcome</string>
+    <string name="which_gear">Gears spotted nearby</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Antaa sovelluksen siirtää tiedot Bluetoothilla lisäsovelluskehyksen kautta.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Tietojen siirto sovelluskehyksen kautta</string>
+    <string name="access_connected_device_status">Käytä laitteen yhteystilaa</string>
+    <string name="access_connected_device_status_description">Tämä sovellus pystyy käyttämään päälle puettavan laitteen yhteystilaa.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Yhteys katkaistaan laitteeseen %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Seuraa harjoitustietoja ja tallenna ne automaattisesti.</string>
+    <string name="auto_activity_title">Seuraa harj. autom.</string>
+    <string name="auto_reinstalled">Tärkeitä tiedostoja poistettu. Gear Manager asennetaan uudelleen.</string>
+    <string name="button_scan_again">Tarkista uudelleen</string>
+    <string name="button_start_scan_devices">Hae</string>
+    <string name="button_stop_scan_devices">Lopeta</string>
+    <string name="button_text_bluetooth_turn_on">Käynnistä</string>
+    <string name="cancel">Peruuta</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gearin S-laajennus</string>
+    <string name="connect_popup_content">Yhdistetään</string>
+    <string name="connected">Yhdistetty</string>
+    <string name="custom_binary_error_dialog_title">Puhelimen käyttöjärjestelmää on muutettu luvattomalla tavalla, eikä se ole yhteensopiva Samsung Gear -sovelluksen kanssa. Tarkista käyttöjärjestelmä ja yritä uudelleen.</string>
+    <string name="deleting_unused_file">Poistetaan käyttämättömät tiedostot aikaisemmasta versiosta…</string>
+    <string name="dialog_popup_button_cancel">Peruuta</string>
+    <string name="dialog_popup_button_later">Myöhemmin</string>
+    <string name="dialog_popup_button_update">Päivitä</string>
+    <string name="dialog_warning">Varoitus</string>
+    <string name="disconnect_and_backup_msg">Ole hyvä ja odota…</string>
+    <string name="do_not_show_again">Älä näytä uudelleen</string>
+    <string name="download_failure_message">Lataus epäonnistui. Yritä uudelleen.</string>
+    <string name="gb">Gt</string>
+    <string name="gear_not_presesnt">Minun ei ole täällä</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear -sovellus</string>
+    <string name="gsp_tracking_body">Seuraa harjoitusreittejä ja hanki entistä tarkempia tietoja.</string>
+    <string name="gsp_tracking_title">GPS-seuranta</string>
+    <string name="install_from_play_store">Napauta OK ja asenna %s ottaaksesi tiedonsiirron Gearin ja puhelimen välillä käyttöön.</string>
+    <string name="lets_pair_up">Muodostetaan pariliitos</string>
+    <string name="loading">Ladataan…</string>
+    <string name="make_sure_both_passkey">Vastaavatko puhelimen ja Gearin todentamisavaimet toisiaan? Silloin on aika muodostaa pariliitos.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gearin yhteys on katkaistu.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Sovellusta %s ei voi avata maksimivirransäästötilassa.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Sovellusta ei voi avata</string>
+    <string name="no_earbud_body">Jos sinulla on %s -korvanapit, ota ne esiin latauskotelosta ja laita ne korviisi.</string>
+    <string name="no_gear_body">"Älä huolestu! Tarkista ensin, että Gearin virta on kytketty.
+
+Jos on, siirry Asetukset-kohtaan ja valitse Nollaa Gear. Sen pitäisi sitten ilmestyä Gear-laitteiden luetteloon."</string>
+    <string name="no_gear_description">Eikö Gearia näy?</string>
+    <string name="no_network_message">Käytettävissä olevia verkkoja ei löytynyt.</string>
+    <string name="no_network_title">Verkkoyhteyttä ei ole</string>
+    <string name="none_paired">Pareiksi liitettyjä laitteita ei ole.</string>
+    <string name="not_now">Myöhemmin</string>
+    <string name="not_supported_device_or_version">Tarkista, onko puhelin yhteensopiva ja onko Samsung Gear -ohjelmisto päivitettävä, ja yritä sitten uudelleen.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Pariliitos</string>
+    <string name="pass_key">Todentamisavain</string>
+    <string name="permission_dialog_body">"Sovelluspalveluun tarvitaan seuraavat käyttöoikeudet. Valinnaisia käyttöoikeuksia varten palvelun oletustoiminto otetaan käyttöön, mutta sitä ei sallita.
+
+Tarvittavat käyttöoikeudet
+• Sijainti: käytetään Gearin lähellä olevien laitteiden hakemiseen Bluetoothilla
+• Tallennus: käytetään tallennettujen tiedostojen lähettämiseen ja vastaanottamiseen Gearilla
+• Puhelin: käytetään laitteen yksilöllisten tunnistetietojen tarkistamiseen sovelluksia päivitettäessä ja laajennuksia asennettaessa
+
+Valinnaiset käyttöoikeudet
+• Yhteystiedot: käytetään sellaisten palveluiden tuottamiseen, jotka edellyttävät liittämistä tileihin rekisteröidyn Samsung accountin tiedoilla"</string>
+    <string name="permission_dialog_title">Sovelluksen oikeudet</string>
+    <string name="permission_settings_dialog_message">Toimintoa %s ei voi käyttää. Napauta ASETUKSET, myönnä seuraavat oikeudet ja yritä uudelleen:</string>
+    <string name="pick_gear">Valitse Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth on poistettu käytöstä. Kytke virta sen ottamiseksi käyttöön.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Käynnistä Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Yhdistä uusi Gear</string>
+    <string name="preparing_connect_and_install">Yhteyttä valmistellaan…</string>
+    <string name="reboot">K. uud.</string>
+    <string name="reboot_phone_message">Samsung Accessory Service on päivitetty. Käynnistä puhelin uudelleen muodostaaksesi yhteyden Geariin.</string>
+    <string name="retry">Yritä uud.</string>
+    <string name="scan_all_gear_nearby">Hae läh. olevaa Gearia</string>
+    <string name="scanning">Haetaan…</string>
+    <string name="search_again">Hae uudelleen</string>
+    <string name="select_gear_to_connect">Valitse Gear, johon haluat muodostaa yhteyden.</string>
+    <string name="settings">Asetukset</string>
+    <string name="setup_connection_dialog_body">Yhdistetäänkö %s?</string>
+    <string name="setup_message_almost_there">Melkein valmista.</string>
+    <string name="setup_message_download">Yhteyttä valmistellaan…</string>
+    <string name="setup_message_install">Puhelinta määritetään…</string>
+    <string name="start_journey">Aloita matka</string>
+    <string name="step_body">Aseta haasteita ja vertaile askelmääriä ystäviesi kanssa.</string>
+    <string name="step_title">Askelhaasteet</string>
+    <string name="title_other_devices">Käytettävissä olevat laitteet</string>
+    <string name="title_paired_devices">Pariksi liitetyt laitteet</string>
+    <string name="toast_text_for_reinstall">%1$s jää laitteeseen myös sen jälkeen, kun laajennuksen %2$s asennus on poistettu.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Lisäohjelmiston (%s Mt) asennus epäonnistui. Laitteen muistissa ei ole riittävästi tilaa. Poista joitain tiedostoja ja yritä uudelleen.</string>
+    <string name="uhm_update_download_progress">Ladataan päivitystä…</string>
+    <string name="uhm_update_exist_notification_subtitle">Uusi versio saatavilla</string>
+    <string name="uhm_update_exist_to_support_new_gear">Joitakin haettuja Geareja ei voi yhdistää puhelimeen. Päivitä sovellus %s uusimpaan versioon napauttamalla PÄIVITÄ ja yritä uudelleen.</string>
+    <string name="uhm_update_install_disconnect_device">Katkaistaan yhteys laitteeseen %s…</string>
+    <string name="uhm_update_install_error">Asennus epäonnistui</string>
+    <string name="uhm_update_install_progress">Asennetaan lisäohjelmistoja…</string>
+    <string name="uhm_update_notice">Ilmoitus</string>
+    <string name="uhm_update_notice_content">Uusi versio saatavilla. Päivitä sovellus ennen jatkamista.</string>
+    <string name="uhm_update_notice_content_tUHM">Sovellus %s suljetaan päivityksen lataamisen jälkeen. Avaa sovellus uudelleen päivityksen suorittamiseksi loppuun.</string>
+    <string name="use_network_connection_dialog_body">Sovelluksen %s on käytettävä verkkoyhteyksiä, jotta se toimii normaalisti. Sallitaanko?</string>
+    <string name="use_network_connection_dialog_title">Käytä verkkoyhteyksiä</string>
+    <string name="welcome_no_device_found">Kun olet kytkenyt Gear-laitteisiin virran, ne näytetään täällä.</string>
+    <string name="welcome_no_device_found_description">Jos Gear käynnistyy oikein, mutta se ei näy täällä, valitse Asetukset > Gearin tiedot ja palauta sitten Gearin tehdasasetukset valitsemalla Palauta Gearin asetukset.</string>
+    <string name="welcome_no_device_found_title">Gear-laitteita ei ole</string>
+    <string name="welcome_select_notice_not_enough_memory">Jotkin Gear-kellot pystyvät muodostamaan yhteyden vain sellaisiin puhelimiin, joissa on yli %1$s %2$s muistia.</string>
+    <string name="welcome_select_your_gear">Valitse Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Valitse yhdistettävä Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Yhdistä Geariin</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Painike</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Ota yhteyttä</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Paranna päälle puettavan älylaitteen käyttöelämystä Samsung Gearilla.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Lisätietoja</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Tämä sovellus pystyy määrittämään sijaintisi ja käyttämään laitteen tallennustilaa.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Haetaan Gearia…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Tervetuloa</string>
+    <string name="which_gear">Lähellä havaitut Gearit</string>
+</resources>

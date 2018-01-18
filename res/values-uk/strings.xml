@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Дозволяє програмі передавати дані через Bluetooth за допомогою платформи аксесуара.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Передавання даних за допомогою платформи</string>
+    <string name="access_connected_device_status">Доступ до стану підключ.пристр.</string>
+    <string name="access_connected_device_status_description">Ця програма дає змогу отримувати доступ до стану підключення до ручного пристрою.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Це призведе до скасування підключення до пристрою %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Автоматичне відстеження та запис даних тренувань.</string>
+    <string name="auto_activity_title">Автовідст. тренувань</string>
+    <string name="auto_reinstalled">Важливі файли видалено. Файли Gear Manager інстальовано повторно</string>
+    <string name="button_scan_again">Шукати ще раз</string>
+    <string name="button_start_scan_devices">Сканувати</string>
+    <string name="button_stop_scan_devices">Стоп</string>
+    <string name="button_text_bluetooth_turn_on">Увімк.</string>
+    <string name="cancel">Скасувати</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Додатковий модуль Gear S</string>
+    <string name="connect_popup_content">З’єднання</string>
+    <string name="connected">Підключено</string>
+    <string name="custom_binary_error_dialog_title">Операційна система телефону була змінена неавторизованим шляхом і не сумісна з програмою Samsung Gear. Перевірте операційну систему та спробуйте знов.</string>
+    <string name="deleting_unused_file">Видалення з попередньої версії файлів, що не використовуються…</string>
+    <string name="dialog_popup_button_cancel">Скасувати</string>
+    <string name="dialog_popup_button_later">Пізніше</string>
+    <string name="dialog_popup_button_update">Оновити</string>
+    <string name="dialog_warning">Попередження</string>
+    <string name="disconnect_and_backup_msg">Зачекайте…</string>
+    <string name="do_not_show_again">Більше не показувати</string>
+    <string name="download_failure_message">Збій завантаження. Cпробуйте ще раз</string>
+    <string name="gb">ГБ</string>
+    <string name="gear_not_presesnt">Мого пристрою немає</string>
+    <string name="general_app_name_for_reinstall">Програма Samsung Gear</string>
+    <string name="gsp_tracking_body">Відстеження маршрутів тренувань та більш точні дані.</string>
+    <string name="gsp_tracking_title">Відстеження по GPS</string>
+    <string name="install_from_play_store">Торкніться OK, щоб установити %s і увімкнути передачу даних між Gear та телефоном.</string>
+    <string name="lets_pair_up">Час підключатися</string>
+    <string name="loading">Завантаження…</string>
+    <string name="make_sure_both_passkey">Чи збігаються паролі на телефоні і Gear? Якщо так, час переходити до підключення.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Пристрій Gear було відключено.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Неможливо відкрити %s у режимі максимального енергозбереження.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Неможливо відкрити програму</string>
+    <string name="no_earbud_body">Якщо у вас навушники %s, дістаньте їх із зарядного футляра та надіньте.</string>
+    <string name="no_gear_body">"Не хвилюйтеся! По-перше, переконайтеся, що Gear увімкнено.
+
+Якщо це так, перейдіть до налаштувань і виберіть «Скинути налаштування Gear». Після цього пристрій повинен відобразитися у списку пристроїв Gear."</string>
+    <string name="no_gear_description">Gear не з’являється?</string>
+    <string name="no_network_message">Не вдалося знайти доступні мережі.</string>
+    <string name="no_network_title">Немає підключення до мережі</string>
+    <string name="none_paired">Пристрої не підключено.</string>
+    <string name="not_now">Пізніше</string>
+    <string name="not_supported_device_or_version">Перевірте сумісність телефону та необхідність оновлення Samsung Gear, а потім спробуйте знов.</string>
+    <string name="ok">ОК</string>
+    <string name="paired">Підключено</string>
+    <string name="pass_key">Пароль</string>
+    <string name="permission_dialog_body">"Для роботи програми необхідно надати наведені нижче дозволи. Для необов’язкових дозволів увімкнено стандартні функції сервісу, але доступ не надано.
+
+Обов’язкові дозволи
+• «Геодані»: пошук по Bluetooth пристроїв для підключення до Gear поблизу.
+• «Пам’ять»: передача та отримання файлів, що зберігаються, за допомогою Gear.
+• «Телефон»: перевірка унікальної ідентифікаційної інформації пристрою для оновлення програм та встановлення додаткових модулів програм.
+
+Необов’язкові дозволи
+• «Контакти»: надання сервісів, які необхідно зв’язати з обліковими записами, що зареєстровано за допомогою інформації Samsung account."</string>
+    <string name="permission_dialog_title">Дозволи програми</string>
+    <string name="permission_settings_dialog_message">Неможливо використати %s. Торкніться пункту НАЛАШТУВАННЯ, потім увімкніть наступні дозволи та спробуйте ще раз:</string>
+    <string name="pick_gear">Виберіть свій Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth вимкнено. Щоб увімкнути його, торкніться «Увімкнути».</string>
+    <string name="popup_title_message_bluetooth_turn_on">Увімкніть Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Підключити новий Gear</string>
+    <string name="preparing_connect_and_install">Підготовка до підключення…</string>
+    <string name="reboot">Перезав.</string>
+    <string name="reboot_phone_message">Службу Samsung Accessory Service оновлено. Перезавантажте телефон для підключення до Gear.</string>
+    <string name="retry">Повторити</string>
+    <string name="scan_all_gear_nearby">Пошук Gear поблизу</string>
+    <string name="scanning">Сканування…</string>
+    <string name="search_again">Повторити пошук</string>
+    <string name="select_gear_to_connect">Вибір пристрою Gear, до якого потрібно підключитися.</string>
+    <string name="settings">Налаштування</string>
+    <string name="setup_connection_dialog_body">Підключитися до %s?</string>
+    <string name="setup_message_almost_there">Залишил. остання дія.</string>
+    <string name="setup_message_download">Підготовка до підключення…</string>
+    <string name="setup_message_install">Налаштування телефону…</string>
+    <string name="start_journey">Почати ознайомлення</string>
+    <string name="step_body">Кидайте виклики та порівнюйте з друзями кількість кроків.</string>
+    <string name="step_title">Виклики: кроки</string>
+    <string name="title_other_devices">Доступні пристрої</string>
+    <string name="title_paired_devices">З’єднані пристрої</string>
+    <string name="toast_text_for_reinstall">Програма %1$s буде доступна для використання на пристрої навіть після видалення %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Неможливо встановити додаткове програмне забезпечення (%s МБ). Недостатньо вільного місця в місці збереження на пристрої. Видаліть деякі файли та спробуйте ще раз.</string>
+    <string name="uhm_update_download_progress">Завантаження оновлення…</string>
+    <string name="uhm_update_exist_notification_subtitle">Доступна нова версія.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Деякі зі знайдених Gear неможливо підключити до вашого телефону. Торкніться ОНОВИТИ, щоб встановити останню версію програми %s і спробуйте ще раз.</string>
+    <string name="uhm_update_install_disconnect_device">Роз’єднання з %s…</string>
+    <string name="uhm_update_install_error">Не вдалося встановити</string>
+    <string name="uhm_update_install_progress">Установка додаткового програмного забезпечення…</string>
+    <string name="uhm_update_notice">Сповіщення</string>
+    <string name="uhm_update_notice_content">Доступна нова версія. Оновіть програму для продовження.</string>
+    <string name="uhm_update_notice_content_tUHM">Після завантаження оновлення програму %s буде закрито. Повторно відкрийте програму, щоб завершити процес оновлення.</string>
+    <string name="use_network_connection_dialog_body">"Для нормальної роботи %s необхідне мережеве з'єднання. Дозволити?"</string>
+    <string name="use_network_connection_dialog_title">Використання підключень до мережі</string>
+    <string name="welcome_no_device_found">Після увімкнення пристроїв Gear вони будуть відображатися тут.</string>
+    <string name="welcome_no_device_found_description">Якщо Gear увімкнено належним чином, але він не відображується тут, перейдіть у меню «Налаштування» > «Інформація про Gear», виберіть пункт «Скинути налаштування Gear» на пристрої Gear, щоб скинути його налаштування до стандартних.</string>
+    <string name="welcome_no_device_found_title">Немає пристроїв Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Деякі годинники Gear можуть підключатися лише до телефонів, що мають більше %1$s %2$s пам’яті.</string>
+    <string name="welcome_select_your_gear">Виберіть Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Виберіть Gear для підключення.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Підключення до Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Кнопка</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Контактна інформація</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Покращення вражень від пристроїв, що носяться, за допомогою Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Дізнатися більше</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Ця програма може визначати ваше розташування та отримувати доступ до пам’яті пристрою.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Пошук Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Вітаємо</string>
+    <string name="which_gear">Виявлені поблизу Gear</string>
+</resources>

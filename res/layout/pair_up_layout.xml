@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/whole_layout" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/topView" android:layout_width="fill_parent" android:layout_height="@dimen/promotion_top_image_height" android:src="@drawable/select_divice_bg_default" android:scaleType="fitXY" android:layout_alignParentTop="true" />
+        <ImageView android:layout_width="103.0dip" android:layout_height="20.0dip" android:layout_marginTop="33.0dip" android:src="@drawable/gear_welcom_logo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_marginStart="18.0dip" android:layout_marginEnd="18.0dip" />
+        <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#ffcccccc" android:gravity="center" android:id="@id/pairUpTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:text="@string/lets_pair_up" android:layout_below="@id/topView" android:fontFamily="sans-serif-condensed-light" />
+        <TextView android:textSize="@dimen/normal_text_size" android:textColor="@color/normal_text_color_white_opacity_85" android:gravity="center" android:id="@id/pairUpInfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="24.0dip" android:text="@string/make_sure_both_passkey" android:layout_below="@id/pairUpTitle" android:fontFamily="sans-serif" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/galaxy_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/pairing_pincode_title_size" android:textStyle="bold" android:textColor="#fffafafa" android:gravity="center" android:id="@id/pinCodeTitle" android:visibility="gone" android:layout_width="135.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/pairing_pincode_title_bottom_margin" android:text="@string/pass_key" android:textAllCaps="true" android:fontFamily="sans-serif-condensed" />
+            <TextView android:textSize="@dimen/pairing_loading_text_size" android:textColor="@color/normal_text_color_white" android:gravity="center" android:id="@id/pinCodeText" android:background="@drawable/text_shape" android:layout_width="@dimen/pairing_pincode_view_width" android:layout_height="@dimen/pairing_pincode_view_height" android:text="@string/loading" android:includeFontPadding="false" android:layout_below="@id/pinCodeTitle" android:fontFamily="sans-serif-condensed-light" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginBottom="30.0dip">
+        <Button android:textSize="@dimen/large_text_size" android:textStyle="bold" android:textColor="@drawable/button_text_selector" android:id="@id/cancel_btn" android:background="@drawable/button_background_show_shape_dark" android:layout_width="105.0dip" android:layout_height="40.0dip" android:text="@string/cancel" android:textAllCaps="true" android:fontFamily="sans-serif-condensed" />
+        <LinearLayout android:gravity="center" android:id="@id/ok_button_layout" android:layout_width="105.0dip" android:layout_height="40.0dip" android:layout_marginStart="20.0dip">
+            <Button android:textSize="@dimen/large_text_size" android:textStyle="bold" android:textColor="@drawable/button_text_selector" android:id="@id/ok_btn" android:background="@drawable/button_background_show_shape_dark" android:layout_width="105.0dip" android:layout_height="40.0dip" android:text="@string/ok" android:textAllCaps="true" android:fontFamily="sans-serif-condensed" />
+            <com.samsung.android.app.twatchmanager.uiitems.ProgressCircle android:id="@id/progress_circle" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

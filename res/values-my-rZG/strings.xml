@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">တြဲဖက္ပစၥည္း ေဘာင္ကို သံုးျပီး ဘလူးတုသ္ မွတဆင့္ သင့္ေဒတာကို လႊဲေျပာင္းရန္ အက္ပ္ကို ခြင့္ျပဳပါ။</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">framework မွတဆင့္ ေဒတာ လႊဲေျပာင္းျခင္း</string>
+    <string name="access_connected_device_status">ကိရိယာ၏ ခ်ိတ္ဆက္မႈ အေျခအေနကို ၀င္ၾကည့္ပါ</string>
+    <string name="access_connected_device_status_description">ဤအပလီေကးရွင္းသည္ တပ္ဆင္ႏိုင္ေသာ ကိရိယာခ်ိတ္ဆက္ျခင္း အေျခအေနကို သံုးခြင့္ရႏိုင္သည္။</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ဤအရာက %s ႏွင့္ ခ်ိတ္ဆက္မႈကို ျဖဳတ္လိမ့္မည္။</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">ကာယေလ့က်င့္ခန္းေဒတာကို အလိုအေလ်ာက္ ေစာင့္ၾကည့္ၿပီး မွတ္တမ္းတင္ပါ။</string>
+    <string name="auto_activity_title">ကာယေလ့က်င့္ခန္းမ်ား အလိုလို ေစာင့္ၾကည့္မႈ</string>
+    <string name="auto_reinstalled">အေရးႀကီးေသာ ဖိုင္မ်ား ဖ်က္လိုက္သည္။ Gear Manager ဖုိင္မ်ား ျပန္တပ္ဆင္သည္။</string>
+    <string name="button_scan_again">စကန္ ျပန္လုပ္ပါ</string>
+    <string name="button_start_scan_devices">စကန္</string>
+    <string name="button_stop_scan_devices">ရပ္</string>
+    <string name="button_text_bluetooth_turn_on">ဖြင့္ပါ</string>
+    <string name="cancel">ပယ္ဖ်က္ပါ</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gear S ပလတ္-အင္</string>
+    <string name="connect_popup_content">ဆက္သြယ္ေနပါသည္</string>
+    <string name="connected">ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="custom_binary_error_dialog_title">သင့္ဖုန္းမွ လည္ပတ္မႈစနစ္ကို ခြင့္ျပခ်က္မရွိသည့္ နည္းလမ္းတစ္ျခဳဖင့္ မြမ္မံထားၿပီး Samsung Gear အက္ပ္ႏွင့္ကိုက္ညီမႈမရွိပါ။ သင္၏လည္ပတ္မႈစနစ္ကို စစ္ေဆးၿပီး ထပ္မံႀကိဳးစားပါ။</string>
+    <string name="deleting_unused_file">ယခင္ဗားရွင္းမွ မသံုးေသာ ဖိုင္မ်ားကို ဖ်က္ေနသည္…</string>
+    <string name="dialog_popup_button_cancel">ပယ္ဖ်က္ပါ</string>
+    <string name="dialog_popup_button_later">ေနာက္မွ</string>
+    <string name="dialog_popup_button_update">အပ္ဒိတ္လုပ္ပါ</string>
+    <string name="dialog_warning">သတိေပးခ်က္</string>
+    <string name="disconnect_and_backup_msg">ေက်းဇူးျပဳ၍ေစာင့္ပါ….</string>
+    <string name="do_not_show_again">ထပ္မျပပါႏွင့္</string>
+    <string name="download_failure_message">ေဒါင္းလုတ္ မေအာင္ျမင္ပါ။ ျပန္ၾကိဳးစားပါ။</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">ကြ်ႏ္ုပ္ဟာ ဒီမွာ မရွိပါ</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear အပလီေကးရွင္း</string>
+    <string name="gsp_tracking_body">ကာယေလ့က်င့္ခန္း လမ္းေၾကာင္းမ်ားကိုေစာင့္ၾကည့္ၿပီး ပိုမိုတိက်သည့္ အခ်က္အလက္မ်ား ရယူပါ။</string>
+    <string name="gsp_tracking_title">GPS ေစာင့္ၾကည့္ျခင္း</string>
+    <string name="install_from_play_store">သင့္ Gear ႏွင့္ ဖုန္းတို႔အၾကား ေဒတာ လႊဲေျပာင္းမႈျပဳရန္အတြက္ %s ထည့္သြင္းရန္ အိုေကကိုႏွိပ္ပါ။</string>
+    <string name="lets_pair_up">တြဲၾကစုိ႔</string>
+    <string name="loading">အခ်က္အလက္ျဖည့္သြင္းေနပါသည္…</string>
+    <string name="make_sure_both_passkey">သင့္ဖုန္းႏွင့္ Gear ေပၚရွိ ဝင္ေရာက္ကီးမ်ား တူညီပါသလား? ၎တုိ႔ကုိတြဲရန္ အခ်ိန္ေရာက္ပါၿပီ။</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear ကို ခ်ိတ္ဆက္မႈျဖဳတ္ထားသည္။</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">အျမင့္ဆုံး ပါဝါေခၽြတာေရး အေနအထားထဲတြင္ %s ဖြင့္မရပါ။</string>
+    <string name="maximum_power_saving_mode_dialog_title">အက္ပ္ ဖြင့္မရႏိုင္ပါ</string>
+    <string name="no_earbud_body">%s နားၾကပ္တစ္စံုကုိ သင္ ရရွိထားလွ်င္ ၎တုိ႔ကုိ အားသြင္းဘူးထဲမွ ထုတ္ယူၿပီး သင့္နားတြင္ တပ္ပါ။</string>
+    <string name="no_gear_body">"မပူပါႏွင့္! သင့္ Gear ကုိ အမွန္တကယ္ ဖြင့္ထားျခင္းရွိမရွိ အရင္ဆံုး စစ္ေဆးပါ။
+
+ဖြင့္ထားလွ်င္ သတ္မွတ္ခ်က္မ်ားသုိ႔ သြားၿပီးေနာက္ Gear ကုိ ျပန္လည္သတ္မွတ္ပါကုိ ေရြးခ်ယ္ပါ။ ၿပီးေနာက္ ၎သည္ Gear ကိရိယာစာရင္းတြင္ ေပၚလာရပါမည္။"</string>
+    <string name="no_gear_description">Gear ကုိ မျပဘူးလား?</string>
+    <string name="no_network_message">ရရွိႏုိင္သည့္ ကြန္ရက္မ်ား ရွာမေတြ႕ပါ။</string>
+    <string name="no_network_title">ကြန္ယက္ ခ်ိတ္ဆက္မႈ မရွိပါ</string>
+    <string name="none_paired">မည္သည့္ ကိရိယာႏွင့္မွ တြဲမထားပါ။</string>
+    <string name="not_now">ေနာက္မွ</string>
+    <string name="not_supported_device_or_version">သင့္ဖုန္းသည္ Samsung Gear အက္ပ္ကို အပ္ဒိတ္လုပ္ရန္လိုအပ္လၽွင္ သင့္ဖုန္းႏွင့္ကိုက္ညီမႈရွိမရွိစစ္ေဆးၿပီး ထပ္မံႀကိဳးစားပါ။</string>
+    <string name="ok">အုိေက</string>
+    <string name="paired">တြဲထားသည္</string>
+    <string name="pass_key">လၽွိဳ႕ဝွက္ကီး :</string>
+    <string name="permission_dialog_body">"ေအာက္ပါခြင့္ျပဳခ်က္မ်ားကို အက္ပ္ဝန္ေဆာင္မႈအတြက္ လိုအပ္ပါသည္။ ေရြးခ်ယ္ႏိုင္ေသာ ခြင့္ျပဳခ်က္မ်ားအတြက္ ဝန္ေဆာင္မႈ၏ မူရင္းလုပ္ေဆာင္ခ်က္ကိုဖြင့္ထားပါသည္၊ သို႔ေသာ္ ခြင့္ျပဳမထားပါ။
+
+လိုအပ္ေသာခြင့္ျပဳခ်က္မ်ား
+• တည္ေနရာ : ဘလူးတုသ္မွတဆင့္ Gear အတြက္ အနီးတဝိုက္ရွိ စက္မ်ားကုိရွာေဖြရန္ အသုံးျပဳထားသည္
+• သိုေလွာင္ခန္း : သိုေလွာင္ထားေသာဖိုင္မ်ားကို Gear အသံုးျပဳ၍ လႊဲေျပာင္းရန္ သို႔မဟုတ္ လက္ခံရန္ အသုံးျပဳထားသည္
+• တယ္လီဖုန္း : အက္ပ္မ်ားကုိ အပ္ဒိတ္ျပဳလုပ္ျခင္းႏွင့္ ပလပ္-အင္ အက္ပ္မ်ား ထည့္သြင္းျခင္းအတြက္ စက္တစ္လံုးခ်င္းစီအလုိက္ မတူညီေသာ အေထာက္အထားအခ်က္အလက္ကို စစ္ေဆးရန္ အသုံးျပဳထားပါသည္
+
+ေရြးခ်ယ္ႏုိင္ေသာ ခြင့္ျပဳခ်က္မ်ား
+• အဆက္အသြယ္မ်ား : မွတ္ပုံတင္ထားေသာ Samsung account အခ်က္အလက္ကို အသုံးျပဳ၍ အေကာင့္မ်ားႏွင့္ ခ်ိတ္ဆက္ရန္လိုအပ္သည့္ ဝန္ေဆာင္မႈမ်ားကို ပံ့ပိုးရန္ အသုံးျပဳထားပါသည္"</string>
+    <string name="permission_dialog_title">အက္ပ္ ခြင့္ျပဳခ်က္မ်ား</string>
+    <string name="permission_settings_dialog_message">%s ကို သုံးလို႔ မရႏိုင္ပါ။ “သတ္မွတ္ခ်က္မ်ား” ကိုႏွိပ္ပါ၊ ၿပီးေနာက္ ေအာက္ပါခြင့္ျပဳခ်က္မ်ားကုိ ခြင့္ျပဳၿပီး ထပ္ႀကိဳးစားပါ :</string>
+    <string name="pick_gear">သင့္ Gear ကုိ ေရြးပါ</string>
+    <string name="popup_message_bluetooth_turn_on">ဘလူးတုသ္ ပိတ္ထားသည္။ ၄င္းကို ဖြင့္ရန္ “ဖြင့္ပါ” ကိုႏွိပ္ပါ။</string>
+    <string name="popup_title_message_bluetooth_turn_on">ဘလူးတုသ္ ဖြင့္ပါ</string>
+    <string name="popupmenu_connect_new_gear">Gear အသစ္ခ်ိတ္ဆက္ပါ</string>
+    <string name="preparing_connect_and_install">ခ်ိတ္ဆက္ရန္ ျပင္ဆင္ေနဆဲ…</string>
+    <string name="reboot">ျပန္လည္စတင္ပါ</string>
+    <string name="reboot_phone_message">Samsung Accessory Service ကို အပ္ဒိတ္လုပ္ထားသည္။ Gear ျဖင့္ ခ်ိတ္ဆက္ရန္ သင့္ဖုန္းကို ျပန္စဖြင့္ပါ။</string>
+    <string name="retry">ျပန္ႀကဳိးစားပါ</string>
+    <string name="scan_all_gear_nearby">အနီးအနားရွိ Gear ကို စကန္ဖတ္ရွာပါ</string>
+    <string name="scanning">စကန္လုပ္ေနသည္…</string>
+    <string name="search_again">ထပ္ ရွာေဖြပါ</string>
+    <string name="select_gear_to_connect">သင္ခ်ိတ္ဆက္လိုသည့္ Gear ကိုေရြးခ်ယ္ပါ။</string>
+    <string name="settings">သတ္္မွတ္ခ်က္မ်ား</string>
+    <string name="setup_connection_dialog_body">%s သို႔ ခ်ိတ္ဆက္မလား?</string>
+    <string name="setup_message_almost_there">ၿပီးကာနီးပါၿပီ။</string>
+    <string name="setup_message_download">ခ်ိတ္ဆက္ရန္ ျပင္ဆင္ေနဆဲ…</string>
+    <string name="setup_message_install">သင့္ဖုန္းကို သတ္မွတ္ေနသည္…</string>
+    <string name="start_journey">ခရီးစဥ္ကုိ စတင္ပါ</string>
+    <string name="step_body">စိန္ေခၚခ်က္မ်ား သတ္မွတ္ၿပီး သင္၏ အဆင့္ေရတြက္မႈကို မိတ္ေဆြမ်ားႏွင့္ ႏႈိင္းယွဥ္ပါ။</string>
+    <string name="step_title">အဆင့္ စိန္ေခၚမႈမ်ား</string>
+    <string name="title_other_devices">ရရွိႏုိင္ေသာ ကိရိယာမ်ား</string>
+    <string name="title_paired_devices">တြဲဖက္ထားသည့္ကိရိယာမ်ား</string>
+    <string name="toast_text_for_reinstall">%2$s ကို ျဖဳတ္ၿပီးေနာက္မွာ %1$s က သင့္ကိရိယာေပၚ၌ က်န္ရွိေနပါမည္။</string>
+    <string name="uhm_install_error_msg_insufficient_storage">ေနာက္ထပ္ ေဆာ့ဖ္ဝဲ (%s MB) ကို တပ္ဆင္လို႔ မရေတာ့ပါ။ သင့္ကိရိယာ သိုေလွာင္ခန္းထဲ၌ ေနရာလြတ္ အလုံအေလာက္ မရွိပါ။ အခ်ိဳ႕ ဖိုင္မ်ားကို ဖ်က္ၿပီး ထပ္ႀကိဳးစားပါ။</string>
+    <string name="uhm_update_download_progress">အပ္ဒိတ္ ေဒါင္းလုတ္ လုပ္ေနသည္႕႕႕</string>
+    <string name="uhm_update_exist_notification_subtitle">ဗားရွင္း အသစ္တစ္ခု ရႏိုင္သည္။</string>
+    <string name="uhm_update_exist_to_support_new_gear">ရွာေဖြထားသည့္အခ်ိဳ႕ Gear မ်ားသည္သင့္ဖုန္းသို႔ခ်ိတ္ဆက္ထား၍မရႏိုင္ပါ။ %s အက္ပ္ကိုေနာက္ဆုံးေပၚဗားရွင္းသို႔အပ္ဒိတ္လုပ္ရန္ “အပ္ဒိတ္” ကိုႏွိပ္ၿပီး၊ ထပ္မံႀကိဳးစားပါ။</string>
+    <string name="uhm_update_install_disconnect_device">%s အဆက္အသြယ္ ျဖတ္ေနပါသည္…</string>
+    <string name="uhm_update_install_error">တပ္ဆင္ျခင္း မေအာင္ျမင္ပါ</string>
+    <string name="uhm_update_install_progress">အပိုေဆာင္း ေဆာ့ဖ္ဝဲ တပ္ဆင္ေနသည္…</string>
+    <string name="uhm_update_notice">သတိျပဳရန္</string>
+    <string name="uhm_update_notice_content">ဗားရွင္းအသစ္တစ္ခုရရွိႏိုင္သည္။ ဆက္လုပ္ရန္အက္ပ္ကိုအပ္ဒိတ္လုပ္ပါ။</string>
+    <string name="uhm_update_notice_content_tUHM">ဤ %s အက္ပ္သည္ အပ္ဒိတ္ကိုေဒါင္းလုတ္လုပ္ၿပီးေနာက္ ပိတ္သြားမည္။ အပ္ဒိတ္ကိုၿပီးဆုံးေစရန္ အက္ပ္ကိုျပန္ဖြင့္ပါ။</string>
+    <string name="use_network_connection_dialog_body">ပံုမွန္ အလုပ္လုပ္ရန္ %s က ကြန္ယက္ ခ်ိတ္ဆက္မႈ ကို သံုးဖို႔ လိုသည္။ ခြင့္ျပဳမလား?</string>
+    <string name="use_network_connection_dialog_title">ကြန္ယက္ ခ်ိတ္ဆက္မႈမ်ားကို သံုးစြဲပါ</string>
+    <string name="welcome_no_device_found">သင့္ Gear ကိရိယာမ်ား ပါဝါဖြင့္ၿပီးေနာက္ ၎တို႔ကို ဤေနရာတြင္ ျပလိမ့္မည္။</string>
+    <string name="welcome_no_device_found_description">Gear ကို ပုံမွန္ ပါဝါဖြင့္ထားေသာ္လည္း ဤေနရာတြင္ ျပသေနျခင္းမရွိလၽွင္ ၎၏ စက္႐ုံထုတ္ မူရင္းပါပုံစံ သတ္မွတ္ခ်က္မ်ားသို႔ ျပန္လည္သတ္မွတ္ရန္ သတ္မွတ္ခ်က္မ်ား > Gear အင္ဖိုသို႔သြားၿပီးေနာက္ Gear တြင္ “Gear ျပန္သတ္မွတ္ပါ” ကို ေ႐ြးခ်ယ္ပါ။</string>
+    <string name="welcome_no_device_found_title">Gear ကိရိယာမ်ား မရွိပါ</string>
+    <string name="welcome_select_notice_not_enough_memory">မွတ္ဉာဏ္ %1$s %2$s ထက္ပုိေသာ ဖုန္းမ်ားသုိ႔သာ Gear နာရီအခ်ိဳ႕က ခ်ိတ္ဆက္ပါမည္။</string>
+    <string name="welcome_select_your_gear">သင့္ Gear ေရြးခ်ယ္ပါ</string>
+    <string name="welcome_select_your_gear_to_connect">ခ်ိတ္ဆက္ရန္ Gear ကို ေရြးခ်ယ္ပါ။</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear သို႔ခ်ိတ္ဆက္ပါ</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">ခလုတ္</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ကၽြႏ္ုပ္တို႔ကို ဆက္သြယ္ပါ</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear ျဖင့္ စမတ္ ဝတ္ဆင္ႏိုင္ေသာ အေတြ႕အႀကဳံကို ျမႇင့္တင္ေနသည္။</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">ေနာက္ထပ္ ေလ့လာပါ</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">ဤအက္ပ္က သင့္တည္ေနရာကုိ စူးစမ္းႏိုင္ၿပီး သင့္ကိရိယာသုိေလွာင္ခန္းထဲ ဝင္သံုးႏုိင္သည္။</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Gear ရွာေဖြေနဆဲ…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">ၾကိဳဆိုပါ၏</string>
+    <string name="which_gear">အနီးဝန္းက်င္တြင္ Gear မ်ားကုိ ရွာေတြ႕သည္</string>
+</resources>

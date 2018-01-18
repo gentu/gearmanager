@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Ļauj programmai pārsūtīt jūsu datus, izmantojot Bluetooth un piederuma struktūru.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Datu pārsūtīšana, izmantojot struktūru</string>
+    <string name="access_connected_device_status">Piekļuve ierīces sav. statusam</string>
+    <string name="access_connected_device_status_description">Šī programma var piekļūt pievienotās piederumu ierīces savienojuma statusam.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Šādi tiks pārtraukts savienojums ar ierīci %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Automātiski sekojiet un reģistrējiet treniņu datus.</string>
+    <string name="auto_activity_title">Autom. treniņu reģ.</string>
+    <string name="auto_reinstalled">Ir izdzēsti svarīgi faili. Gear Manager faili ir instalēti atkārtoti.</string>
+    <string name="button_scan_again">Meklēt vēlreiz</string>
+    <string name="button_start_scan_devices">Meklēt</string>
+    <string name="button_stop_scan_devices">Apturēt</string>
+    <string name="button_text_bluetooth_turn_on">Ieslēgt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Gear S spraudnis</string>
+    <string name="connect_popup_content">Veido savienojumu</string>
+    <string name="connected">Savienots</string>
+    <string name="custom_binary_error_dialog_title">Jūsu tālruņa operētājsistēma ir pārveidota neatļautā veidā un nav saderīga ar Samsung Gear programmu. Pārbaudiet operētājsistēmu un mēģiniet vēlreiz.</string>
+    <string name="deleting_unused_file">Dzēš nelietotos failus no iepriekšējās versijas…</string>
+    <string name="dialog_popup_button_cancel">Atcelt</string>
+    <string name="dialog_popup_button_later">Vēlāk</string>
+    <string name="dialog_popup_button_update">Atjaunināt</string>
+    <string name="dialog_warning">Brīdinājums</string>
+    <string name="disconnect_and_backup_msg">Lūdzu, uzgaidiet…</string>
+    <string name="do_not_show_again">Vairs nerādīt</string>
+    <string name="download_failure_message">Lejupielāde neizdevās. Mēģināt vēlreiz.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Manas ierīces te nav</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear programma</string>
+    <string name="gsp_tracking_body">Sekojiet treniņu maršrutiem un iegūstiet precīzākus datus.</string>
+    <string name="gsp_tracking_title">GPS sekošana</string>
+    <string name="install_from_play_store">Lai instalētu programmu %s un aktivizētu datu pārsūtīšanu no ierīces Gear uz jūsu tālruni un pretēji, pieskarieties pie Labi.</string>
+    <string name="lets_pair_up">Savienojiet pārī</string>
+    <string name="loading">Ielādē…</string>
+    <string name="make_sure_both_passkey">Vai piekļuves kodi tālrunī un ierīcē Gear sakrīt? Tad ir laiks tos savienot pārī.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Ierīce Gear ir atvienota.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Maksimālajā enerģijas taupīšanas režīmā nevar atvērt programmu %s.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Nevar atvērt programmu</string>
+    <string name="no_earbud_body">Ja jums ir %s ieaušu komplekts, izņemiet tos no uzlādes pārvalka un ielieciet ausīs.</string>
+    <string name="no_gear_body">"Neraizējieties! Vispirms pārbaudiet, vai ierīce Gear ir ieslēgta.
+
+Ja tā ir ieslēgta, izvēlieties Iestatījumi un pēc tam Atiestatīt Gear. Ierīcei būtu jāparādās Gear ierīču sarakstā."</string>
+    <string name="no_gear_description">Vai ierīce Gear netiek parādīta?</string>
+    <string name="no_network_message">Nevarēja atrast nevienu pieejamu tīklu.</string>
+    <string name="no_network_title">Nav savienojuma ar tīklu</string>
+    <string name="none_paired">Nav pārī savienotu ierīču.</string>
+    <string name="not_now">Vēlāk</string>
+    <string name="not_supported_device_or_version">Pārbaudiet sava tālruņa saderību un vai ir nepieciešama Samsung Gear programmas atjaunināšana, pēc tam mēģiniet vēlreiz.</string>
+    <string name="ok">Labi</string>
+    <string name="paired">Savienots pārī</string>
+    <string name="pass_key">Piekļuves kods</string>
+    <string name="permission_dialog_body">"Programmas pakalpojumam ir nepieciešamas tālāk norādītās atļaujas. Papildu atļaujām ir ieslēgta, bet nav atļauta pakalpojuma noklusējuma funkcionalitāte.
+
+Nepieciešamās atļauja
+• Atrašanās vieta: tiek izmantota tuvumā esošo ierīču meklēšanai ierīcē Gear, izmantojot Bluetooth
+• Krātuve: tiek izmantota saglabāto failu pārsūtīšanai un saņemšanai ierīcē Gear
+• Tālrunis: tiek izmantota ierīces unikālās identifikācijas informācijas pārbaudei, lai atjauninātu programmas un instalētu pievienojumprogrammas
+
+Papildu atļaujas
+• Kontakti: tiek izmantota, lai nodrošinātu pakalpojumus, kam ir jābūt saistītiem ar kontiem, izmantojot reģistrēto Samsung account informāciju"</string>
+    <string name="permission_dialog_title">Programmu atļaujas</string>
+    <string name="permission_settings_dialog_message">Funkciju %s nevar izmantot. Pieskarieties pie IESTATĪJUMI, pēc tam piešķiriet atļauju tālāk minētajām funkcijām un mēģiniet vēlreiz.</string>
+    <string name="pick_gear">Izvēlieties savu ierīci Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth funkcija ir izslēgta. Pieskarieties pie Ieslēgt, lai to ieslēgtu.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Ieslēgt Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Savienot ar jaunu Gear</string>
+    <string name="preparing_connect_and_install">Gatavojas veidot savienojumu…</string>
+    <string name="reboot">Restart.</string>
+    <string name="reboot_phone_message">Samsung Accessory Service tika atjaunināts. Restartējiet tālruni, lai izveidotu savienojumu ar ierīci Gear.</string>
+    <string name="retry">Mēģ. vēlr.</string>
+    <string name="scan_all_gear_nearby">Mekl. tuv. esošās Gear</string>
+    <string name="scanning">Meklē…</string>
+    <string name="search_again">Meklēt vēlreiz</string>
+    <string name="select_gear_to_connect">Izvēlieties ierīci Gear, ar kuru jāizveido savienojums.</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="setup_connection_dialog_body">Vai savienot ar %s?</string>
+    <string name="setup_message_almost_there">Gandrīz paveikts.</string>
+    <string name="setup_message_download">Gatavojas veidot savienojumu…</string>
+    <string name="setup_message_install">Iestata tālruni…</string>
+    <string name="start_journey">Sākt lietošanu</string>
+    <string name="step_body">Veidojiet izaicinājumus un salīdz. soļu skaitu ar draugiem.</string>
+    <string name="step_title">Soļu izaicinājumi</string>
+    <string name="title_other_devices">Pieejamās ierīces</string>
+    <string name="title_paired_devices">Pārī savienotas ierīces</string>
+    <string name="toast_text_for_reinstall">Programma %1$s paliks jūsu ierīcē arī pēc %2$s atinstalēšanas.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Papildu programmatūru (%s MB) nevarēja instalēt. Ierīces krātuvē nepietiek vietas. Izdzēsiet dažus failus un mēģiniet vēlreiz.</string>
+    <string name="uhm_update_download_progress">Lejupielādē atjauninājumu…</string>
+    <string name="uhm_update_exist_notification_subtitle">Ir pieejama jauna versija.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Dažas no atrastajām ierīcēm Gear nevar pievienot jūsu tālrunim. Lai atjauninātu programmu %s uz jaunāko versiju, pieskarieties pie ATJAUNINĀT, un mēģiniet vēlreiz.</string>
+    <string name="uhm_update_install_disconnect_device">Atvieno %s</string>
+    <string name="uhm_update_install_error">Instalēšana neizdevās</string>
+    <string name="uhm_update_install_progress">Instalē papildu programmatūru…</string>
+    <string name="uhm_update_notice">Paziņojums</string>
+    <string name="uhm_update_notice_content">Ir pieejama jauna versija. Lai turpinātu, atjauniniet programmu.</string>
+    <string name="uhm_update_notice_content_tUHM">Pēc atjauninājuma lejupielādes programma %s tiks aizvērta. Atveriet programmu vēlreiz, lai pabeigtu atjaunināšanu.</string>
+    <string name="use_network_connection_dialog_body">Programmai %s nepieciešams tīkla savienojums, lai tā darbotos pareizi. Vai atļaut?</string>
+    <string name="use_network_connection_dialog_title">Izmantot tīkla savienojumus</string>
+    <string name="welcome_no_device_found">Kad ieslēgsit savas ierīces Gear, tās tiks parādītas šeit.</string>
+    <string name="welcome_no_device_found_description">Ja ierīce Gear ir pareizi ieslēgta, bet šeit nav redzama, izvēlieties Iestatījumi > Gear informācija, pēc tam ierīcē Gear izvēlieties Atiestatīt Gear, lai atjaunotu tās rūpnīcas noklusējuma iestatījumus.</string>
+    <string name="welcome_no_device_found_title">Nav ierīces Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Daži Gear pulksteņi var izveidot savienojumu tikai ar tālruņiem, kuru atmiņa ir vismaz %1$s %2$s.</string>
+    <string name="welcome_select_your_gear">Izvēlieties ierīci Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Izvēlieties ierīci Gear, ar kuru izveidot savienojumu.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Savienot ar Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Poga</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Sazinieties ar mums</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Uzlabojiet viedo valkājamierīču lietošanas pieredzi ar Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Uzzināt vairāk</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Šī programma var noteikt jūsu atrašanās vietu un piekļūt ierīces krātuvei.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Meklē ierīci Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Laipni lūdzam</string>
+    <string name="which_gear">Tuvumā noteiktas ierīces Gear</string>
+</resources>

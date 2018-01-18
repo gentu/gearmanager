@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Lubab rakendusel edastada Bluetooth-ühenduse kaudu teie andmeid, kasutades lisatarviku raamistikku.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Andmete edastamine raamistiku kaudu</string>
+    <string name="access_connected_device_status">Juurdepääs seadme ühen. olekule</string>
+    <string name="access_connected_device_status_description">Sellel rakendusel on juurdepääs kantava seadme ühenduse olekule.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">See lopetab teie uhenduse seadmega %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Saate treeningu andmeid automaatselt jälgida ja salvestada.</string>
+    <string name="auto_activity_title">Treen. aut. jälgim.</string>
+    <string name="auto_reinstalled">Tähtsad failid on kustutatud. Rakenduse Gear Manager failid on installitud uuesti.</string>
+    <string name="button_scan_again">Otsi uuesti</string>
+    <string name="button_start_scan_devices">Otsi</string>
+    <string name="button_stop_scan_devices">Lõpeta</string>
+    <string name="button_text_bluetooth_turn_on">Lülita sisse</string>
+    <string name="cancel">Tühista</string>
+    <string name="com_samsung_accessory">Samsung Accessory Service</string>
+    <string name="com_samsung_android_gearoplugin">Seadme Gear S lisandmoodul</string>
+    <string name="connect_popup_content">Ühendamine</string>
+    <string name="connected">Ühendatud</string>
+    <string name="custom_binary_error_dialog_title">Teie telefoni operatsioonisüsteemi on muudetud volitamata viisil ja ei see ühildu rakendusega Samsung Gear. Kontrollige oma operatsioonisüsteemi ja proovige uuesti.</string>
+    <string name="deleting_unused_file">Kasutamata failide kustutamine eelmisest versioonist…</string>
+    <string name="dialog_popup_button_cancel">Tühista</string>
+    <string name="dialog_popup_button_later">Hiljem</string>
+    <string name="dialog_popup_button_update">Värskenda</string>
+    <string name="dialog_warning">Hoiatus</string>
+    <string name="disconnect_and_backup_msg">Palun oodake…</string>
+    <string name="do_not_show_again">Ära enam kuva</string>
+    <string name="download_failure_message">Allalaadimine nurjus. Proovige uuesti.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Minu oma pole siin</string>
+    <string name="general_app_name_for_reinstall">rakendus Samsung Gear</string>
+    <string name="gsp_tracking_body">Saate jälgida treeningu marsruute ja saada täpsemat teavet.</string>
+    <string name="gsp_tracking_title">GPS-iga jälgimine</string>
+    <string name="install_from_play_store">Toksake valikut OK, et installida %s, et võimaldada andmeedastust oma seadme Gear ja oma telefoni vahel.</string>
+    <string name="lets_pair_up">Seome</string>
+    <string name="loading">Laadimine…</string>
+    <string name="make_sure_both_passkey">Kas pääsukoodid teie telefonis ja seadmes Gear ühtivad? Siis on aeg siduda.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear on lahti ühendatud.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Rakendust %s ei saa avada maksimaalses energiasäästurežiimis.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Rakendust ei saa avada</string>
+    <string name="no_earbud_body">Kui teil on seadme %s kõrvaklapid, võtke need laadimisümbrisest välja ja pange kõrva.</string>
+    <string name="no_gear_body">"Ärge muretsege! Esmalt kontrollige, kas Gear on ikka sisse lülitatud.
+
+Kui on, avage menüü Seaded ja valige Lähtesta Gear. Seejärel peaks see ilmuma seadme Gear seadmete loendisse."</string>
+    <string name="no_gear_description">Kas Gear ei ilmu?</string>
+    <string name="no_network_message">Ühtki saadaolevat võrku ei leitud.</string>
+    <string name="no_network_title">Võrguühendus puudub</string>
+    <string name="none_paired">Uhtegi seadet pole seotud.</string>
+    <string name="not_now">Hiljem</string>
+    <string name="not_supported_device_or_version">Kontrollige, kas teie telefon ühildub ja kas rakendust Samsung Gear tuleb värskendada, seejärel proovige uuesti.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Seotud</string>
+    <string name="pass_key">Pääsukood</string>
+    <string name="permission_dialog_body">"Rakenduse teenuse jaoks läheb tarvis järgmiseid lubasid. Valikuliste lubade jaoks on teenuse vaikimisi funktsionaalsus sisse lülitatud, kuid ilma loata.
+
+Nõutud load
+• Asukoht: kasutatakse lähedalasuvate seadmete otsimiseks funktsiooni Gear Bluetoothi abil jaoks
+• Mälu: kasutatakse seadmega Gear salvestatud failide edastamise ja vastuvõtmise jaoks
+• Telefon: kasutatakse seadme ainulaadse identifitseerimisteabe kontrollimiseks, et rakendada rakendusi ja installida lisamoodul-rakendusi
+
+Valikulised load
+• Kontaktid: kasutatakse, et pakkuda teenuseid, mida on tarvis ühendada kontodega, kasutades registreeritud Samsung Accounti teavet"</string>
+    <string name="permission_dialog_title">Rakenduse load</string>
+    <string name="permission_settings_dialog_message">Rakendust %s ei saa kasutada. Toksake valikut SEADED, seejärel kinnitage järgnevad load ja proovige uuesti:</string>
+    <string name="pick_gear">Valige oma Gear</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth on välja lülitatud. Toksake sisselülitamiseks käsku Lülita sisse.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Lülita Bluetooth sisse</string>
+    <string name="popupmenu_connect_new_gear">Looge üh. uue seadm. Gear</string>
+    <string name="preparing_connect_and_install">Ettevalmistumine ühenduse loomiseks…</string>
+    <string name="reboot">Taaskäiv.</string>
+    <string name="reboot_phone_message">Teenus Samsung Accessory Service on värskendatud. Geariga ühendamiseks taaskäivitage oma telefon.</string>
+    <string name="retry">Uuesti</string>
+    <string name="scan_all_gear_nearby">Otsi lähedalt Geari</string>
+    <string name="scanning">Otsimine…</string>
+    <string name="search_again">Otsi uuesti</string>
+    <string name="select_gear_to_connect">Valige Gear, millega soovite ühendust luua.</string>
+    <string name="settings">Seaded</string>
+    <string name="setup_connection_dialog_body">Ühendada seadmega %s?</string>
+    <string name="setup_message_almost_there">Peaaegu kohal.</string>
+    <string name="setup_message_download">Ettevalmistumine ühenduse loomiseks…</string>
+    <string name="setup_message_install">Telefoni seadistamine…</string>
+    <string name="start_journey">Alusta reisi</string>
+    <string name="step_body">Saate määrata väljakutseid ja võrrelda oma samme sõpradega.</string>
+    <string name="step_title">Sammude väljakutsed</string>
+    <string name="title_other_devices">Saadaolevad seadmed</string>
+    <string name="title_paired_devices">Seotud seadmed</string>
+    <string name="toast_text_for_reinstall">%1$s jääb teie seadmesse isegi pärast lisandmooduli %2$s desinstallimist.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Lisatarkvara (%s MB) installimine nurjus. Seadme mälus pole piisavalt ruumi. Kustutage mõned failid ja proovige uuesti.</string>
+    <string name="uhm_update_download_progress">Värskenduse allalaadimine…</string>
+    <string name="uhm_update_exist_notification_subtitle">Uus versioon on saadaval.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Mõnda otsitud Geari ei saa teie telefoniga ühendada. Toksake rakenduse %s värskendamiseks uusimale versioonile käsku VÄRSKENDA ja proovige siis uuesti.</string>
+    <string name="uhm_update_install_disconnect_device">Ühenduse katkestamine seadmega %s…</string>
+    <string name="uhm_update_install_error">Installimine nurjus</string>
+    <string name="uhm_update_install_progress">Täiendava tarkvara installimine…</string>
+    <string name="uhm_update_notice">Teavitus</string>
+    <string name="uhm_update_notice_content">Uus versioon on saadaval. Jätkamiseks värskendage rakendust.</string>
+    <string name="uhm_update_notice_content_tUHM">Seadme %s rakendus sulgub, kui värskendus on alla laaditud. Avage rakendus uuesti, et värskendamine lõpule viia.</string>
+    <string name="use_network_connection_dialog_body">%s vajab normaalseks tööks võrguühendust. Kas lubada?</string>
+    <string name="use_network_connection_dialog_title">Võrguühenduste kasutamine</string>
+    <string name="welcome_no_device_found">Pärast Geari seadmete sisselülitamist kuvatakse need siin.</string>
+    <string name="welcome_no_device_found_description">Kui teie Gear on õigesti sisse lülitatud, kuid seda siin ei kuvata, avage Seaded > Geari teave ning seejärel valige Gearis valik Lähtesta Gear, et see tehase vaikeseadetele lähtestada.</string>
+    <string name="welcome_no_device_found_title">Geari seadmed puuduvad</string>
+    <string name="welcome_select_notice_not_enough_memory">Mõned seadme Gear kellad saavad ühendust luua ainult telefonidega, milles on üle %1$s %2$s mälu.</string>
+    <string name="welcome_select_your_gear">Valige oma Gear</string>
+    <string name="welcome_select_your_gear_to_connect">Valige Gear, millega ühendus luua.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Ühend. loom. Geariga</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Nupp</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Võtke meiega ühendust</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Nutiseadmete kandmise elamuse täiustamine seadmega Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Lisateave</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">See rakendus suudab tuvastada teie asukoha ja pääseb ligi teie seadme mälule.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Geari otsimine…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Tere tulemast</string>
+    <string name="which_gear">Läheduses tuvastatud seadmed Gear</string>
+</resources>

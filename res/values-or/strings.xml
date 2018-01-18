@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">ସରଞ୍ଜାମ ଫ୍ରେମୱାର୍କ ବ୍ୟବହାର କରି ବ୍ଲୁଟୁଥ୍‌ ମାଧ୍ୟମରେ ଆପଣଙ୍କ ଡାଟା ସ୍ଥାନାନ୍ତରଣ ପାଇଁ ଆପ୍ଲିକେସନକୁ ସମର୍ଥ କରନ୍ତୁ।</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ଫ୍ରେମୱାର୍କ ଦ୍ୱାରା ଡାଟା ସ୍ଥାନାନ୍ତରଣ</string>
+    <string name="access_connected_device_status">ଡିଭାଇସ୍ ସଂଯୋଜନା ସ୍ଥିତି ଆକସେସ୍ କରନ୍ତୁ</string>
+    <string name="access_connected_device_status_description">ଏହି ଆପ୍ଲିକେସନ୍ ପରିଧାନ ଯୋଗ୍ୟ ଡିଭାଇସ୍ ସଂଯୋଜନା ସ୍ଥିତି ଆକସେସ୍ କରିପାରେ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ଏହା %s ସହିତ ଆପଣଙ୍କର ସଂଯୋଜନା ଶେଷ କରିବ।</string>
+    <string name="app_name">ସାମସଙ୍ଗ ଗିଅର୍</string>
+    <string name="auto_activity_body">ସ୍ୱତଃସ୍ପୃତ ଭାବେ ଆପଣଙ୍କ କସରତ ଡାଟା ଟ୍ରାକ୍ ଏବଂ ରେକର୍ଡ କରନ୍ତୁ।</string>
+    <string name="auto_activity_title">ସ୍ଵତଃ ଟ୍ରାକ୍ କସରତ</string>
+    <string name="auto_reinstalled">ପ୍ରମୁଖ ଫାଇଲ୍ ବିଲୋପ ହୋଇଛି। ଗିଅର୍ ପରିଚାଳକ ଫାଇଲ୍ ପୁନଃସଂସ୍ଥାପିତ ହୋଇଛି।</string>
+    <string name="button_scan_again">ପୁନଃ ସ୍କାନ୍ କରନ୍ତୁ</string>
+    <string name="button_start_scan_devices">ସ୍କାନ୍</string>
+    <string name="button_stop_scan_devices">ସ୍ଥଗିତ</string>
+    <string name="button_text_bluetooth_turn_on">ଟର୍ନ୍ ଅନ୍</string>
+    <string name="cancel">ବାତିଲ୍</string>
+    <string name="com_samsung_accessory">ସାମସଙ୍ଗ ସରଞ୍ଜାମ ସେବା</string>
+    <string name="com_samsung_android_gearoplugin">ଗିଅର୍ S ପ୍ଲଗ୍-ଇନ୍</string>
+    <string name="connect_popup_content">ସଂଯୋଗ କରୁଛି</string>
+    <string name="connected">ସଂଯୋଜିତ</string>
+    <string name="custom_binary_error_dialog_title">ଆପଣଙ୍କ ଫୋନରେ ଅପରେଟିଂ ସିଷ୍ଟମ୍ ଏକ ଅସ୍ଵୀକୃତ ଉପାୟରେ ରୂପାନ୍ତରିତ କରା ହୋଇଛି, ଏବଂ ଏହା Samsung Gear ଆପ୍ଲିକେସନ୍‌ ସହ ସୁସଙ୍ଗତ। ଆପଣଙ୍କ ଅପରେଟିଂ ସିଷ୍ଟମ୍ ଯାଞ୍ଚ କରି ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="deleting_unused_file">ପୂର୍ବ ସଂସ୍କରଣରୁ ଅଣବ୍ୟବହୃତ ଫାଇଲ୍‌ଗୁଡିକ ବିଲୋପ କରାଯାଉଛି…</string>
+    <string name="dialog_popup_button_cancel">ବାତିଲ୍</string>
+    <string name="dialog_popup_button_later">ପରେ</string>
+    <string name="dialog_popup_button_update">ଅପଡେଟ୍</string>
+    <string name="dialog_warning">ସତର୍କବାଣୀ</string>
+    <string name="disconnect_and_backup_msg">ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ…</string>
+    <string name="do_not_show_again">ପୁନଃ ଦେଖାନ୍ତୁ ନାହିଁ</string>
+    <string name="download_failure_message">ଡାଉନଲୋଡ୍‌ ବିଫଳ ହୋଇଛି। ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">ମୋର ଏଠାରେ ନାହିଁ</string>
+    <string name="general_app_name_for_reinstall">ସାମସଙ୍ଗ ଗଅର୍ ଆପ୍ଲିକେସନ୍</string>
+    <string name="gsp_tracking_body">ଆପଣଙ୍କ କସ. ମାର୍ଗ ଟ୍ରାକ୍ କରି ଅଧିକ ସଠିକ୍ ସୂଚନା ପ୍ରାପ୍ତ କରନ୍ତୁ।</string>
+    <string name="gsp_tracking_title">GPS ଟ୍ରାକିଂ</string>
+    <string name="install_from_play_store">ଆପଣଙ୍କ ଗିଅର୍ ଏବଂ ଆପଣଙ୍କ ଫୋନ୍‌ ମଧ୍ୟରେ ଡାଟା ସ୍ଥାନାନ୍ତର ସକ୍ଷମ କରିବାକୁ %s ସଂସ୍ଥାପନ କରି ଓକେ ଟ୍ୟାପ୍‌ କରନ୍ତୁ।</string>
+    <string name="lets_pair_up">ଆସନ୍ତୁ ପେୟାର୍ କରିବା</string>
+    <string name="loading">ଲୋଡ୍ ହେଉଛି…</string>
+    <string name="make_sure_both_passkey">ଆପଣଙ୍କ ଫୋନ୍ ଏବଂ ଆପଣଙ୍କ ଗିଅରରେ ଥିବା ପାସକୀ ମେଳକ ହେଉଛି? ଏହା ପେୟାର୍ କରିବାର ସମୟ ହୋଇଛି।</string>
+    <string name="maximum_power_saving_mode_dialog_body">ଗିଅର୍ ବିଚ୍ଛିନ୍ନ ହୋଇଛି।</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">ସର୍ବାଧିକ ଅଲଟ୍ରା ପାୱାର୍ ସଞ୍ଚୟ ମୋଡରେ %s ଖୋଲିବାକୁ ଅସମର୍ଥ।</string>
+    <string name="maximum_power_saving_mode_dialog_title">ଆପ୍ଲିକେସନ୍ ଖୋଲିବାକୁ ଅସମର୍ଥ</string>
+    <string name="no_earbud_body">ଯଦି ଆପଣଙ୍କୁ %s ଇୟରବଡ୍ସର ସେଟ୍ ମିଳିଛି, ସେଗୁଡିକୁ ଚାର୍ଜିଂ କେସରୁ ବାହାରକୁ ଆଣି ଆପଣଙ୍କ କାନରେ ଲଗାନ୍ତୁ।</string>
+    <string name="no_gear_body">"ଚିନ୍ତା କରନ୍ତୁ ନାହିଁ! ପ୍ରଥମେ, ଆପଣଙ୍କ ଗିଅର୍ ପ୍ରକୃତରେ ଟର୍ନ୍ ଅନ୍ ହୋଇଛି ଯାଞ୍ଚ କରନ୍ତୁ।
+
+ଯଦି ଏହା ହୋଇଛି, ସେଟିଂସକୁ ଯାଇ “ଗିଅର୍ ପୂର୍ବସେଟ୍” ଚୟନ କରନ୍ତୁ। ବର୍ତ୍ତମାନ ଏହା ଗିଅର୍ ଡିଭାଇସଗୁଡିକର ତାଲିକାରେ ଦୃଶ୍ୟମାନ ହେବା ଆବଶ୍ୟକ।"</string>
+    <string name="no_gear_description">ଗିଅର୍ ଦୃଶ୍ୟମାନ ହୋଇନାହିଁ?</string>
+    <string name="no_network_message">କୌଣସି ଉପଲବ୍ଧ ନେଟୱାର୍କ୍ ସନ୍ଧାନ କରିପାରିଲି ନାହିଁ।</string>
+    <string name="no_network_title">କୌଣସି ନେଟୱାର୍କ୍ ସଂଯୋଜନା ନାହିଁ</string>
+    <string name="none_paired">କୌଣସି ଡିଭାଇସ୍ ପେୟାର୍ ହୋଇ ନାହିଁ।</string>
+    <string name="not_now">ପରେ</string>
+    <string name="not_supported_device_or_version">ଆପଣଙ୍କ ଫୋନ୍‌ ସୁସଙ୍ଗତ ଅଛି କି ନାହିଁ ତାହା ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ଯଦି Samsung Gear ଆପ୍ଲିକେସନ୍‌ ଅପଡେଟ୍‌ କରିବାକୁ ଆବଶ୍ୟକ ହୋଇଥାଏ, ତେବେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="ok">ଓକେ</string>
+    <string name="paired">ପେୟାର୍ ହୋଇଛି</string>
+    <string name="pass_key">ପାସକୀ</string>
+    <string name="permission_dialog_body">"ଆପ୍ଲିକେସନ୍ ସେବା ପାଇଁ ନିମ୍ନଲିଖିତ ଅନୁମତି ଆବଶ୍ୟକୀୟ। ବୈକଳ୍ପିକ ଅନୁମତିଗୁଡିକ ପାଇଁ, ସେବାର ଡିଫଲ୍ଟ କାର୍ଯ୍ୟକାରିତା ଟର୍ନ୍‌ ଅନ୍ ହୋଇଛି, କିନ୍ତୁ ଅନୁମୋଦିତ ନୁହେଁ।
+
+ଆବଶ୍ୟକୀୟ ଅନୁମତିଗୁଡିକ
+• ଅବସ୍ଥାନ: ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ଗିଅର୍ ପାଇଁ ନିକଟବର୍ତ୍ତୀ ଡିଭାଇସଗୁଡିକ ସନ୍ଧାନ କରିବାକୁ ବ୍ୟବହାର
+• ଷ୍ଟୋରେଜ୍: ଗିଅର୍ ସହ ଷ୍ଟୋର୍ ହୋଇଥିବା ଫାଇଲଗୁଡିକ ଟ୍ରାନ୍ସମିଟ୍ ଏବଂ ପ୍ରାପ୍ତ କରିବାକୁ ବ୍ୟବହାର
+• ଟୋଲିଫୋନ୍: ଆପସ୍ ଅପଡେଟ୍ କରିବାକୁ ଏବଂ ପ୍ଲଗ୍-ଇନ୍ ଆପ୍ଲିକେସନ୍ ସଂସ୍ଥାପନ କରିବାକୁ ଡିଭାଇସ୍-ବିଶେଷ ପରିଚୟକରଣ ଯାଞ୍ଚ କରିବାକୁ ବ୍ୟବହାର
+
+ବୈକଳ୍ପିକ ଅନୁମତିଗୁଡିକ
+• ସମ୍ପର୍କଗୁଡିକ: ପଞ୍ଜିକରଣ ହୋଇଥିବା Samsung account ସୂଚନା ବ୍ୟବହାର କରି ଆକାଉଣ୍ଟଗୁଡିକ ସହ ଲିଙ୍କ୍ ହେଉଥିବା ସେବାଗୁଡିକ ପ୍ରଦାନ କରିବାକୁ ବ୍ୟବହାର"</string>
+    <string name="permission_dialog_title">ଆପ୍ଲିକେସନ୍‌ ଅନୁମତିଗୁଡିକ</string>
+    <string name="permission_settings_dialog_message">%s ବ୍ୟବହାର କରିବାକୁ ଅସମର୍ଥ। “ସେଟିଂସ୍‍” ଟ୍ୟାପ୍ କରନ୍ତୁ, ତାପରେ ନିମ୍ନଲିଖିତ ଅନୁମତିଗୁଡିକ ଅନୁମତି ଦିଅନ୍ତୁ ଏବଂ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ:</string>
+    <string name="pick_gear">ଆପଣଙ୍କ ଗିଅର୍ ଚୟନ କରନ୍ତୁ</string>
+    <string name="popup_message_bluetooth_turn_on">ବ୍ଲୁଟୁଥ୍ ର୍ଟନ୍‌ ଅଫ୍ ହୋଇଛି। ଏହା ଟର୍ନ୍ ଅନ୍ କରିବାକୁ “ଟର୍ନ୍ ଅନ୍” ଟ୍ୟାପ୍ କରନ୍ତୁ।</string>
+    <string name="popup_title_message_bluetooth_turn_on">ବ୍ଲୁଟୁଥ୍ ଟର୍ନ୍ ଅନ୍ କରନ୍ତୁ।</string>
+    <string name="popupmenu_connect_new_gear">ନୂତନ ଗିଅର୍ ସଂଯୋଗ</string>
+    <string name="preparing_connect_and_install">ସଂଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ହେଉଛି…</string>
+    <string name="reboot">ପୁନଃଆର.</string>
+    <string name="reboot_phone_message">ସାମସଙ୍ଗ ସରଞ୍ଜାମ ସେବା ଅପଡେଟ୍‌ ହୋଇଛି। ଆପଣଙ୍କ ଗିଅରକୁ ସଂଯୋଗ କରିବାକୁ ଆପଣଙ୍କ ଫୋନ୍ ପୁନଃଆରମ୍ଭ କରନ୍ତୁ।</string>
+    <string name="retry">ପୁନଃଚେଷ୍ଟା</string>
+    <string name="scan_all_gear_nearby">ନିକଟବ. ଗିଅର୍ ସ୍କାନ୍</string>
+    <string name="scanning">ସ୍କାନ୍ ହେଉଛି…</string>
+    <string name="search_again">ପୁନଃ ସନ୍ଧାନ</string>
+    <string name="select_gear_to_connect">ଆପଣ ସଂଯୋଗ କରିବାକୁ ଚାହୁଁଥିବା ଗିଅର୍ ଚୟନ କରନ୍ତୁ।</string>
+    <string name="settings">ସେଟିଂସ୍‌</string>
+    <string name="setup_connection_dialog_body">%sକୁ ସଂଯୋଗ କରିବେ?</string>
+    <string name="setup_message_almost_there">ପ୍ରାୟ କରିସାରିଛନ୍ତି।</string>
+    <string name="setup_message_download">ସଂଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ହେଉଛି…</string>
+    <string name="setup_message_install">ଆପଣଙ୍କ ଫୋନ୍ ସେଟିଂ ଅପ୍‌ ହେଉଛି…</string>
+    <string name="start_journey">ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="step_body">ଚ୍ୟାଲେଞ୍ଜ. ସେଟ୍ କରି ଆପଣଙ୍କ ବନ୍ଧୁ. ସହ ଆପଣଙ୍କ ପାଦ ଗଣନା ତୁଳନା କର.।</string>
+    <string name="step_title">ପାଦ ଚ୍ୟାଲେଞ୍ଜଗୁଡିକ</string>
+    <string name="title_other_devices">ଉପଲବ୍ଧ ଡିଭାଇସ୍‌</string>
+    <string name="title_paired_devices">ପେୟାର୍ ହୋଇଥିବା ଡିଭାଇସଗୁଡିକ</string>
+    <string name="toast_text_for_reinstall">ଏପରିକି %2$s ଅଣସଂସ୍ଥାପନ କରିବା ପରେ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ %1$sରେ ରହିବ।</string>
+    <string name="uhm_install_error_msg_insufficient_storage">ଅତିରିକ୍ତ ସଫ୍ଟୱେୟାର୍ (%s MB) ସଂସ୍ଥାପିତ ହୋଇପାରିବ ନାହିଁ। ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜରେ ପର୍ଯ୍ୟାପ୍ତ ସ୍ପେସ୍ ନାହିଁ। କିଛି ଫାଇଲକୁ ବିଲୋପ କରନ୍ତୁ ଏବଂ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="uhm_update_download_progress">ଅପଡେଟ୍‌ ଡାଉନଲୋଡ୍‌ ହେଉଛି…</string>
+    <string name="uhm_update_exist_notification_subtitle">ଏକ ନୂତନ ସଂସ୍କରଣ ଉପଲବ୍ଧ ଅଛି।</string>
+    <string name="uhm_update_exist_to_support_new_gear">ଆପଣଙ୍କ ଫୋନକୁ ସ୍କାନ୍‌ ହୋଇଥିବା କିଛି ଗିଅରଗୁଡିକ ସଂଯୋଜିତ କରାଯାଇପାରିବ ନାହିଁ। ନବୀନତ୍ତମ ସଂସ୍କରଣରେ %s ଆପ୍ଲିକେସନ୍‌ ଅପଡେଟ୍ କରିବାକୁ “ଅପଡେଟ୍” ଟ୍ୟାପ୍ କରନ୍ତୁ, ତାପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="uhm_update_install_disconnect_device">%sରୁ ବିଛିନ୍ନ ହେଉଛି…</string>
+    <string name="uhm_update_install_error">ସଂସ୍ଥାପନ ବିଫଳ ହୋଇଛି</string>
+    <string name="uhm_update_install_progress">ଅତିରିକ୍ତ ସଫ୍ଟୱେୟାର ସଂସ୍ଥାପନ କରୁଛି…</string>
+    <string name="uhm_update_notice">ସୂଚନା</string>
+    <string name="uhm_update_notice_content">ଏକ ନୂତନ ସଂସ୍କରଣ ଉପଲବ୍ଧ। ଜାରି ରଖିବାକୁ ଆପ୍ଲିକେସନ୍ ଅପଡେଟ୍ କରନ୍ତୁ।</string>
+    <string name="uhm_update_notice_content_tUHM">ଅପଡେଟ୍ ଡାଉନଲୋଡ୍ ହେଲା ପରେ %s ଆପ୍ଲିକେସନ୍‌ ବନ୍ଦ ହେବ। ଅପଡେଟ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଆପ୍ଲିକେସନ୍‌ ପୁନଃଖୋଲନ୍ତୁ।</string>
+    <string name="use_network_connection_dialog_body">ସାଧାରଣତଃ କାର୍ଯ୍ୟ କରିବାକୁ %sର ନେଟୱାର୍କ୍ ସଂଯୋଜନାଗୁଡିକ ବ୍ୟବହାର କରିବା ଆବଶ୍ୟକ। ଅନୁମତି ଦେବେ କି?</string>
+    <string name="use_network_connection_dialog_title">ନେଟୱାର୍କ୍ ସଂଯୋଜନାଗୁଡିକ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="welcome_no_device_found">ଆପଣଙ୍କ ଗିଅର୍ ଡିଭାଇସଗୁଡିକରେ ଆପଣ ପାୱାର୍ ଅନ୍‌ କରିବା ପରେ, ସେଗୁଡିକ ଏଠାରେ ଦେଖାଯିବ।</string>
+    <string name="welcome_no_device_found_description">ଯଦି ଆପଣଙ୍କ ଗିଅର୍ ସଠିକ୍ ଭାବରେ ପାୱାର୍‌ ଅନ୍‌ ହୋଇଛି କିନ୍ତୁ ଏଠାରେ ଦେଖାଯାଉନାହିଁ, ସେଟିଂସ୍ > ଗିଅର୍ ସୂଚନାକୁ ଯାଇ, ଗିଅରର ଫ୍ୟାକ୍ଟୋରୀ ଡିଫଲ୍ଟ ସେଟିଂସରେ ପୁନଃସେଟ୍ କରିବାକୁ ଗିଅରରେ “ଗିଅର୍ ପୁନଃସେଟ୍” ଚୟନ କରନ୍ତୁ।</string>
+    <string name="welcome_no_device_found_title">କୌଣସି ଗିଅର୍ ଡିଭାଇସ୍‌ ନାହିଁ</string>
+    <string name="welcome_select_notice_not_enough_memory">କିଛି ଗିଅର୍ ଘଣ୍ଟା କେବଳ ସେହି ଫୋନକୁ ସଂଯୋଗ କରିପାରିବ ଯେଉଁଥିରେ %1$s%2$sରୁ ଅଧିକ ମେମୋରୀ ଅଛି।</string>
+    <string name="welcome_select_your_gear">ଆପଣଙ୍କ ଗିଅର୍ ଚୟନ କରନ୍ତୁ</string>
+    <string name="welcome_select_your_gear_to_connect">ଗିଅରକୁ ସଂଯୋଗ କରିବାକୁ ଚୟନ କରନ୍ତୁ।</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ଗିଅରକୁ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">ବଟନ୍‍</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ଆମକୁ ସମ୍ପର୍କ</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">ସାମସଙ୍ଗ ଗିଅର୍ ସହ ସ୍ମାର୍ଟ୍‌ ପରିଧାନଯୋଗ୍ୟ ଅଭିଜ୍ଞତାର ବୃଦ୍ଧି।</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">ଏହି ଆପ୍ଲିକେସନ୍‌ ଆପଣଙ୍କ ଅବସ୍ଥାନ ନିର୍ଦ୍ଧାରଣ କରିବା ସହ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜ୍ ଆକସେସ୍ କରିପାରେ।</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">ଗିଅ. ସନ୍ଧାନ ହେଉଛି…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">ସ୍ଵାଗତ</string>
+    <string name="which_gear">ନିକଟବର୍ତ୍ତୀ ଗିଅରଗୁଡିକ ସ୍ପଟ୍ ହୋଇଛି</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Toolbar android:id="@id/toolbar" android:background="@color/background" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:id="@id/actionbar_divider" android:background="@drawable/section_divider" android:layout_width="fill_parent" android:layout_height="@dimen/device_list_divider_height" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/device_list_holder" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="4.0dip" android:layout_marginStart="24.0dip">
+                <TextView android:gravity="center_vertical" android:id="@id/title_paired_devices" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/sub_divider_height" android:text="@string/title_paired_devices" android:textAllCaps="true" style="@style/TextView_ListCategory" />
+                <ImageView android:id="@id/paired_devices_section_divider" android:background="@drawable/section_divider" android:layout_width="fill_parent" android:layout_height="@dimen/device_list_divider_height" android:layout_centerInParent="true" android:layout_marginStart="6.0dip" android:layout_marginEnd="18.0dip" android:layout_toEndOf="@id/title_paired_devices" />
+            </RelativeLayout>
+            <ListView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/paired_devices" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@xml/xml_listitem_selector" android:divider="@null" />
+            <RelativeLayout android:id="@id/title_new_devices" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="4.0dip" android:minHeight="@dimen/sub_divider_height" android:layout_marginEnd="12.0dip">
+                <LinearLayout android:gravity="center_vertical" android:id="@id/title_new_devices_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/sub_divider_height" android:layout_alignParentEnd="true">
+                    <TextView android:id="@id/searching_new_devices" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/scanning" android:maxLines="1" android:textAllCaps="true" android:layout_marginEnd="@dimen/list_main_left_right_margin" style="@style/TextView_ListCategory" />
+                    <ProgressBar android:id="@id/progress_new_devices" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginEnd="6.0dip" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:id="@id/available_devices_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toStartOf="@id/title_new_devices_progress" android:layout_alignParentStart="true">
+                    <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/available_device_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/sub_divider_height" android:text="@string/title_other_devices" android:maxLines="1" android:textAllCaps="true" android:layout_marginStart="24.0dip" style="@style/TextView_ListCategory" />
+                    <ImageView android:id="@id/available_devices_section_divider" android:background="@drawable/section_divider" android:layout_width="fill_parent" android:layout_height="@dimen/device_list_divider_height" android:layout_centerInParent="true" android:layout_marginStart="6.0dip" android:layout_marginEnd="6.0dip" android:layout_toEndOf="@id/available_device_text" />
+                </LinearLayout>
+            </RelativeLayout>
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ListView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/new_devices" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@xml/xml_listitem_selector" android:divider="@null" />
+                <LinearLayout android:orientation="vertical" android:id="@id/emptyView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="30.0dip" android:paddingEnd="30.0dip">
+                    <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:textSize="16.0sp" android:textColor="@color/normal_text_color_black_alpha_50" android:gravity="center" android:layout_gravity="center" android:paddingTop="58.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_no_device_found_title" />
+                    <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:textSize="15.0sp" android:textColor="@color/normal_text_color_black_alpha_50" android:gravity="start" android:paddingTop="42.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_no_device_found" />
+                    <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:textSize="15.0sp" android:textColor="@color/normal_text_color_black_alpha_50" android:gravity="start" android:layout_gravity="start" android:paddingTop="42.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_no_device_found_description" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

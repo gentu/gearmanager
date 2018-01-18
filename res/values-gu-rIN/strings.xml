@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">એપ્લિકેશનને ઍક્સેસરી માળખાંનો ઉપયોગ કરીને બ્લ્યુટુથ મારફતે તમારા ડેટાને સ્થળાંતરિત કરવાની પરવાનગી આપે છે.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ફ્રેમવર્ક દ્વારા ડેટા સ્થાનાંતરિત કરી રહ્યાં છે</string>
+    <string name="access_connected_device_status">ઉપકરણની જોડાણ સ્થિતિને ઍક્સેસ કરો</string>
+    <string name="access_connected_device_status_description">આ એપ્લિકેશન પહેરવા યોગ્યના જોડાણની સ્થિતિને ઍક્સેસ કરી શકે છે.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">આ %s સાથેના તમારા જોડાણને સમાપ્ત કરશે.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">તમારો વ્યાયામ ડેટા સ્વચાલિત રીતે ટ્રેક અને રેકોર્ડ કરો.</string>
+    <string name="auto_activity_title">વ્યાયામોને સ્વતઃ ટ્રેક કરો</string>
+    <string name="auto_reinstalled">મહત્વપૂર્ણ ફાઇલ્સને હટાવી દીધી છે. ગિઅર સંચાલક ફાઇલને પુનઃસ્થાપિત કરેલી છે.</string>
+    <string name="button_scan_again">ફરી સ્કેન કરો</string>
+    <string name="button_start_scan_devices">સ્કેન કરો</string>
+    <string name="button_stop_scan_devices">રોકો</string>
+    <string name="button_text_bluetooth_turn_on">ચાલુ</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="com_samsung_accessory">સેમસંગ ઍક્સેસરી સેવા</string>
+    <string name="com_samsung_android_gearoplugin">ગિઅર S પ્લગ-ઇન</string>
+    <string name="connect_popup_content">જોડાઇ રહ્યું છે</string>
+    <string name="connected">જોડ્યું</string>
+    <string name="custom_binary_error_dialog_title">તમારા ફોન પર ઓપરેટિંગ સિસ્ટમમાં એક અનધિકૃત રીતે ફેરફાર કરવામાં આવેલ છે અને તે સેમસંગ ગિઅર એપ સાથે સંગત નથી. તમારું ઓપરેટિંગ સિસ્ટમ તપાસો અને ફરી પ્રયાસ કરો.</string>
+    <string name="deleting_unused_file">આગળના સંસ્કરણમાંથી બિનવપરાયેલી ફાઇલોને હટાવી રહ્યું છે…</string>
+    <string name="dialog_popup_button_cancel">રદ કરો</string>
+    <string name="dialog_popup_button_later">પછી</string>
+    <string name="dialog_popup_button_update">અપડેટ કરો</string>
+    <string name="dialog_warning">ચેતવણી</string>
+    <string name="disconnect_and_backup_msg">કૃપયા રાહ જુઓ…</string>
+    <string name="do_not_show_again">ફરીથી બતાવશો નહીં</string>
+    <string name="download_failure_message">ડાઉનલોડ નિષ્ફળ થયું. ફરી પ્રયત્ન કરો.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">મારું અહીં નથી</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear એપ્લિકેશન</string>
+    <string name="gsp_tracking_body">તમારા વ્યાયામ માર્ગોને ટ્રેક કરો અને વધુ ચોક્કસ માહિતી મેળવો.</string>
+    <string name="gsp_tracking_title">GPS ટ્રેકિંગ</string>
+    <string name="install_from_play_store">તમારા ગિઅર અને તમારા ફોન વચ્ચે ડેટા સ્થાનાંતરને સક્ષમ કરવા %s ને ઇન્સ્ટોલ કરવા માટે ઓકે ટેપ કરો.</string>
+    <string name="lets_pair_up">ચાલો જોડી બનાવીએ</string>
+    <string name="loading">લોડિંગ…</string>
+    <string name="make_sure_both_passkey">શું તમારા ફોન અને ગિઅરની પાસકીઝ અનુરૂપ થઈ રહી છે? તો પછી તેની જોડી બનાવાનો સમય છે.</string>
+    <string name="maximum_power_saving_mode_dialog_body">ગિઅરને ડિક્સનેક્ટ કરેલ છે.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">%s ને મહત્તમ પાવર બચત મોડમાં ખોલવામાં અસમર્થ.</string>
+    <string name="maximum_power_saving_mode_dialog_title">એપ્લિકેશનને ખોલવામાં અસમર્થ</string>
+    <string name="no_earbud_body">જો તમારી પાસે %s ઇઅરબડ્સનો સેટ છે, તેમને ચાર્જિંગ કેસમાંથી બહાર કાઢો અને તેમને તમારા કાનમાં મૂકો.</string>
+    <string name="no_gear_body">"ચિંતા કરશો નહીં! સૌ પ્રથમ, તમારું ગિઅર ખરેખર ચાલુ છે એ તપાસો.
+
+જો તે હોય, તો સેટિંગ્સ પર જાઓ અને “ગિઅર રીસેટ કરો” પસંદ કરો. તે પછી ગિઅર ઉપકરણોની સૂચિમાં તે દેખાવું જોઈએ."</string>
+    <string name="no_gear_description">ગિઅર દેખાતું નથી?</string>
+    <string name="no_network_message">કોઈ ઉપલબ્ધ નેટવર્ક્સ શોધી શકાયા નથી.</string>
+    <string name="no_network_title">કોઈ નેટવર્ક જોડાણ નથી</string>
+    <string name="none_paired">કોઈ ઉપકરણો જોડયુક્ત નથી.</string>
+    <string name="not_now">પછી</string>
+    <string name="not_supported_device_or_version">તમારો ફોન સંગત છે કે કેમ તે તપાઓ અને જો સેમસંગ ગિઅર એપને અપડેટ કરેલ હોવી જરૂરી હોય, તો પછી ફરી પ્રયાસ કરો.</string>
+    <string name="ok">ઓકે</string>
+    <string name="paired">જોડયુક્ત</string>
+    <string name="pass_key">પાસકી</string>
+    <string name="permission_dialog_body">"એપ સેવા માટે નીચે આપેલ પરવાનગીઓ આવશ્યક છે. વૈકલ્પિક પરવાનગીઓ માટે, સેવાની મૂળભૂત કાર્યક્ષમતા ચાલુ છે, પરંતુ મંજૂરી આપેલી નથી.
+
+પરવાનગીઓ આવશ્યક છે
+• સ્થાન: બ્લ્યુટુથ મારફતે ગિઅર માટે નજીકના ઉપકરણો શોધવા માટે ઉપયોગ થાય છે
+• સંગ્રહ: ગિઅર સાથે સંગ્રહિત ફાઇલ્સ મોકલવા અને પ્રાપ્ત કરવા માટે ઉપયોગ થાય છે
+• ટેલિફોન: એપ્સ અપડેટ કરવા અને પ્લગ-ઇન એપ્સ ઇન્સ્ટોલ કરવા માટે ઉપકરણ-ઓળખ માહિતી તપાસવા માટે ઉપયોગ થાય છે
+
+વૈકલ્પિક પરવાનગીઓ
+• સંપર્કો: નોંધાયેલ Samsung account માહિતીનો ઉપયોગ કરીને એકાઉન્ટ્સ સાથે લિંક કરેલ જોવી જરૂરી હોય તેવી સેવાઓ પ્રદાન કરવા માટે ઉપયોગ થાય છે"</string>
+    <string name="permission_dialog_title">એપ પરવાનગીઓ</string>
+    <string name="permission_settings_dialog_message">%s નો ઉપયોગ કરવામાં અસમર્થ. “સેટિંગ્સ” ટેપ કરો, તે પછી નીચેની પરવાનગીઓને મંજૂરી આપો અને ફરીથી પ્રયાસ કરો:</string>
+    <string name="pick_gear">તમારા ગિઅરને પસંદ કરો</string>
+    <string name="popup_message_bluetooth_turn_on">બ્લ્યુટુથ બંધ છે. તેને ચાલુ કરવા માટે “ચાલુ કરો” ટેપ કરો.</string>
+    <string name="popup_title_message_bluetooth_turn_on">બ્લ્યુટુથ ચાલુ કરો</string>
+    <string name="popupmenu_connect_new_gear">નાવા ગિઅરથી જોડો</string>
+    <string name="preparing_connect_and_install">જોડવાની તૈયારી કરી રહ્યાં છે…</string>
+    <string name="reboot">પુનઃપ્રારંભ કરો</string>
+    <string name="reboot_phone_message">સેમસંગ ઍક્સેસરીઝ સેવા અપડેટ કરાયેલ છે. તમારા ગિઅર સાથે જોડવા તમારો ફોન પુનઃપ્રારંભ કરો.</string>
+    <string name="retry">ફરી પ્રયાસ કરો</string>
+    <string name="scan_all_gear_nearby">ગિઅરની નજીક માટે સ્કેન કરો</string>
+    <string name="scanning">સ્કેન કરી રહ્યું છે…</string>
+    <string name="search_again">ફરી શોધો</string>
+    <string name="select_gear_to_connect">તમે જેનાથી જોડવા માંગતા હોય તે ગિઅર પસંદ કરો.</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="setup_connection_dialog_body">%s સાથે જોડીએ?</string>
+    <string name="setup_message_almost_there">લગભગ પહોંચી ગયા.</string>
+    <string name="setup_message_download">જોડવાની તૈયારી કરી રહ્યાં છે…</string>
+    <string name="setup_message_install">તમારો ફોન સેટ કરી રહ્યાં છે…</string>
+    <string name="start_journey">યાત્રા પ્રારંભ કરો</string>
+    <string name="step_body">પડકારો સેટ કરો અને મિત્રો સાથે તમારા પગલાંની સરખામણી કરો.</string>
+    <string name="step_title">પગલાં પડકારો</string>
+    <string name="title_other_devices">ઉપલબ્ધ ઉપકરણો</string>
+    <string name="title_paired_devices">ઉપકરણની જોડી બનાવી</string>
+    <string name="toast_text_for_reinstall">%2$s ને અનઇન્સ્ટોલ કર્યા પછી પણ %1$s તમારા ઉપકરણ પર રહેશે.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">વધારાનું સોફ્ટવેર (%s MB) ઇન્સ્ટોલ કરી શકાયું નથી. તમારા મોબાઇલ ઉપકરણ સંગ્રહમાં પર્યાપ્ત જગ્યા નથી. કેટલીક ફાઇલ્સ હટાવો અને ફરી પ્રયાસ કરો.</string>
+    <string name="uhm_update_download_progress">અપડેટ ડાઉનલોડ કરે છે…</string>
+    <string name="uhm_update_exist_notification_subtitle">એક નવું સંસ્કરણ ઉપલબ્ધ છે.</string>
+    <string name="uhm_update_exist_to_support_new_gear">કેટલાક સ્કેન કરેલ ગિઅરને તમારા ફોનથી જોડી શકાતા નથી. %s એપ્લિકેશનને નવીનતમ સંસ્કરણમાં અપડેટ કરવા માટે, “અપડેટ કરો” ટેપ કરો, પછી ફરી પ્રયાસ કરો.</string>
+    <string name="uhm_update_install_disconnect_device">%s થી ડિસ્કનેક્ટ કરે છે…</string>
+    <string name="uhm_update_install_error">સ્થાપના નિષ્ફળ</string>
+    <string name="uhm_update_install_progress">અધિક સોફ્ટવેર સ્થાપિત થાય છે…</string>
+    <string name="uhm_update_notice">સૂચના</string>
+    <string name="uhm_update_notice_content">એક નવું સંસ્કરણ ઉપલબ્ધ છે. ચાલુ રાખવા માટે એપ્લિકેશનને અપડેટ કરો.</string>
+    <string name="uhm_update_notice_content_tUHM">અપડેટ ડાઉનલોડ થયા પછી %s એપ્લિકેશન બંધ થશે. અપડેટ પૂર્ણ કરવા માટે એપ્લિકેશન પુનઃ ખોલો.</string>
+    <string name="use_network_connection_dialog_body">%s ને સામાન્ય રીતે કાર્ય કરવા માટે નેટવર્ક જોડાણોનો ઉપયોગ કરવાની જરૂર છે. મંજૂરી આપીએ?</string>
+    <string name="use_network_connection_dialog_title">નેટવર્ક જોડાણોનો ઉપયોગ કરો</string>
+    <string name="welcome_no_device_found">તમે તમારા ગિઅર ઉપકરણોનો પાવર ચાલુ કરો પછી, તે અહીં બતાવવામાં આવશે.</string>
+    <string name="welcome_no_device_found_description">જો તમારા ગિઅરનો પાવર યોગ્ય રીતે ચાલુ હોય, પરંતુ અહીં બતાવાયેલ ન હોય, તો સેટિંગ્સ > ગિઅર માહિતી પર જાઓ, પછી તેને ફેક્ટરી મૂળભૂત સેટિંગ્સ પર રીસેટ કરવા માટે ગિઅર પર “ગિઅર રીસેટ કરો” પસંદ કરો.</string>
+    <string name="welcome_no_device_found_title">કોઈ ગિઅર ઉપકરણો નથી</string>
+    <string name="welcome_select_notice_not_enough_memory">કેટલીક ગિઅર ઘડિયાળો ફક્ત જે ફોનની મેમરી %1$s %2$s કરતાં વધુ હોય તેનાથી જ કનેક્ટ થઈ શકે છે.</string>
+    <string name="welcome_select_your_gear">તમારું ગિઅર પસંદ કરો</string>
+    <string name="welcome_select_your_gear_to_connect">તમે જેનાથી જોડવા માંગતા હોય તે ગિઅર પસંદ કરો.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ગિઅર સાથે જોડો</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">બટન</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">અમારો સંપર્ક કરો</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Samsung Gear સાથે સ્માર્ટ પહેરવાયોગ્યનો અનુભવ વધારવો.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">વધુ જાણો</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">આ એપ તમારું સ્થાન નિર્ધારિત કરી શકે છે અને તમારા ઉપકરણ સંગ્રહને ઍક્સેસ કરી શકે છે.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">ગિઅર શોધી રહ્યું છે…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">સ્વાગત છે</string>
+    <string name="which_gear">ગિઅર્સ નજીકમાં દેખાયાં</string>
+</resources>

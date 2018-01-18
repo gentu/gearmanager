@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.app.twatchmanager.uiitems.SpaceView android:layout_gravity="center_vertical" android:id="@id/galaxy_space_view" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent" app:starCount="400" />
+    <ImageView android:layout_gravity="center" android:id="@id/ImgA" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/galaxy_bg_1200x1200" android:adjustViewBounds="true" />
+    <ImageView android:layout_gravity="center" android:id="@id/ImgB" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/galaxy_comet_layer_4_1200x1200" android:adjustViewBounds="true" />
+    <ImageView android:layout_gravity="center" android:id="@id/ImgC" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/galaxy_comet_layer_3_1200x1200" android:adjustViewBounds="true" />
+    <ImageView android:layout_gravity="center" android:id="@id/ImgD" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/galaxy_comet_layer_2_1200x1200" android:adjustViewBounds="true" />
+    <ImageView android:layout_gravity="center" android:id="@id/ImgE" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/galaxy_comet_layer_1_1200x1200" android:adjustViewBounds="true" />
+</FrameLayout>

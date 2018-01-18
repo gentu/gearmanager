@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Cho phép ứng dụng truyền tải dữ liệu qua Bluetooth bằng cơ cấu phụ kiện.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Truyền tải dữ liệu qua framework</string>
+    <string name="access_connected_device_status">Truy cập trạng thái kết nối thiết bị</string>
+    <string name="access_connected_device_status_description">Ứng dụng này có thể truy cập trạng thái kết nối của thiết bị đeo.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Việc này sẽ ngắt kết nối của bạn với %s.</string>
+    <string name="app_name">Samsung Gear</string>
+    <string name="auto_activity_body">Tự động theo dõi và ghi lại dữ liệu tập luyện của bạn.</string>
+    <string name="auto_activity_title">T.động t.dõi tập luyện</string>
+    <string name="auto_reinstalled">Đã xóa các file quan trọng. Các file Gear Manager đã được cài đặt lại.</string>
+    <string name="button_scan_again">Dò tìm lại</string>
+    <string name="button_start_scan_devices">Dò</string>
+    <string name="button_stop_scan_devices">Dừng</string>
+    <string name="button_text_bluetooth_turn_on">Bật</string>
+    <string name="cancel">Thoát</string>
+    <string name="com_samsung_accessory">Dịch vụ phụ kiện Samsung</string>
+    <string name="com_samsung_android_gearoplugin">Plug-in Gear S</string>
+    <string name="connect_popup_content">Kết nối</string>
+    <string name="connected">Đã kết nối</string>
+    <string name="custom_binary_error_dialog_title">Hệ điều hành trên điện thoại đã bị sửa đổi trái phép và không tương thích với ứng dụng Samsung Gear. Hãy kiểm tra hệ điều hành và thử lại.</string>
+    <string name="deleting_unused_file">Đang xóa các file không sử dụng từ phiên bản trước…</string>
+    <string name="dialog_popup_button_cancel">Thoát</string>
+    <string name="dialog_popup_button_later">Để sau</string>
+    <string name="dialog_popup_button_update">Cập nhật</string>
+    <string name="dialog_warning">Cảnh báo</string>
+    <string name="disconnect_and_backup_msg">Xin chờ…</string>
+    <string name="do_not_show_again">Không hiện lại</string>
+    <string name="download_failure_message">Tải về đã bị lỗi. Hãy thử lại.</string>
+    <string name="gb">GB</string>
+    <string name="gear_not_presesnt">Không có ở đây</string>
+    <string name="general_app_name_for_reinstall">ứng dụng Samsung Gear</string>
+    <string name="gsp_tracking_body">Theo dõi việc tập luyện của bạn và nhận t.tin chính xác hơn.</string>
+    <string name="gsp_tracking_title">Theo dõi GPS</string>
+    <string name="install_from_play_store">Chạm OK để cài đặt %s và bật truyền dữ liệu giữa Gear và điện thoại của bạn.</string>
+    <string name="lets_pair_up">Hãy ghép đôi</string>
+    <string name="loading">Đang tải…</string>
+    <string name="make_sure_both_passkey">Mã trên điện thoại và Gear của bạn có khớp nhau không? Hãy tiến hành ghép đôi.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear đã bị ngắt kết nối.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Không thể mở %s ở chế độ Tiết kiệm pin tối đa.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Không thể mở ứng dụng</string>
+    <string name="no_earbud_body">Nếu bạn đã có một bộ tai nghe %s, hãy lấy chúng ra khỏi hộp sạc và đeo lên tai.</string>
+    <string name="no_gear_body">"Đừng lo lắng! Trước tiên, hãy kiểm tra xem Gear đã được bật chưa.
+
+Nếu đã bật, hãy đi đến Cài đặt và chọn Đặt lại Gear. Sau đó, Gear sẽ xuất hiện trong danh sách các thiết bị Gear."</string>
+    <string name="no_gear_description">Gear không xuất hiện?</string>
+    <string name="no_network_message">Không tìm thấy mạng nào khả dụng.</string>
+    <string name="no_network_title">Không có kết nối mạng</string>
+    <string name="none_paired">Không có thiết bị nào được ghép đôi.</string>
+    <string name="not_now">Để sau</string>
+    <string name="not_supported_device_or_version">Kiểm tra xem điện thoại có tương thích không và ứng dụng Samsung Gear có cần cập nhật không, sau đó thử lại.</string>
+    <string name="ok">OK</string>
+    <string name="paired">Đã ghép đôi</string>
+    <string name="pass_key">Mã khóa</string>
+    <string name="permission_dialog_body">"Cần có các quyền sau cho dịch vụ ứng dụng. Đối với các quyền tùy chọn, chức năng mặc định của dịch vụ sẽ được bật nhưng không được cho phép.
+
+Các quyền cần có
+• Vị trí: Dùng để tìm thiết bị ở gần cho Gear qua Bluetooth
+• Bộ nhớ: Dùng để truyền và nhận file lưu trữ với Gear
+• Điện thoại: Dùng để kiểm tra thông tin nhận dạng thiết bị duy nhất để cập nhật ứng dụng và cài đặt ứng dụng plug-in
+
+Các quyền tùy chọn
+• Danh bạ: Dùng để cung cấp các dịch vụ cần liên kết với các tài khoản sử dụng thông tin Samsung account đã đăng ký"</string>
+    <string name="permission_dialog_title">Cấp quyền ứng dụng</string>
+    <string name="permission_settings_dialog_message">Không thể sử dụng %s. Chạm CÀI ĐẶT, rồi cấp các quyền sau và thử lại:</string>
+    <string name="pick_gear">Chọn Gear của bạn</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth đã tắt. Chạm Bật để bật.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bật Bluetooth</string>
+    <string name="popupmenu_connect_new_gear">Kết nối Gear mới</string>
+    <string name="preparing_connect_and_install">Đang chuẩn bị kết nối…</string>
+    <string name="reboot">K.động lại</string>
+    <string name="reboot_phone_message">Dịch vụ phụ kiện Samsung đã được cập nhật. Hãy khởi động lại điện thoại để kết nối với Gear.</string>
+    <string name="retry">Thử lại</string>
+    <string name="scan_all_gear_nearby">Dò tìm Gear ở gần</string>
+    <string name="scanning">Đang dò…</string>
+    <string name="search_again">Tìm lại</string>
+    <string name="select_gear_to_connect">Chọn Gear bạn muốn kết nối.</string>
+    <string name="settings">Cài đặt</string>
+    <string name="setup_connection_dialog_body">Kết nối với %s?</string>
+    <string name="setup_message_almost_there">Sắp hoàn tất rồi.</string>
+    <string name="setup_message_download">Đang chuẩn bị kết nối…</string>
+    <string name="setup_message_install">Đang thiết lập đ.thoại…</string>
+    <string name="start_journey">Bắt đầu hành trình</string>
+    <string name="step_body">Đặt thử thách và so sánh số bước của bạn với bạn bè.</string>
+    <string name="step_title">Thử thách số bước</string>
+    <string name="title_other_devices">Các thiết bị hiện có</string>
+    <string name="title_paired_devices">Các thiết bị đã ghép đôi</string>
+    <string name="toast_text_for_reinstall">%1$s sẽ vẫn xuất hiện trên thiết bị của bạn ngay cả sau khi gỡ cài cài đặt %2$s.</string>
+    <string name="uhm_install_error_msg_insufficient_storage">Không thể cài đặt phần mềm bổ sung (%s MB). Không đủ dung lượng trong bộ nhớ thiết bị. Hãy xóa một số file và thử lại.</string>
+    <string name="uhm_update_download_progress">Đang tải bản cập nhật…</string>
+    <string name="uhm_update_exist_notification_subtitle">Đã có phiên bản mới.</string>
+    <string name="uhm_update_exist_to_support_new_gear">Một số Gear đã dò tìm không thể kết nối với điện thoại của bạn. Hãy chạm CẬP NHẬT để cập nhật ứng dụng %s lên phiên bản mới nhất rồi thử lại.</string>
+    <string name="uhm_update_install_disconnect_device">Đang ngắt kết nối khỏi %s…</string>
+    <string name="uhm_update_install_error">Cài đặt đã lỗi</string>
+    <string name="uhm_update_install_progress">Đang cài đặt phần mềm bổ sung…</string>
+    <string name="uhm_update_notice">Thông báo</string>
+    <string name="uhm_update_notice_content">Đã có phiên bản mới. Hãy cập nhật ứng dụng để tiếp tục.</string>
+    <string name="uhm_update_notice_content_tUHM">Ứng dụng %s sẽ đóng sau khi bản cập nhật được tải về. Hãy mở lại ứng dụng để hoàn tất cập nhật.</string>
+    <string name="use_network_connection_dialog_body">%s cần sử dụng kết nối mạng để hoạt động bình thường. Cho phép?</string>
+    <string name="use_network_connection_dialog_title">Sử dụng kết nối mạng</string>
+    <string name="welcome_no_device_found">Sau khi bật nguồn các thiết bị Gear, chúng sẽ hiển thị tại đây.</string>
+    <string name="welcome_no_device_found_description">Nếu Gear được bật nguồn đúng cách nhưng không hiển thị ở đây, hãy đi đến Cài đặt > Thông tin Gear, rồi chọn Đặt lại Gear trên Gear để khôi phục cài đặt gốc.</string>
+    <string name="welcome_no_device_found_title">Không có thiết bị Gear</string>
+    <string name="welcome_select_notice_not_enough_memory">Một số đồng hồ Gear chỉ có thể kết nối với điện thoại có bộ nhớ lớn hơn %1$s %2$s.</string>
+    <string name="welcome_select_your_gear">Chọn Gear của bạn</string>
+    <string name="welcome_select_your_gear_to_connect">Chọn Gear để kết nối.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Kết nối với Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear_tts">Phím</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Liên hệ với chúng tôi</string>
+    <string name="welcome_to_samsung_gear_promotion_desc2">Nâng cao trải nghiệm đeo thiết bị thông minh với Samsung Gear.</string>
+    <string name="welcome_to_samsung_gear_promotion_lear_more">Tìm hiểu thêm</string>
+    <string name="welcome_to_samsung_gear_promotion_permissions_explanation_text">Ứng dụng này có thể xác định vị trí của bạn và truy cập bộ nhớ thiết bị của bạn.</string>
+    <string name="welcome_to_samsung_gear_promotion_searching_gear">Đang tìm kiếm Gear…</string>
+    <string name="welcome_to_samsung_gear_promotion_title">Chào mừng</string>
+    <string name="which_gear">Đã phát hiện các Gear ở gần</string>
+</resources>
