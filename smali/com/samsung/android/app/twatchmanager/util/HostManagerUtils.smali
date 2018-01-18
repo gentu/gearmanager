@@ -4249,9 +4249,7 @@
 
     move-result-object v1
 
-    invoke-static {v1}, Lcom/samsung/android/app/twatchmanager/util/InstallationUtils;->hasInstallPermission(Landroid/content/Context;)Z
-
-    move-result v1
+    const/4 v1, 0x1
 
     if-eqz v1, :cond_0
 
@@ -4261,9 +4259,7 @@
 
     const-string v0, "SAMSUNG"
 
-    invoke-virtual {v1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
-
-    move-result v0
+    const/4 v0, 0x1
 
     sget-object v2, Lcom/samsung/android/app/twatchmanager/util/HostManagerUtils;->TAG:Ljava/lang/String;
 
