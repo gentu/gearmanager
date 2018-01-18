@@ -2781,21 +2781,7 @@
 .method public static isInstallFromPlaystore(Landroid/content/Context;)Z
     .locals 4
 
-    invoke-static {p0}, Lcom/samsung/android/app/twatchmanager/util/InstallationUtils;->hasInstallPermission(Landroid/content/Context;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_0
-
-    const-string v0, "com.android.vending"
-
-    invoke-static {p0, v0}, Lcom/samsung/android/app/twatchmanager/util/HostManagerUtils;->isExistPackage(Landroid/content/Context;Ljava/lang/String;)Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    const/4 v0, 0x1
+    const/4 v0, 0x0
 
     :goto_0
     sget-object v1, Lcom/samsung/android/app/twatchmanager/util/InstallationUtils;->TAG:Ljava/lang/String;
@@ -2821,11 +2807,6 @@
     invoke-static {v1, v2}, Lcom/samsung/android/app/twatchmanager/log/Log;->d(Ljava/lang/String;Ljava/lang/String;)V
 
     return v0
-
-    :cond_0
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method public static isInstallRequiredExceptionalCase(Landroid/content/Context;Ljava/lang/String;)Z
