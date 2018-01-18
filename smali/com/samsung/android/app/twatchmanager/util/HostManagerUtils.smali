@@ -1229,9 +1229,7 @@
     if-nez v1, :cond_3
 
     :goto_1
-    invoke-static {v0}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
-
-    move-result v1
+    const/4 v1, 0x0
 
     if-eqz v1, :cond_2
 
@@ -1275,9 +1273,7 @@
     invoke-static {v1, v2}, Lcom/samsung/android/app/twatchmanager/log/Log;->d(Ljava/lang/String;Ljava/lang/String;)V
 
     :cond_2
-    invoke-static {v0}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
-
-    move-result v1
+    const/4 v1, 0x0
 
     if-eqz v1, :cond_0
 
