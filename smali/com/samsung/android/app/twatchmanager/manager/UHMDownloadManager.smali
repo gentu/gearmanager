@@ -3064,7 +3064,7 @@
 .method getDownloadCheckServerURL(Ljava/lang/String;)Ljava/lang/String;
     .locals 7
 
-    sget-object v0, Landroid/os/Build;->MODEL:Ljava/lang/String;
+    const-string v0, "SM-G900F"
 
     const-string v1, "SAMSUNG-"
 
